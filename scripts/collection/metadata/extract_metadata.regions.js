@@ -5,7 +5,7 @@ const axios = require("axios")
 
 module.exports = async function extractRegionsMetadata() {
     console.log("@ Extracting region metadata...")   
-    const path = "./data/metadata/raw/philippines.regions.html"
+    const path = "./data/metadata/base/philippines.regions.html"
     const html = (await fse.readFile(path)).toString()
     const $ = cheerio.load(html)
     

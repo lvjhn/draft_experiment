@@ -33,7 +33,7 @@
         - **Not Included** - Future Recommendation 
 
 
-1. **Meta Articles** 
+1. **Metadata (Part A) Articles** 
     - These articles are used to find locations and relevant information or
       articles about them. 
     - Involved Articles : 
@@ -43,10 +43,16 @@
             - https://en.wikipedia.org/wiki/Provinces_of_the_Philippines
         - **Congressional Districts of the Philippines** 
             - https://en.wikipedia.org/wiki/Congressional_districts_of_the_Philippines
-        - **List of Cities in the Philippines**     
-            - https://en.wikipedia.org/wiki/List_of_cities_in_the_Philippines
         - **List of Municipalities/Cities in the Philippines** 
             - https://en.wikipedia.org/wiki/List_of_cities_and_municipalities_in_the_Philippines
 
 
+## Installation 
+1. (Optional) Copy the Involved Articles (if updated) Metadata articles in 
+   Part-A in `./data/metadata/base` folder with the following names respectively:
+    - `philippines.regions.html` 
+    - `philippines.provinces.html` 
+    - `philippines.district.html`
+    - `philippines.cities.html`
+    - `philippines.municiites.html`
 
