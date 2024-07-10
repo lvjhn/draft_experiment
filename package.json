@@ -1,26 +1,3 @@
-{
-  "name": "experiment",
-  "version": "1.0.0",
-  "description": "## General Statistics (July 2024) * **No. of Regions** - 17  * **No. of Provinces** - 82  * **No. of Districts** - 253  * **No. of Cities** - 149   * **No. of Municipalities** - 1,494  * **No. of Barangays** - 42,029",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "postinstall": "ln -Fsn ../ ./node_modules/_ "
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/levijohn/experiment.git"
-  },
-  "author": "",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/levijohn/experiment/issues"
-  },
-  "homepage": "https://github.com/levijohn/experiment#readme",
-  "dependencies": {
-    "axios": "^1.7.2",
-    "cheerio": "^1.0.0-rc.12",
-    "fs-extra": "^11.2.0",
-    "svgson": "^5.3.1"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:814018329d7e6064ee67150604390132e5c7ce446a24b4571d0abfb8ba1e3305
+size 844
