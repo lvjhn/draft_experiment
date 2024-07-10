@@ -65,6 +65,6 @@ async function extractSubpaths(context, filter = null) {
     await extractNoBorders()
     await extractSubpaths("regions")
     await extractSubpaths("provinces")
-    await extractSubpaths("districts")
     await extractSubpaths("municities", "[data-municipality]")
+    // [TODO] : the district subpaths will be derived later
 })()
