@@ -4,7 +4,7 @@ const headerMap = require("_/scripts/helpers/headerMap.js")
 const axios = require("axios")
 
 module.exports = async function extractDistrictsMetadata() {
-    console.log("@ Extracting districts metadata...")   
+    console.log("@ Extracting district metadata...")   
     const path = "./data/metadata/raw/philippines.districts.html"
     const html = (await fse.readFile(path)).toString()
     const $ = cheerio.load(html)
@@ -47,7 +47,8 @@ module.exports = async function extractDistrictsMetadata() {
             
             // process location data 
             if(i == _headerMap["district"]) {
-               let name = $el.text()
+                let name = $el.text()
+                let link = $el.find("a").attr("href")
 
                 if(name.indexOf("'s ") != -1) {
                     name = name.split("'s ")    
@@ -74,6 +75,7 @@ module.exports = async function extractDistrictsMetadata() {
                 
                rowData["province"] = province.trim()
                rowData["district"] = district.trim()
+               rowData["link"] = link
             }
             
             // process region 
@@ -111,6 +113,7 @@ module.exports = async function extractDistrictsMetadata() {
                 let party = $el.text().trim()
                 rowData["party"] = party
             }
+            
         })
 
         rows.push(rowData)
@@ -123,7 +126,7 @@ module.exports = async function extractDistrictsMetadata() {
     // write data 
     const stringified = JSON.stringify(data, null, 4) 
     await fse.writeFile(
-        "./data/metadata/raw-json/philippines.districts.json",
+        "./data/metadata/part-a/philippines.districts.json",
         stringified
     )
     

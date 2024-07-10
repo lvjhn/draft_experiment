@@ -130,7 +130,7 @@ module.exports = async function extractRegionsMetadata() {
     // write data 
     const stringified = JSON.stringify(data, null, 4) 
     await fse.writeFile(
-        "./data/metadata/raw-json/philippines.regions.json",
+        "./data/metadata/part-a/philippines.regions.json",
         stringified
     )
     

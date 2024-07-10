@@ -13,6 +13,7 @@
         {
             "province": "Abra",
             "district": "at-large",
+            "link": "https://en.wikipedia.org/wiki/Abra%27s_at-large_congressional_district",
             "region": "CAR",
             "electorate": 177058,
             "population": 250985,
@@ -23,6 +24,7 @@
         {
             "province": "Agusan del Norte",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Agusan_del_Norte%27s_1st_congressional_district",
             "region": "XIII",
             "electorate": 238541,
             "population": 403150,
@@ -33,6 +35,7 @@
         {
             "province": "Agusan del Norte",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Agusan_del_Norte%27s_2nd_congressional_district",
             "region": "XIII",
             "electorate": 239118,
             "population": 357263,
@@ -43,6 +46,7 @@
         {
             "province": "Agusan del Sur",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Agusan_del_Sur%27s_1st_congressional_district",
             "region": "XIII",
             "electorate": 201019,
             "population": 366004,
@@ -53,6 +57,7 @@
         {
             "province": "Agusan del Sur",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Agusan_del_Sur%27s_2nd_congressional_district",
             "region": "XIII",
             "electorate": 222211,
             "population": 373363,
@@ -63,6 +68,7 @@
         {
             "province": "Aklan",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Aklan%27s_1st_congressional_district",
             "region": "VI",
             "electorate": 200459,
             "population": 313775,
@@ -73,6 +79,7 @@
         {
             "province": "Aklan",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Aklan%27s_2nd_congressional_district",
             "region": "VI",
             "electorate": 189901,
             "population": 301700,
@@ -83,6 +90,7 @@
         {
             "province": "Albay",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Albay%27s_1st_congressional_district",
             "region": "V",
             "electorate": 249910,
             "population": 395907,
@@ -93,6 +101,7 @@
         {
             "province": "Albay",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Albay%27s_2nd_congressional_district",
             "region": "V",
             "electorate": 281679,
             "population": 477781,
@@ -103,6 +112,7 @@
         {
             "province": "Albay",
             "district": "3",
+            "link": "https://en.wikipedia.org/wiki/Albay%27s_3rd_congressional_district",
             "region": "V",
             "electorate": 308911,
             "population": 501080,
@@ -113,6 +123,7 @@
         {
             "province": "Antipolo",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Antipolo%27s_1st_congressional_district",
             "region": "IV-A",
             "electorate": 224611,
             "population": 379568,
@@ -123,6 +134,7 @@
         {
             "province": "Antipolo",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Antipolo%27s_2nd_congressional_district",
             "region": "IV-A",
             "electorate": 257451,
             "population": 507831,
@@ -133,6 +145,7 @@
         {
             "province": "Antique",
             "district": "at-large",
+            "link": "https://en.wikipedia.org/wiki/Antique%27s_at-large_congressional_district",
             "region": "VI",
             "electorate": 371244,
             "population": 612974,
@@ -143,6 +156,7 @@
         {
             "province": "Apayao",
             "district": "at-large",
+            "link": "https://en.wikipedia.org/wiki/Apayao%27s_at-large_congressional_district",
             "region": "CAR",
             "electorate": 74743,
             "population": 124366,
@@ -153,6 +167,7 @@
         {
             "province": "Aurora",
             "district": "at-large",
+            "link": "https://en.wikipedia.org/wiki/Aurora%27s_at-large_congressional_district",
             "region": "III",
             "electorate": 145617,
             "population": 235750,
@@ -163,6 +178,7 @@
         {
             "province": "Bacolod",
             "district": "at-large",
+            "link": "https://en.wikipedia.org/wiki/Bacolod%27s_at-large_congressional_district",
             "region": "VI",
             "electorate": 312816,
             "population": 600783,
@@ -173,6 +189,7 @@
         {
             "province": "Baguio",
             "district": "at-large",
+            "link": "https://en.wikipedia.org/wiki/Baguio%27s_at-large_congressional_district",
             "region": "CAR",
             "electorate": 164125,
             "population": 366358,
@@ -183,6 +200,7 @@
         {
             "province": "Basilan",
             "district": "at-large",
+            "link": "https://en.wikipedia.org/wiki/Basilan%27s_at-large_congressional_district",
             "region": "BARMM",
             "electorate": 263017,
             "population": 556586,
@@ -193,6 +211,7 @@
         {
             "province": "Bataan",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Bataan%27s_1st_congressional_district",
             "region": "III",
             "electorate": 150127,
             "population": 229071,
@@ -203,6 +222,7 @@
         {
             "province": "Bataan",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Bataan%27s_2nd_congressional_district",
             "region": "III",
             "electorate": 194748,
             "population": 289455,
@@ -213,6 +233,7 @@
         {
             "province": "Bataan",
             "district": "3",
+            "link": "https://en.wikipedia.org/wiki/Bataan%27s_3rd_congressional_district",
             "region": "III",
             "electorate": 210632,
             "population": 334847,
@@ -223,6 +244,7 @@
         {
             "province": "Batanes",
             "district": "at-large",
+            "link": "https://en.wikipedia.org/wiki/Batanes%27s_at-large_congressional_district",
             "region": "II",
             "electorate": 12204,
             "population": 18831,
@@ -233,6 +255,7 @@
         {
             "province": "Batangas",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Batangas%27s_1st_congressional_district",
             "region": "IV-A",
             "electorate": 378526,
             "population": 635962,
@@ -243,6 +266,7 @@
         {
             "province": "Batangas",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Batangas%27s_2nd_congressional_district",
             "region": "IV-A",
             "electorate": 193151,
             "population": 306809,
@@ -253,6 +277,7 @@
         {
             "province": "Batangas",
             "district": "3",
+            "link": "https://en.wikipedia.org/wiki/Batangas%27s_3rd_congressional_district",
             "region": "IV-A",
             "electorate": 430588,
             "population": 768561,
@@ -263,6 +288,7 @@
         {
             "province": "Batangas",
             "district": "4",
+            "link": "https://en.wikipedia.org/wiki/Batangas%27s_4th_congressional_district",
             "region": "IV-A",
             "electorate": 291063,
             "population": 472794,
@@ -273,6 +299,7 @@
         {
             "province": "Batangas",
             "district": "5",
+            "link": "https://en.wikipedia.org/wiki/Batangas%27s_5th_congressional_district",
             "region": "IV-A",
             "electorate": 223258,
             "population": 351437,
@@ -283,6 +310,7 @@
         {
             "province": "Batangas",
             "district": "6",
+            "link": "https://en.wikipedia.org/wiki/Batangas%27s_6th_congressional_district",
             "region": "IV-A",
             "electorate": 200706,
             "population": 372931,
@@ -292,6 +320,7 @@
         {
             "province": "Benguet",
             "district": "at-large",
+            "link": "https://en.wikipedia.org/wiki/Legislative_districts_of_Benguet",
             "region": "CAR",
             "electorate": 227033,
             "population": 460683,
@@ -302,6 +331,7 @@
         {
             "province": "Biliran",
             "district": "at-large",
+            "link": "https://en.wikipedia.org/wiki/Biliran%27s_at-large_congressional_district",
             "region": "VIII",
             "electorate": 121755,
             "population": 179312,
@@ -312,6 +342,7 @@
         {
             "province": "Biñan",
             "district": "at-large",
+            "link": "https://en.wikipedia.org/wiki/Bi%C3%B1an%27s_at-large_congressional_district",
             "region": "IV-A",
             "electorate": 194174,
             "population": 407437,
@@ -322,6 +353,7 @@
         {
             "province": "Bohol",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Bohol%27s_1st_congressional_district",
             "region": "VII",
             "electorate": 299640,
             "population": 470599,
@@ -332,6 +364,7 @@
         {
             "province": "Bohol",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Bohol%27s_2nd_congressional_district",
             "region": "VII",
             "electorate": 293141,
             "population": 471025,
@@ -342,6 +375,7 @@
         {
             "province": "Bohol",
             "district": "3",
+            "link": "https://en.wikipedia.org/wiki/Bohol%27s_3rd_congressional_district",
             "region": "VII",
             "electorate": 305901,
             "population": 452705,
@@ -352,6 +386,7 @@
         {
             "province": "Bukidnon",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Bukidnon%27s_1st_congressional_district",
             "region": "X",
             "electorate": 192203,
             "population": 332575,
@@ -362,6 +397,7 @@
         {
             "province": "Bukidnon",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Bukidnon%27s_2nd_congressional_district",
             "region": "X",
             "electorate": 223518,
             "population": 409880,
@@ -372,6 +408,7 @@
         {
             "province": "Bukidnon",
             "district": "3",
+            "link": "https://en.wikipedia.org/wiki/Bukidnon%27s_3rd_congressional_district",
             "region": "X",
             "electorate": 285392,
             "population": 482016,
@@ -382,6 +419,7 @@
         {
             "province": "Bukidnon",
             "district": "4",
+            "link": "https://en.wikipedia.org/wiki/Bukidnon%27s_4th_congressional_district",
             "region": "X",
             "electorate": 174521,
             "population": 316837,
@@ -392,6 +430,7 @@
         {
             "province": "Bulacan",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Bulacan%27s_1st_congressional_district",
             "region": "III",
             "electorate": 413788,
             "population": 758872,
@@ -402,6 +441,7 @@
         {
             "province": "Bulacan",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Bulacan%27s_2nd_congressional_district",
             "region": "III",
             "electorate": 224922,
             "population": 360101,
@@ -412,6 +452,7 @@
         {
             "province": "Bulacan",
             "district": "3",
+            "link": "https://en.wikipedia.org/wiki/Bulacan%27s_3rd_congressional_district",
             "region": "III",
             "electorate": 265734,
             "population": 419539,
@@ -422,6 +463,7 @@
         {
             "province": "Bulacan",
             "district": "4",
+            "link": "https://en.wikipedia.org/wiki/Bulacan%27s_4th_congressional_district",
             "region": "III",
             "electorate": 265701,
             "population": 540104,
@@ -432,6 +474,7 @@
         {
             "province": "Bulacan",
             "district": "5",
+            "link": "https://en.wikipedia.org/wiki/Bulacan%27s_5th_congressional_district",
             "region": "III",
             "electorate": 291581,
             "population": 486960,
@@ -442,6 +485,7 @@
         {
             "province": "Bulacan",
             "district": "6",
+            "link": "https://en.wikipedia.org/wiki/Bulacan%27s_6th_congressional_district",
             "region": "III",
             "electorate": 251896,
             "population": 491501,
@@ -452,6 +496,7 @@
         {
             "province": "Cagayan",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Cagayan%27s_1st_congressional_district",
             "region": "II",
             "electorate": 261650,
             "population": 459819,
@@ -462,6 +507,7 @@
         {
             "province": "Cagayan",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Cagayan%27s_2nd_congressional_district",
             "region": "II",
             "electorate": 199907,
             "population": 322634,
@@ -472,6 +518,7 @@
         {
             "province": "Cagayan",
             "district": "3",
+            "link": "https://en.wikipedia.org/wiki/Cagayan%27s_3rd_congressional_district",
             "region": "II",
             "electorate": 273443,
             "population": 486150,
@@ -482,6 +529,7 @@
         {
             "province": "Cagayan de Oro",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Cagayan_de_Oro%27s_1st_congressional_district",
             "region": "X",
             "electorate": 165144,
             "population": 383945,
@@ -492,6 +540,7 @@
         {
             "province": "Cagayan de Oro",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Cagayan_de_Oro%27s_2nd_congressional_district",
             "region": "X",
             "electorate": 180214,
             "population": 344457,
@@ -502,6 +551,7 @@
         {
             "province": "Calamba",
             "district": "at-large",
+            "link": "https://en.wikipedia.org/wiki/Calamba%27s_at-large_congressional_district",
             "region": "IV-A",
             "electorate": 310090,
             "population": 539671,
@@ -512,6 +562,7 @@
         {
             "province": "Caloocan",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Caloocan%27s_1st_congressional_district",
             "region": "NCR",
             "electorate": 478335,
             "population": 952125,
@@ -522,6 +573,7 @@
         {
             "province": "Caloocan",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Caloocan%27s_2nd_congressional_district",
             "region": "NCR",
             "electorate": 241112,
             "population": 381690,
@@ -532,6 +584,7 @@
         {
             "province": "Caloocan",
             "district": "3",
+            "link": "https://en.wikipedia.org/wiki/Caloocan%27s_3rd_congressional_district",
             "region": "NCR",
             "electorate": 124219,
             "population": 327769,
@@ -542,6 +595,7 @@
         {
             "province": "Camarines Norte",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Camarines_Norte%27s_1st_congressional_district",
             "region": "V",
             "electorate": 174528,
             "population": 312910,
@@ -552,6 +606,7 @@
         {
             "province": "Camarines Norte",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Camarines_Norte%27s_2nd_congressional_district",
             "region": "V",
             "electorate": 176986,
             "population": 316789,
@@ -562,6 +617,7 @@
         {
             "province": "Camarines Sur",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Camarines_Sur%27s_1st_congressional_district",
             "region": "V",
             "electorate": 127363,
             "population": 207496,
@@ -572,6 +628,7 @@
         {
             "province": "Camarines Sur",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Camarines_Sur%27s_2nd_congressional_district",
             "region": "V",
             "electorate": 205986,
             "population": 343942,
@@ -582,6 +639,7 @@
         {
             "province": "Camarines Sur",
             "district": "3",
+            "link": "https://en.wikipedia.org/wiki/Camarines_Sur%27s_3rd_congressional_district",
             "region": "V",
             "electorate": 304431,
             "population": 554323,
@@ -592,6 +650,7 @@
         {
             "province": "Camarines Sur",
             "district": "4",
+            "link": "https://en.wikipedia.org/wiki/Camarines_Sur%27s_4th_congressional_district",
             "region": "V",
             "electorate": 275070,
             "population": 462770,
@@ -602,6 +661,7 @@
         {
             "province": "Camarines Sur",
             "district": "5",
+            "link": "https://en.wikipedia.org/wiki/Camarines_Sur%27s_5th_congressional_district",
             "region": "V",
             "electorate": 286759,
             "population": 499713,
@@ -612,6 +672,7 @@
         {
             "province": "Camiguin",
             "district": "at-large",
+            "link": "https://en.wikipedia.org/wiki/Camiguin%27s_at-large_congressional_district",
             "region": "X",
             "electorate": 63756,
             "population": 92808,
@@ -622,6 +683,7 @@
         {
             "province": "Capiz",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Capiz%27s_1st_congressional_district",
             "region": "VI",
             "electorate": 269589,
             "population": 440067,
@@ -632,6 +694,7 @@
         {
             "province": "Capiz",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Capiz%27s_2nd_congressional_district",
             "region": "VI",
             "electorate": 243740,
             "population": 364885,
@@ -642,6 +705,7 @@
         {
             "province": "Catanduanes",
             "district": "at-large",
+            "link": "https://en.wikipedia.org/wiki/Catanduanes%27s_at-large_congressional_district",
             "region": "V",
             "electorate": 196405,
             "population": 271879,
@@ -652,6 +716,7 @@
         {
             "province": "Cavite",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Cavite%27s_1st_congressional_district",
             "region": "IV-A",
             "electorate": 235912,
             "population": 368468,
@@ -662,6 +727,7 @@
         {
             "province": "Cavite",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Cavite%27s_2nd_congressional_district",
             "region": "IV-A",
             "electorate": 303084,
             "population": 664625,
@@ -672,6 +738,7 @@
         {
             "province": "Cavite",
             "district": "3",
+            "link": "https://en.wikipedia.org/wiki/Cavite%27s_3rd_congressional_district",
             "region": "IV-A",
             "electorate": 215939,
             "population": 496794,
@@ -682,6 +749,7 @@
         {
             "province": "Cavite",
             "district": "4",
+            "link": "https://en.wikipedia.org/wiki/Cavite%27s_4th_congressional_district",
             "region": "IV-A",
             "electorate": 389108,
             "population": 703141,
@@ -691,6 +759,7 @@
         {
             "province": "Cavite",
             "district": "5",
+            "link": "https://en.wikipedia.org/wiki/Cavite%27s_5th_congressional_district",
             "region": "IV-A",
             "electorate": 280805,
             "population": 574333,
@@ -701,6 +770,7 @@
         {
             "province": "Cavite",
             "district": "6",
+            "link": "https://en.wikipedia.org/wiki/Cavite%27s_6th_congressional_district",
             "region": "IV-A",
             "electorate": 169045,
             "population": 450583,
@@ -711,6 +781,7 @@
         {
             "province": "Cavite",
             "district": "7",
+            "link": "https://en.wikipedia.org/wiki/Cavite%27s_7th_congressional_district",
             "region": "IV-A",
             "electorate": 297214,
             "population": 633219,
@@ -721,6 +792,7 @@
         {
             "province": "Cavite",
             "district": "8",
+            "link": "https://en.wikipedia.org/wiki/Cavite%27s_8th_congressional_district",
             "region": "IV-A",
             "electorate": 257792,
             "population": 453666,
@@ -731,6 +803,7 @@
         {
             "province": "Cebu",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Cebu%27s_1st_congressional_district",
             "region": "VII",
             "electorate": 431872,
             "population": 809335,
@@ -741,6 +814,7 @@
         {
             "province": "Cebu",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Cebu%27s_2nd_congressional_district",
             "region": "VII",
             "electorate": 161412,
             "population": 257658,
@@ -751,6 +825,7 @@
         {
             "province": "Cebu",
             "district": "3",
+            "link": "https://en.wikipedia.org/wiki/Cebu%27s_3rd_congressional_district",
             "region": "VII",
             "electorate": 369340,
             "population": 616326,
@@ -761,6 +836,7 @@
         {
             "province": "Cebu",
             "district": "4",
+            "link": "https://en.wikipedia.org/wiki/Cebu%27s_4th_congressional_district",
             "region": "VII",
             "electorate": 323278,
             "population": 540814,
@@ -771,6 +847,7 @@
         {
             "province": "Cebu",
             "district": "5",
+            "link": "https://en.wikipedia.org/wiki/Cebu%27s_5th_congressional_district",
             "region": "VII",
             "electorate": 366162,
             "population": 643946,
@@ -781,6 +858,7 @@
         {
             "province": "Cebu",
             "district": "6",
+            "link": "https://en.wikipedia.org/wiki/Cebu%27s_6th_congressional_district",
             "region": "VII",
             "electorate": 350166,
             "population": 218607,
@@ -791,6 +869,7 @@
         {
             "province": "Cebu",
             "district": "7",
+            "link": "https://en.wikipedia.org/wiki/Cebu%27s_7th_congressional_district",
             "region": "VII",
             "electorate": 156665,
             "population": 238699,
@@ -801,6 +880,7 @@
         {
             "province": "Cebu City",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Cebu_City%27s_1st_congressional_district",
             "region": "VII",
             "electorate": 325577,
             "population": 406378,
@@ -811,6 +891,7 @@
         {
             "province": "Cebu City",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Cebu_City%27s_2nd_congressional_district",
             "region": "VII",
             "electorate": 384031,
             "population": 557791,
@@ -821,6 +902,7 @@
         {
             "province": "Cotabato",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Cotabato%27s_1st_congressional_district",
             "region": "XII",
             "electorate": 269395,
             "population": 569265,
@@ -831,6 +913,7 @@
         {
             "province": "Cotabato",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Cotabato%27s_2nd_congressional_district",
             "region": "XII",
             "electorate": 250013,
             "population": 432405,
@@ -841,6 +924,7 @@
         {
             "province": "Cotabato",
             "district": "3",
+            "link": "https://en.wikipedia.org/wiki/Cotabato%27s_3rd_congressional_district",
             "region": "XII",
             "electorate": 253883,
             "population": 488948,
@@ -851,6 +935,7 @@
         {
             "province": "Davao City",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Davao_City%27s_1st_congressional_district",
             "region": "XI",
             "electorate": 389332,
             "population": 618729,
@@ -861,6 +946,7 @@
         {
             "province": "Davao City",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Davao_City%27s_2nd_congressional_district",
             "region": "XI",
             "electorate": 308189,
             "population": 634158,
@@ -871,6 +957,7 @@
         {
             "province": "Davao City",
             "district": "3",
+            "link": "https://en.wikipedia.org/wiki/Davao_City%27s_3rd_congressional_district",
             "region": "XI",
             "electorate": 287083,
             "population": 524062,
@@ -881,6 +968,7 @@
         {
             "province": "Davao de Oro",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Davao_de_Oro%27s_1st_congressional_district",
             "region": "XI",
             "electorate": 210940,
             "population": 346257,
@@ -891,6 +979,7 @@
         {
             "province": "Davao de Oro",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Davao_de_Oro%27s_2nd_congressional_district",
             "region": "XI",
             "electorate": 252002,
             "population": 421290,
@@ -901,6 +990,7 @@
         {
             "province": "Davao del Norte",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Davao_del_Norte%27s_1st_congressional_district",
             "region": "XI",
             "electorate": 301337,
             "population": 552642,
@@ -911,6 +1001,7 @@
         {
             "province": "Davao del Norte",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Davao_del_Norte%27s_2nd_congressional_district",
             "region": "XI",
             "electorate": 304306,
             "population": 572415,
@@ -921,6 +1012,7 @@
         {
             "province": "Davao del Sur",
             "district": "at-large",
+            "link": "https://en.wikipedia.org/wiki/Davao_del_Sur%27s_at-large_congressional_district",
             "region": "XI",
             "electorate": 425586,
             "population": 680481,
@@ -931,6 +1023,7 @@
         {
             "province": "Davao Occidental",
             "district": "at-large",
+            "link": "https://en.wikipedia.org/wiki/Davao_Occidental%27s_at-large_congressional_district",
             "region": "XI",
             "electorate": 182122,
             "population": 317159,
@@ -941,6 +1034,7 @@
         {
             "province": "Davao Oriental",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Davao_Oriental%27s_1st_congressional_district",
             "region": "XI",
             "electorate": 145291,
             "population": 223811,
@@ -951,6 +1045,7 @@
         {
             "province": "Davao Oriental",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Davao_Oriental%27s_2nd_congressional_district",
             "region": "XI",
             "electorate": 220205,
             "population": 352532,
@@ -961,6 +1056,7 @@
         {
             "province": "Dinagat Islands",
             "district": "at-large",
+            "link": "https://en.wikipedia.org/wiki/Dinagat_Islands%27s_at-large_congressional_district",
             "region": "XIII",
             "electorate": 78795,
             "population": 128117,
@@ -971,6 +1067,7 @@
         {
             "province": "Eastern Samar",
             "district": "at-large",
+            "link": "https://en.wikipedia.org/wiki/Eastern_Samar%27s_at-large_congressional_district",
             "region": "VIII",
             "electorate": 338718,
             "population": 477168,
@@ -981,6 +1078,7 @@
         {
             "province": "General Santos",
             "district": "at-large",
+            "link": "https://en.wikipedia.org/wiki/General_Santos%27_at-large_congressional_district",
             "region": "XII",
             "electorate": 301106,
             "population": 697315,
@@ -991,6 +1089,7 @@
         {
             "province": "Guimaras",
             "district": "at-large",
+            "link": "https://en.wikipedia.org/wiki/Guimaras%27s_at-large_congressional_district",
             "region": "VI",
             "electorate": 119538,
             "population": 187842,
@@ -1001,6 +1100,7 @@
         {
             "province": "Ifugao",
             "district": "at-large",
+            "link": "https://en.wikipedia.org/wiki/Legislative_districts_of_Ifugao",
             "region": "CAR",
             "electorate": 124289,
             "population": 207498,
@@ -1011,6 +1111,7 @@
         {
             "province": "Iligan",
             "district": "at-large",
+            "link": "https://en.wikipedia.org/wiki/Iligan%27s_at-large_congressional_district",
             "region": "X",
             "electorate": 184058,
             "population": 363115,
@@ -1021,6 +1122,7 @@
         {
             "province": "Ilocos Norte",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Ilocos_Norte%27s_1st_congressional_district",
             "region": "I",
             "electorate": 218493,
             "population": 313584,
@@ -1031,6 +1133,7 @@
         {
             "province": "Ilocos Norte",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Ilocos_Norte%27s_2nd_congressional_district",
             "region": "I",
             "electorate": 197740,
             "population": 296004,
@@ -1041,6 +1144,7 @@
         {
             "province": "Ilocos Sur",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Ilocos_Sur%27s_1st_congressional_district",
             "region": "I",
             "electorate": 190952,
             "population": 298333,
@@ -1051,6 +1155,7 @@
         {
             "province": "Ilocos Sur",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Ilocos_Sur%27s_2nd_congressional_district",
             "region": "I",
             "electorate": 266818,
             "population": 407676,
@@ -1061,6 +1166,7 @@
         {
             "province": "Iloilo",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Iloilo%27s_1st_congressional_district",
             "region": "VI",
             "electorate": 220068,
             "population": 374726,
@@ -1071,6 +1177,7 @@
         {
             "province": "Iloilo",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Iloilo%27s_2nd_congressional_district",
             "region": "VI",
             "electorate": 204119,
             "population": 346189,
@@ -1081,6 +1188,7 @@
         {
             "province": "Iloilo",
             "district": "3",
+            "link": "https://en.wikipedia.org/wiki/Iloilo%27s_3rd_congressional_district",
             "region": "VI",
             "electorate": 260489,
             "population": 456006,
@@ -1091,6 +1199,7 @@
         {
             "province": "Iloilo",
             "district": "4",
+            "link": "https://en.wikipedia.org/wiki/Iloilo%27s_4th_congressional_district",
             "region": "VI",
             "electorate": 250384,
             "population": 402317,
@@ -1101,6 +1210,7 @@
         {
             "province": "Iloilo",
             "district": "5",
+            "link": "https://en.wikipedia.org/wiki/Iloilo%27s_5th_congressional_district",
             "region": "VI",
             "electorate": 295332,
             "population": 472661,
@@ -1111,6 +1221,7 @@
         {
             "province": "Iloilo City",
             "district": "at-large",
+            "link": "https://en.wikipedia.org/wiki/Iloilo_City%27s_at-large_congressional_district",
             "region": "VI",
             "electorate": 294776,
             "population": 457626,
@@ -1121,6 +1232,7 @@
         {
             "province": "Isabela",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Isabela%27s_1st_congressional_district",
             "region": "II",
             "electorate": 246572,
             "population": 399196,
@@ -1131,6 +1243,7 @@
         {
             "province": "Isabela",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Isabela%27s_2nd_congressional_district",
             "region": "II",
             "electorate": 119263,
             "population": 199903,
@@ -1141,6 +1254,7 @@
         {
             "province": "Isabela",
             "district": "3",
+            "link": "https://en.wikipedia.org/wiki/Isabela%27s_3rd_congressional_district",
             "region": "II",
             "electorate": 168562,
             "population": 282027,
@@ -1151,6 +1265,7 @@
         {
             "province": "Isabela",
             "district": "4",
+            "link": "https://en.wikipedia.org/wiki/Isabela%27s_4th_congressional_district",
             "region": "II",
             "electorate": 181913,
             "population": 268602,
@@ -1161,6 +1276,7 @@
         {
             "province": "Isabela",
             "district": "5",
+            "link": "https://en.wikipedia.org/wiki/Isabela%27s_5th_congressional_district",
             "region": "II",
             "electorate": 167755,
             "population": 267550,
@@ -1171,6 +1287,7 @@
         {
             "province": "Isabela",
             "district": "6",
+            "link": "https://en.wikipedia.org/wiki/Isabela%27s_6th_congressional_district",
             "region": "II",
             "electorate": 166616,
             "population": 279772,
@@ -1181,6 +1298,7 @@
         {
             "province": "Kalinga",
             "district": "at-large",
+            "link": "https://en.wikipedia.org/wiki/Legislative_districts_of_Kalinga",
             "region": "CAR",
             "electorate": 137658,
             "population": 229570,
@@ -1191,6 +1309,7 @@
         {
             "province": "La Union",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/La_Union%27s_1st_congressional_district",
             "region": "I",
             "electorate": 233923,
             "population": 376529,
@@ -1201,6 +1320,7 @@
         {
             "province": "La Union",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/La_Union%27s_2nd_congressional_district",
             "region": "I",
             "electorate": 276786,
             "population": 445823,
@@ -1211,6 +1331,7 @@
         {
             "province": "Laguna",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Laguna%27s_1st_congressional_district",
             "region": "IV-A",
             "electorate": 399962,
             "population": 326001,
@@ -1221,6 +1342,7 @@
         {
             "province": "Laguna",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Laguna%27s_2nd_congressional_district",
             "region": "IV-A",
             "electorate": 314028,
             "population": 537865,
@@ -1231,6 +1353,7 @@
         {
             "province": "Laguna",
             "district": "3",
+            "link": "https://en.wikipedia.org/wiki/Laguna%27s_3rd_congressional_district",
             "region": "IV-A",
             "electorate": 319696,
             "population": 590757,
@@ -1241,6 +1364,7 @@
         {
             "province": "Laguna",
             "district": "4",
+            "link": "https://en.wikipedia.org/wiki/Laguna%27s_4th_congressional_district",
             "region": "IV-A",
             "electorate": 365157,
             "population": 565650,
@@ -1251,6 +1375,7 @@
         {
             "province": "Lanao del Norte",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Lanao_del_Norte%27s_1st_congressional_district",
             "region": "X",
             "electorate": 167566,
             "population": 321098,
@@ -1261,6 +1386,7 @@
         {
             "province": "Lanao del Norte",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Lanao_del_Norte%27s_2nd_congressional_district",
             "region": "X",
             "electorate": 186553,
             "population": 401804,
@@ -1271,6 +1397,7 @@
         {
             "province": "Lanao del Sur",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Lanao_del_Sur%27s_1st_congressional_district",
             "region": "BARMM",
             "electorate": 317928,
             "population": 686512,
@@ -1281,6 +1408,7 @@
         {
             "province": "Lanao del Sur",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Lanao_del_Sur%27s_2nd_congressional_district",
             "region": "BARMM",
             "electorate": 238863,
             "population": 509006,
@@ -1291,6 +1419,7 @@
         {
             "province": "Lapu-Lapu",
             "district": "at-large",
+            "link": "https://en.wikipedia.org/wiki/Lapu-Lapu%27s_at-large_congressional_district",
             "region": "VII",
             "electorate": 214117,
             "population": 497604,
@@ -1301,6 +1430,7 @@
         {
             "province": "Las Piñas",
             "district": "at-large",
+            "link": "https://en.wikipedia.org/wiki/Las_Pi%C3%B1as%27s_at-large_congressional_district",
             "region": "NCR",
             "electorate": 328384,
             "population": 606293,
@@ -1311,6 +1441,7 @@
         {
             "province": "Leyte",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Leyte%27s_1st_congressional_district",
             "region": "VIII",
             "electorate": 318057,
             "population": 534120,
@@ -1321,6 +1452,7 @@
         {
             "province": "Leyte",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Leyte%27s_2nd_congressional_district",
             "region": "VIII",
             "electorate": 279400,
             "population": 417651,
@@ -1331,6 +1463,7 @@
         {
             "province": "Leyte",
             "district": "3",
+            "link": "https://en.wikipedia.org/wiki/Leyte%27s_3rd_congressional_district",
             "region": "VIII",
             "electorate": 127704,
             "population": 179492,
@@ -1341,6 +1474,7 @@
         {
             "province": "Leyte",
             "district": "4",
+            "link": "https://en.wikipedia.org/wiki/Leyte%27s_4th_congressional_district",
             "region": "VIII",
             "electorate": 309550,
             "population": 492035,
@@ -1351,6 +1485,7 @@
         {
             "province": "Leyte",
             "district": "5",
+            "link": "https://en.wikipedia.org/wiki/Leyte%27s_5th_congressional_district",
             "region": "VIII",
             "electorate": 258171,
             "population": 405430,
@@ -1361,6 +1496,7 @@
         {
             "province": "Maguindanao del Norte",
             "district": "at-large",
+            "link": "https://en.wikipedia.org/wiki/Maguindanao_del_Norte%27s_at-large_congressional_district",
             "region": "BARMM",
             "electorate": 418672,
             "population": 926037,
@@ -1371,6 +1507,7 @@
         {
             "province": "Maguindanao del Sur",
             "district": "at-large",
+            "link": "https://en.wikipedia.org/wiki/Maguindanao_del_Sur%27s_at-large_congressional_district",
             "region": "BARMM",
             "electorate": 347825,
             "population": 741221,
@@ -1381,6 +1518,7 @@
         {
             "province": "Makati",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Makati%27s_1st_congressional_district",
             "region": "NCR",
             "electorate": 211303,
             "population": 254600,
@@ -1391,6 +1529,7 @@
         {
             "province": "Makati",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Makati%27s_2nd_congressional_district",
             "region": "NCR",
             "electorate": 241121,
             "population": 375016,
@@ -1401,6 +1540,7 @@
         {
             "province": "Malabon",
             "district": "at-large",
+            "link": "https://en.wikipedia.org/wiki/Malabon%27s_at-large_congressional_district",
             "region": "NCR",
             "electorate": 222350,
             "population": 380522,
@@ -1411,6 +1551,7 @@
         {
             "province": "Mandaluyong",
             "district": "at-large",
+            "link": "https://en.wikipedia.org/wiki/Mandaluyong%27s_at-large_congressional_district",
             "region": "NCR",
             "electorate": 229470,
             "population": 425758,
@@ -1421,6 +1562,7 @@
         {
             "province": "Mandaue",
             "district": "at-large",
+            "link": "https://en.wikipedia.org/wiki/Mandaue%27s_at-large_congressional_district",
             "region": "VII",
             "electorate": 226091,
             "population": 364116,
@@ -1431,6 +1573,7 @@
         {
             "province": "Manila",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Manila%27s_1st_congressional_district",
             "region": "NCR",
             "electorate": 238437,
             "population": 441282,
@@ -1441,6 +1584,7 @@
         {
             "province": "Manila",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Manila%27s_2nd_congressional_district",
             "region": "NCR",
             "electorate": 139169,
             "population": 212938,
@@ -1451,6 +1595,7 @@
         {
             "province": "Manila",
             "district": "3",
+            "link": "https://en.wikipedia.org/wiki/Manila%27s_3rd_congressional_district",
             "region": "NCR",
             "electorate": 159496,
             "population": 220029,
@@ -1461,6 +1606,7 @@
         {
             "province": "Manila",
             "district": "4",
+            "link": "https://en.wikipedia.org/wiki/Manila%27s_4th_congressional_district",
             "region": "NCR",
             "electorate": 162427,
             "population": 277013,
@@ -1471,6 +1617,7 @@
         {
             "province": "Manila",
             "district": "5",
+            "link": "https://en.wikipedia.org/wiki/Manila%27s_5th_congressional_district",
             "region": "NCR",
             "electorate": 209481,
             "population": 395065,
@@ -1481,6 +1628,7 @@
         {
             "province": "Manila",
             "district": "6",
+            "link": "https://en.wikipedia.org/wiki/Manila%27s_6th_congressional_district",
             "region": "NCR",
             "electorate": 156139,
             "population": 300186,
@@ -1491,6 +1639,7 @@
         {
             "province": "Marikina",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Marikina%27s_1st_congressional_district",
             "region": "NCR",
             "electorate": 106706,
             "population": 174892,
@@ -1501,6 +1650,7 @@
         {
             "province": "Marikina",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Marikina%27s_2nd_congressional_district",
             "region": "NCR",
             "electorate": 139395,
             "population": 281167,
@@ -1511,6 +1661,7 @@
         {
             "province": "Marinduque",
             "district": "at-large",
+            "link": "https://en.wikipedia.org/wiki/Marinduque%27s_at-large_congressional_district",
             "region": "IV-B",
             "electorate": 152570,
             "population": 239207,
@@ -1521,6 +1672,7 @@
         {
             "province": "Masbate",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Masbate%27s_1st_congressional_district",
             "region": "V",
             "electorate": 116767,
             "population": 177651,
@@ -1531,6 +1683,7 @@
         {
             "province": "Masbate",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Masbate%27s_2nd_congressional_district",
             "region": "V",
             "electorate": 239021,
             "population": 404366,
@@ -1541,6 +1694,7 @@
         {
             "province": "Masbate",
             "district": "3",
+            "link": "https://en.wikipedia.org/wiki/Masbate%27s_3rd_congressional_district",
             "region": "V",
             "electorate": 210791,
             "population": 326903,
@@ -1551,6 +1705,7 @@
         {
             "province": "Misamis Occidental",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Misamis_Occidental%27s_1st_congressional_district",
             "region": "X",
             "electorate": 193312,
             "population": 276762,
@@ -1561,6 +1716,7 @@
         {
             "province": "Misamis Occidental",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Misamis_Occidental%27s_2nd_congressional_district",
             "region": "X",
             "electorate": 215525,
             "population": 340571,
@@ -1571,6 +1727,7 @@
         {
             "province": "Misamis Oriental",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Misamis_Oriental%27s_1st_congressional_district",
             "region": "X",
             "electorate": 274450,
             "population": 405763,
@@ -1581,6 +1738,7 @@
         {
             "province": "Misamis Oriental",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Misamis_Oriental%27s_2nd_congressional_district",
             "region": "X",
             "electorate": 349580,
             "population": 551137,
@@ -1591,6 +1749,7 @@
         {
             "province": "Mountain Province",
             "district": "at-large",
+            "link": "https://en.wikipedia.org/wiki/Legislative_districts_of_Mountain_Province",
             "region": "CAR",
             "electorate": 108512,
             "population": 158200,
@@ -1601,6 +1760,7 @@
         {
             "province": "Muntinlupa",
             "district": "at-large",
+            "link": "https://en.wikipedia.org/wiki/Muntinlupa%27s_at-large_congressional_district",
             "region": "NCR",
             "electorate": 341511,
             "population": 543445,
@@ -1611,6 +1771,7 @@
         {
             "province": "Navotas",
             "district": "at-large",
+            "link": "https://en.wikipedia.org/wiki/Navotas%27s_at-large_congressional_district",
             "region": "NCR",
             "electorate": 145806,
             "population": 247543,
@@ -1621,6 +1782,7 @@
         {
             "province": "Negros Occidental",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Negros_Occidental%27s_1st_congressional_district",
             "region": "VI",
             "electorate": 249468,
             "population": 381716,
@@ -1631,6 +1793,7 @@
         {
             "province": "Negros Occidental",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Negros_Occidental%27s_2nd_congressional_district",
             "region": "VI",
             "electorate": 206751,
             "population": 362521,
@@ -1641,6 +1804,7 @@
         {
             "province": "Negros Occidental",
             "district": "3",
+            "link": "https://en.wikipedia.org/wiki/Negros_Occidental%27s_3rd_congressional_district",
             "region": "VI",
             "electorate": 306831,
             "population": 482646,
@@ -1651,6 +1815,7 @@
         {
             "province": "Negros Occidental",
             "district": "4",
+            "link": "https://en.wikipedia.org/wiki/Negros_Occidental%27s_4th_congressional_district",
             "region": "VI",
             "electorate": 241076,
             "population": 406666,
@@ -1661,6 +1826,7 @@
         {
             "province": "Negros Occidental",
             "district": "5",
+            "link": "https://en.wikipedia.org/wiki/Negros_Occidental%27s_5th_congressional_district",
             "region": "VI",
             "electorate": 277004,
             "population": 464026,
@@ -1671,6 +1837,7 @@
         {
             "province": "Negros Occidental",
             "district": "6",
+            "link": "https://en.wikipedia.org/wiki/Negros_Occidental%27s_6th_congressional_district",
             "region": "VI",
             "electorate": 295254,
             "population": 525597,
@@ -1681,6 +1848,7 @@
         {
             "province": "Negros Oriental",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Negros_Oriental%27s_1st_congressional_district",
             "region": "VII",
             "electorate": 271566,
             "population": 445970,
@@ -1691,6 +1859,7 @@
         {
             "province": "Negros Oriental",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Negros_Oriental%27s_2nd_congressional_district",
             "region": "VII",
             "electorate": 339117,
             "population": 535632,
@@ -1701,6 +1870,7 @@
         {
             "province": "Negros Oriental",
             "district": "3",
+            "link": "https://en.wikipedia.org/wiki/Negros_Oriental%27s_3rd_congressional_district",
             "region": "VII",
             "electorate": 278143,
             "population": 451388,
@@ -1710,6 +1880,7 @@
         {
             "province": "Northern Samar",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Northern_Samar%27s_1st_congressional_district",
             "region": "VIII",
             "electorate": 241623,
             "population": 345791,
@@ -1720,6 +1891,7 @@
         {
             "province": "Northern Samar",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Northern_Samar%27s_2nd_congressional_district",
             "region": "VIII",
             "electorate": 201201,
             "population": 293395,
@@ -1730,6 +1902,7 @@
         {
             "province": "Nueva Ecija",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Nueva_Ecija%27s_1st_congressional_district",
             "region": "III",
             "electorate": 358002,
             "population": 598187,
@@ -1740,6 +1913,7 @@
         {
             "province": "Nueva Ecija",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Nueva_Ecija%27s_2nd_congressional_district",
             "region": "III",
             "electorate": 310119,
             "population": 493038,
@@ -1750,6 +1924,7 @@
         {
             "province": "Nueva Ecija",
             "district": "3",
+            "link": "https://en.wikipedia.org/wiki/Nueva_Ecija%27s_3rd_congressional_district",
             "region": "III",
             "electorate": 411583,
             "population": 636728,
@@ -1760,6 +1935,7 @@
         {
             "province": "Nueva Ecija",
             "district": "4",
+            "link": "https://en.wikipedia.org/wiki/Nueva_Ecija%27s_4th_congressional_district",
             "region": "III",
             "electorate": 380746,
             "population": 582181,
@@ -1770,6 +1946,7 @@
         {
             "province": "Nueva Vizcaya",
             "district": "at-large",
+            "link": "https://en.wikipedia.org/wiki/Nueva_Vizcaya%27s_at-large_congressional_district",
             "region": "II",
             "electorate": 278898,
             "population": 497432,
@@ -1780,6 +1957,7 @@
         {
             "province": "Occidental Mindoro",
             "district": "at-large",
+            "link": "https://en.wikipedia.org/wiki/Occidental_Mindoro%27s_at-large_congressional_district",
             "region": "IV-B",
             "electorate": 289953,
             "population": 525354,
@@ -1790,6 +1968,7 @@
         {
             "province": "Oriental Mindoro",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Oriental_Mindoro%27s_1st_congressional_district",
             "region": "IV-B",
             "electorate": 282342,
             "population": 485487,
@@ -1800,6 +1979,7 @@
         {
             "province": "Oriental Mindoro",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Oriental_Mindoro%27s_2nd_congressional_district",
             "region": "IV-B",
             "electorate": 231200,
             "population": 422852,
@@ -1810,6 +1990,7 @@
         {
             "province": "Palawan",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Palawan%27s_1st_congressional_district",
             "region": "IV-B",
             "electorate": 262465,
             "population": 462089,
@@ -1819,6 +2000,7 @@
         {
             "province": "Palawan",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Palawan%27s_2nd_congressional_district",
             "region": "IV-B",
             "electorate": 236014,
             "population": 438769,
@@ -1829,6 +2011,7 @@
         {
             "province": "Palawan",
             "district": "3",
+            "link": "https://en.wikipedia.org/wiki/Palawan%27s_3rd_congressional_district",
             "region": "IV-B",
             "electorate": 178706,
             "population": 345815,
@@ -1838,6 +2021,7 @@
         {
             "province": "Pampanga",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Pampanga%27s_1st_congressional_district",
             "region": "III",
             "electorate": 380959,
             "population": 880360,
@@ -1848,6 +2032,7 @@
         {
             "province": "Pampanga",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Pampanga%27s_2nd_congressional_district",
             "region": "III",
             "electorate": 330862,
             "population": 655973,
@@ -1858,6 +2043,7 @@
         {
             "province": "Pampanga",
             "district": "3",
+            "link": "https://en.wikipedia.org/wiki/Pampanga%27s_3rd_congressional_district",
             "region": "III",
             "electorate": 400858,
             "population": 782547,
@@ -1868,6 +2054,7 @@
         {
             "province": "Pampanga",
             "district": "4",
+            "link": "https://en.wikipedia.org/wiki/Pampanga%27s_4th_congressional_district",
             "region": "III",
             "electorate": 347624,
             "population": 581757,
@@ -1878,6 +2065,7 @@
         {
             "province": "Pangasinan",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Pangasinan%27s_1st_congressional_district",
             "region": "I",
             "electorate": 278494,
             "population": 454365,
@@ -1888,6 +2076,7 @@
         {
             "province": "Pangasinan",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Pangasinan%27s_2nd_congressional_district",
             "region": "I",
             "electorate": 325051,
             "population": 514041,
@@ -1898,6 +2087,7 @@
         {
             "province": "Pangasinan",
             "district": "3",
+            "link": "https://en.wikipedia.org/wiki/Pangasinan%27s_3rd_congressional_district",
             "region": "I",
             "electorate": 406069,
             "population": 708245,
@@ -1908,6 +2098,7 @@
         {
             "province": "Pangasinan",
             "district": "4",
+            "link": "https://en.wikipedia.org/wiki/Pangasinan%27s_4th_congressional_district",
             "region": "I",
             "electorate": 310771,
             "population": 495311,
@@ -1918,6 +2109,7 @@
         {
             "province": "Pangasinan",
             "district": "5",
+            "link": "https://en.wikipedia.org/wiki/Pangasinan%27s_5th_congressional_district",
             "region": "I",
             "electorate": 324329,
             "population": 526367,
@@ -1928,6 +2120,7 @@
         {
             "province": "Pangasinan",
             "district": "6",
+            "link": "https://en.wikipedia.org/wiki/Pangasinan%27s_6th_congressional_district",
             "region": "I",
             "electorate": 301978,
             "population": 464861,
@@ -1938,6 +2131,7 @@
         {
             "province": "Parañaque",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Para%C3%B1aque%27s_1st_congressional_district",
             "region": "NCR",
             "electorate": 137525,
             "population": 265839,
@@ -1948,6 +2142,7 @@
         {
             "province": "Parañaque",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Para%C3%B1aque%27s_2nd_congressional_district",
             "region": "NCR",
             "electorate": 191399,
             "population": 424153,
@@ -1958,6 +2153,7 @@
         {
             "province": "Pasay",
             "district": "at-large",
+            "link": "https://en.wikipedia.org/wiki/Pasay%27s_at-large_congressional_district",
             "region": "NCR",
             "electorate": 285538,
             "population": 440656,
@@ -1968,6 +2164,7 @@
         {
             "province": "Pasig",
             "district": "at-large",
+            "link": "https://en.wikipedia.org/wiki/Pasig%27s_at-large_congressional_district",
             "region": "NCR",
             "electorate": 440856,
             "population": 803159,
@@ -1978,6 +2175,7 @@
         {
             "province": "Quezon",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Quezon%27s_1st_congressional_district",
             "region": "IV-A",
             "electorate": 320898,
             "population": 573895,
@@ -1988,6 +2186,7 @@
         {
             "province": "Quezon",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Quezon%27s_2nd_congressional_district",
             "region": "IV-A",
             "electorate": 421577,
             "population": 753343,
@@ -1998,6 +2197,7 @@
         {
             "province": "Quezon",
             "district": "3",
+            "link": "https://en.wikipedia.org/wiki/Quezon%27s_3rd_congressional_district",
             "region": "IV-A",
             "electorate": 268105,
             "population": 446711,
@@ -2008,6 +2208,7 @@
         {
             "province": "Quezon",
             "district": "4",
+            "link": "https://en.wikipedia.org/wiki/Quezon%27s_4th_congressional_district",
             "region": "IV-A",
             "electorate": 273864,
             "population": 455434,
@@ -2018,6 +2219,7 @@
         {
             "province": "Quezon City",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Quezon_City%27s_1st_congressional_district",
             "region": "NCR",
             "electorate": 204097,
             "population": 384384,
@@ -2028,6 +2230,7 @@
         {
             "province": "Quezon City",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Quezon_City%27s_2nd_congressional_district",
             "region": "NCR",
             "electorate": 329585,
             "population": 738328,
@@ -2038,6 +2241,7 @@
         {
             "province": "Quezon City",
             "district": "3",
+            "link": "https://en.wikipedia.org/wiki/Quezon_City%27s_3rd_congressional_district",
             "region": "NCR",
             "electorate": 150580,
             "population": 319371,
@@ -2048,6 +2252,7 @@
         {
             "province": "Quezon City",
             "district": "4",
+            "link": "https://en.wikipedia.org/wiki/Quezon_City%27s_4th_congressional_district",
             "region": "NCR",
             "electorate": 209699,
             "population": 407402,
@@ -2058,6 +2263,7 @@
         {
             "province": "Quezon City",
             "district": "5",
+            "link": "https://en.wikipedia.org/wiki/Quezon_City%27s_5th_congressional_district",
             "region": "NCR",
             "electorate": 246497,
             "population": 596047,
@@ -2068,6 +2274,7 @@
         {
             "province": "Quezon City",
             "district": "6",
+            "link": "https://en.wikipedia.org/wiki/Quezon_City%27s_6th_congressional_district",
             "region": "NCR",
             "electorate": 189660,
             "population": 514516,
@@ -2078,6 +2285,7 @@
         {
             "province": "Quirino",
             "district": "at-large",
+            "link": "https://en.wikipedia.org/wiki/Quirino%27s_at-large_congressional_district",
             "region": "II",
             "electorate": 117635,
             "population": 203828,
@@ -2088,6 +2296,7 @@
         {
             "province": "Rizal",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Rizal%27s_1st_congressional_district",
             "region": "IV-A",
             "electorate": 544551,
             "population": 1207509,
@@ -2098,6 +2307,7 @@
         {
             "province": "Rizal",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Rizal%27s_2nd_congressional_district",
             "region": "IV-A",
             "electorate": 278444,
             "population": 517975,
@@ -2108,6 +2318,7 @@
         {
             "province": "Rizal",
             "district": "3",
+            "link": "https://en.wikipedia.org/wiki/Rizal%27s_3rd_congressional_district",
             "region": "IV-A",
             "electorate": 106418,
             "population": 273306,
@@ -2118,6 +2329,7 @@
         {
             "province": "Rizal",
             "district": "4",
+            "link": "https://en.wikipedia.org/wiki/Rizal%27s_4th_congressional_district",
             "region": "IV-A",
             "electorate": 209134,
             "population": 443954,
@@ -2128,6 +2340,7 @@
         {
             "province": "Romblon",
             "district": "at-large",
+            "link": "https://en.wikipedia.org/wiki/Romblon%27s_at-large_congressional_district",
             "region": "IV-B",
             "electorate": 198078,
             "population": 308985,
@@ -2138,6 +2351,7 @@
         {
             "province": "Samar",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Samar%27s_1st_congressional_district",
             "region": "VIII",
             "electorate": 247967,
             "population": 338230,
@@ -2148,6 +2362,7 @@
         {
             "province": "Samar",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Samar%27s_2nd_congressional_district",
             "region": "VIII",
             "electorate": 315166,
             "population": 454953,
@@ -2158,6 +2373,7 @@
         {
             "province": "San Jose del Monte",
             "district": "at-large",
+            "link": "https://en.wikipedia.org/wiki/San_Jose_del_Monte%27s_at-large_congressional_district",
             "region": "III",
             "electorate": 247567,
             "population": 651813,
@@ -2168,6 +2384,7 @@
         {
             "province": "San Juan",
             "district": "at-large",
+            "link": "https://en.wikipedia.org/wiki/San_Juan%27s_at-large_congressional_district",
             "region": "NCR",
             "electorate": 82977,
             "population": 126347,
@@ -2178,6 +2395,7 @@
         {
             "province": "Santa Rosa",
             "district": "at-large",
+            "link": "https://en.wikipedia.org/wiki/Santa_Rosa%27s_at-large_congressional_district",
             "region": "IV-A",
             "electorate": 213913,
             "population": 414812,
@@ -2188,6 +2406,7 @@
         {
             "province": "Sarangani",
             "district": "at-large",
+            "link": "https://en.wikipedia.org/wiki/Sarangani%27s_at-large_congressional_district",
             "region": "XII",
             "electorate": 345904,
             "population": 558946,
@@ -2198,6 +2417,7 @@
         {
             "province": "Siquijor",
             "district": "at-large",
+            "link": "https://en.wikipedia.org/wiki/Siquijor%27s_at-large_congressional_district",
             "region": "VII",
             "electorate": 76225,
             "population": 103395,
@@ -2208,6 +2428,7 @@
         {
             "province": "Sorsogon",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Sorsogon%27s_1st_congressional_district",
             "region": "V",
             "electorate": 250659,
             "population": 441959,
@@ -2218,6 +2439,7 @@
         {
             "province": "Sorsogon",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Sorsogon%27s_2nd_congressional_district",
             "region": "V",
             "electorate": 242457,
             "population": 386696,
@@ -2228,6 +2450,7 @@
         {
             "province": "South Cotabato",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/South_Cotabato%27s_1st_congressional_district",
             "region": "XII",
             "electorate": 172031,
             "population": 287082,
@@ -2238,6 +2461,7 @@
         {
             "province": "South Cotabato",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/South_Cotabato%27s_2nd_congressional_district",
             "region": "XII",
             "electorate": 386922,
             "population": 688394,
@@ -2248,6 +2472,7 @@
         {
             "province": "Southern Leyte",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Southern_Leyte%27s_1st_congressional_district",
             "region": "VIII",
             "electorate": 132114,
             "population": 201421,
@@ -2258,6 +2483,7 @@
         {
             "province": "Southern Leyte",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Southern_Leyte%27s_2nd_congressional_district",
             "region": "VIII",
             "electorate": 160223,
             "population": 228152,
@@ -2268,6 +2494,7 @@
         {
             "province": "Sultan Kudarat",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Sultan_Kudarat%27s_1st_congressional_district",
             "region": "XII",
             "electorate": 231471,
             "population": 427963,
@@ -2278,6 +2505,7 @@
         {
             "province": "Sultan Kudarat",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Sultan_Kudarat%27s_2nd_congressional_district",
             "region": "XII",
             "electorate": 220540,
             "population": 426089,
@@ -2288,6 +2516,7 @@
         {
             "province": "Sulu",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Sulu%27s_1st_congressional_district",
             "region": "BARMM",
             "electorate": 215522,
             "population": 585458,
@@ -2298,6 +2527,7 @@
         {
             "province": "Sulu",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Sulu%27s_2nd_congressional_district",
             "region": "BARMM",
             "electorate": 160713,
             "population": 414650,
@@ -2308,6 +2538,7 @@
         {
             "province": "Surigao del Norte",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Surigao_del_Norte%27s_1st_congressional_district",
             "region": "XIII",
             "electorate": 95798,
             "population": 136092,
@@ -2318,6 +2549,7 @@
         {
             "province": "Surigao del Norte",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Surigao_del_Norte%27s_2nd_congressional_district",
             "region": "XIII",
             "electorate": 271507,
             "population": 398544,
@@ -2328,6 +2560,7 @@
         {
             "province": "Surigao del Sur",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Surigao_del_Sur%27s_1st_congressional_district",
             "region": "XIII",
             "electorate": 240674,
             "population": 369785,
@@ -2338,6 +2571,7 @@
         {
             "province": "Surigao del Sur",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Surigao_del_Sur%27s_2nd_congressional_district",
             "region": "XIII",
             "electorate": 172919,
             "population": 272470,
@@ -2348,6 +2582,7 @@
         {
             "province": "Taguig–Pateros",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Taguig%E2%80%93Pateros%27s_1st_congressional_district",
             "region": "NCR",
             "electorate": 227891,
             "population": 484906,
@@ -2358,6 +2593,7 @@
         {
             "province": "Taguig–Pateros",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Taguig%E2%80%93Pateros%27s_2nd_congressional_district",
             "region": "NCR",
             "electorate": 249644,
             "population": 467043,
@@ -2368,6 +2604,7 @@
         {
             "province": "Tarlac",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Tarlac%27s_1st_congressional_district",
             "region": "III",
             "electorate": 268842,
             "population": 439800,
@@ -2378,6 +2615,7 @@
         {
             "province": "Tarlac",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Tarlac%27s_2nd_congressional_district",
             "region": "III",
             "electorate": 320259,
             "population": 590435,
@@ -2388,6 +2626,7 @@
         {
             "province": "Tarlac",
             "district": "3",
+            "link": "https://en.wikipedia.org/wiki/Tarlac%27s_3rd_congressional_district",
             "region": "III",
             "electorate": 249363,
             "population": 473221,
@@ -2398,6 +2637,7 @@
         {
             "province": "Tawi-Tawi",
             "district": "at-large",
+            "link": "https://en.wikipedia.org/wiki/Tawi-Tawi%27s_at-large_congressional_district",
             "region": "BARMM",
             "electorate": 210419,
             "population": 440276,
@@ -2408,6 +2648,7 @@
         {
             "province": "Valenzuela",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Valenzuela%27s_1st_congressional_district",
             "region": "NCR",
             "electorate": 175621,
             "population": 360894,
@@ -2417,6 +2658,7 @@
         {
             "province": "Valenzuela",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Valenzuela%27s_2nd_congressional_district",
             "region": "NCR",
             "electorate": 202392,
             "population": 354084,
@@ -2427,6 +2669,7 @@
         {
             "province": "Zambales",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Zambales%27s_1st_congressional_district",
             "region": "III",
             "electorate": 247575,
             "population": 477837,
@@ -2437,6 +2680,7 @@
         {
             "province": "Zambales",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Zambales%27s_2nd_congressional_district",
             "region": "III",
             "electorate": 268149,
             "population": 432095,
@@ -2447,6 +2691,7 @@
         {
             "province": "Zamboanga City",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Zamboanga_City%27s_1st_congressional_district",
             "region": "IX",
             "electorate": 240312,
             "population": 448390,
@@ -2457,6 +2702,7 @@
         {
             "province": "Zamboanga City",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Zamboanga_City%27s_2nd_congressional_district",
             "region": "IX",
             "electorate": 227223,
             "population": 528844,
@@ -2467,6 +2713,7 @@
         {
             "province": "Zamboanga del Norte",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Zamboanga_del_Norte%27s_1st_congressional_district",
             "region": "IX",
             "electorate": 159710,
             "population": 231980,
@@ -2477,6 +2724,7 @@
         {
             "province": "Zamboanga del Norte",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Zamboanga_del_Norte%27s_2nd_congressional_district",
             "region": "IX",
             "electorate": 265905,
             "population": 427956,
@@ -2487,6 +2735,7 @@
         {
             "province": "Zamboanga del Norte",
             "district": "3",
+            "link": "https://en.wikipedia.org/wiki/Zamboanga_del_Norte%27s_3rd_congressional_district",
             "region": "IX",
             "electorate": 258458,
             "population": 387519,
@@ -2497,6 +2746,7 @@
         {
             "province": "Zamboanga del Sur",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Zamboanga_del_Sur%27s_1st_congressional_district",
             "region": "IX",
             "electorate": 384126,
             "population": 630154,
@@ -2507,6 +2757,7 @@
         {
             "province": "Zamboanga del Sur",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Zamboanga_del_Sur%27s_2nd_congressional_district",
             "region": "IX",
             "electorate": 256774,
             "population": 420514,
@@ -2517,6 +2768,7 @@
         {
             "province": "Zamboanga Sibugay",
             "district": "1",
+            "link": "https://en.wikipedia.org/wiki/Zamboanga_Sibugay%27s_1st_congressional_district",
             "region": "IX",
             "electorate": 170321,
             "population": 307161,
@@ -2527,6 +2779,7 @@
         {
             "province": "Zamboanga Sibugay",
             "district": "2",
+            "link": "https://en.wikipedia.org/wiki/Zamboanga_Sibugay%27s_2nd_congressional_district",
             "region": "IX",
             "electorate": 230204,
             "population": 362679,

@@ -3,7 +3,7 @@ const fse = require("fs-extra")
 const headerMap = require("_/scripts/helpers/headerMap.js")
 const axios = require("axios")
 
-module.exports = async function extractRegionsMetadata() {
+module.exports = async function extractProvincesMetadata() {
     console.log("@ Extracting province metadata...")   
 
     const path = "./data/metadata/raw/philippines.provinces.html"
@@ -149,7 +149,7 @@ module.exports = async function extractRegionsMetadata() {
     // write data 
     const stringified = JSON.stringify(data, null, 4) 
     await fse.writeFile(
-        "./data/metadata/raw-json/philippines.provinces.json",
+        "./data/metadata/part-a/philippines.provinces.json",
         stringified
     )
     
