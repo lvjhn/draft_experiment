@@ -12,6 +12,7 @@
     ],
     "rows": [
         {
+            "id": 1,
             "location": "N/A",
             "region_name": "National Capital Region",
             "region_link": "https://en.wikipedia.org/wiki/Metro_Manila",
@@ -44,6 +45,7 @@
             "density_km2": 20784
         },
         {
+            "id": 2,
             "location": "N/A",
             "region_name": "Cordillera Administrative Region",
             "region_link": "https://en.wikipedia.org/wiki/Cordillera_Administrative_Region",
@@ -66,6 +68,7 @@
             "density_km2": 89
         },
         {
+            "id": 3,
             "location": "N/A",
             "region_name": "Ilocos Region",
             "region_link": "https://en.wikipedia.org/wiki/Ilocos_Region",
@@ -86,6 +89,7 @@
             "density_km2": 386
         },
         {
+            "id": 4,
             "location": "N/A",
             "region_name": "Cagayan Valley",
             "region_link": "https://en.wikipedia.org/wiki/Cagayan_Valley",
@@ -107,6 +111,7 @@
             "density_km2": 122
         },
         {
+            "id": 5,
             "location": "N/A",
             "region_name": "Central Luzon",
             "region_link": "https://en.wikipedia.org/wiki/Central_Luzon",
@@ -131,6 +136,7 @@
             "density_km2": 510
         },
         {
+            "id": 6,
             "location": "N/A",
             "region_name": "Calabarzon",
             "region_link": "https://en.wikipedia.org/wiki/Calabarzon",
@@ -152,6 +158,7 @@
             "density_km2": 854
         },
         {
+            "id": 7,
             "location": "N/A",
             "region_name": "Southwestern Tagalog Region",
             "region_link": "https://en.wikipedia.org/wiki/Mimaropa",
@@ -173,6 +180,7 @@
             "density_km2": 100
         },
         {
+            "id": 8,
             "location": "N/A",
             "region_name": "Bicol Region",
             "region_link": "https://en.wikipedia.org/wiki/Bicol_Region",
@@ -195,6 +203,7 @@
             "density_km2": 319
         },
         {
+            "id": 9,
             "location": "N/A",
             "region_name": "Western Visayas",
             "region_link": "https://en.wikipedia.org/wiki/Western_Visayas",
@@ -216,6 +225,7 @@
             "density_km2": 371
         },
         {
+            "id": 10,
             "location": "N/A",
             "region_name": "Negros Island Region",
             "region_link": "https://en.wikipedia.org/wiki/Negros_Island_Region",
@@ -235,6 +245,7 @@
             "density_km2": 301
         },
         {
+            "id": 11,
             "location": "N/A",
             "region_name": "Central Visayas",
             "region_link": "https://en.wikipedia.org/wiki/Central_Visayas",
@@ -255,6 +266,7 @@
             "density_km2": 478
         },
         {
+            "id": 12,
             "location": "N/A",
             "region_name": "Eastern Visayas",
             "region_link": "https://en.wikipedia.org/wiki/Eastern_Visayas",
@@ -278,6 +290,7 @@
             "density_km2": 191
         },
         {
+            "id": 13,
             "location": "N/A",
             "region_name": "Zamboanga Peninsula",
             "region_link": "https://en.wikipedia.org/wiki/Zamboanga_Peninsula",
@@ -298,6 +311,7 @@
             "density_km2": 213
         },
         {
+            "id": 14,
             "location": "N/A",
             "region_name": "Northern Mindanao",
             "region_link": "https://en.wikipedia.org/wiki/Northern_Mindanao",
@@ -320,6 +334,7 @@
             "density_km2": 229
         },
         {
+            "id": 15,
             "location": "N/A",
             "region_name": "Davao Region",
             "region_link": "https://en.wikipedia.org/wiki/Davao_Region",
@@ -341,6 +356,7 @@
             "density_km2": 245
         },
         {
+            "id": 16,
             "location": "N/A",
             "region_name": "Soccsksargen",
             "region_link": "https://en.wikipedia.org/wiki/Soccsksargen",
@@ -361,6 +377,7 @@
             "density_km2": 202
         },
         {
+            "id": 17,
             "location": "N/A",
             "region_name": "Caraga",
             "region_link": "https://en.wikipedia.org/wiki/Caraga",
@@ -382,6 +399,7 @@
             "density_km2": 121
         },
         {
+            "id": 18,
             "location": "N/A",
             "region_name": "Bangsamoro",
             "region_link": "https://en.wikipedia.org/wiki/Bangsamoro",

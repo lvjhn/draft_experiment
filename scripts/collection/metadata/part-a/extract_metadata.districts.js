@@ -32,9 +32,11 @@ module.exports = async function extractDistrictsMetadata() {
     // extract data 
     const $values = $table.find("tbody > tr")
     const rows = []
-    $values.each((i, el) => {
+    $values.each((rowId, el) => {
         let $items = $(el).find("th, td") 
         let rowData = {} 
+
+        rowData["id"] = rowId
 
         // skip notes
         if($(el).attr("class") == "sortbottom") {
@@ -73,7 +75,7 @@ module.exports = async function extractDistrictsMetadata() {
                district = district.replaceAll("rd", "")
                district = district.replaceAll("th", "")
                 
-               rowData["province"] = province.trim()
+               rowData["province_name"] = province.trim()
                rowData["district_name"] = district.trim()
                rowData["district_link"] = link
             }

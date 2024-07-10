@@ -33,7 +33,7 @@ module.exports = async function extractRegionsMetadata() {
     // extract data 
     const $values = $table.find("tbody > tr")
     const rows = []
-    $values.each((i, el) => {
+    $values.each((rowId, el) => {
         let $items = $(el).find("th, td") 
         let rowData = {} 
 
@@ -41,6 +41,9 @@ module.exports = async function extractRegionsMetadata() {
         if($(el).attr("class") == "sortbottom") {
             return
         }
+
+        rowData["id"] = rowId + 1
+
         $items.each((i, el) => {
 
             // extract values 

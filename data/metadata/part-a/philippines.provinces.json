@@ -16,6 +16,7 @@
     ],
     "rows": [
         {
+            "id": 0,
             "iso": "PH-ABR",
             "province_name": "Abra",
             "province_link": "https://en.wikipedia.org/wiki/Abra_(province)",
@@ -32,6 +33,7 @@
             "total_barangays": 303
         },
         {
+            "id": 1,
             "iso": "PH-AGN",
             "province_name": "Agusan del Norte",
             "province_link": "https://en.wikipedia.org/wiki/Agusan_del_Norte",
@@ -48,6 +50,7 @@
             "total_barangays": 253
         },
         {
+            "id": 2,
             "iso": "PH-AGS",
             "province_name": "Agusan del Sur",
             "province_link": "https://en.wikipedia.org/wiki/Agusan_del_Sur",
@@ -64,6 +67,7 @@
             "total_barangays": 314
         },
         {
+            "id": 3,
             "iso": "PH-AKL",
             "province_name": "Aklan",
             "province_link": "https://en.wikipedia.org/wiki/Aklan",
@@ -80,6 +84,7 @@
             "total_barangays": 327
         },
         {
+            "id": 4,
             "iso": "PH-ALB",
             "province_name": "Albay",
             "province_link": "https://en.wikipedia.org/wiki/Albay",
@@ -96,6 +101,7 @@
             "total_barangays": 720
         },
         {
+            "id": 5,
             "iso": "PH-ANT",
             "province_name": "Antique",
             "province_link": "https://en.wikipedia.org/wiki/Antique_(province)",
@@ -112,6 +118,7 @@
             "total_barangays": 590
         },
         {
+            "id": 6,
             "iso": "PH-APA",
             "province_name": "Apayao",
             "province_link": "https://en.wikipedia.org/wiki/Apayao",
@@ -128,6 +135,7 @@
             "total_barangays": 133
         },
         {
+            "id": 7,
             "iso": "PH-AUR",
             "province_name": "Aurora",
             "province_link": "https://en.wikipedia.org/wiki/Aurora_(province)",
@@ -144,6 +152,7 @@
             "total_barangays": 151
         },
         {
+            "id": 8,
             "iso": "PH-BAS",
             "province_name": "Basilan",
             "province_link": "https://en.wikipedia.org/wiki/Basilan",
@@ -160,6 +169,7 @@
             "total_barangays": 255
         },
         {
+            "id": 9,
             "iso": "PH-BAN",
             "province_name": "Bataan",
             "province_link": "https://en.wikipedia.org/wiki/Bataan",
@@ -176,6 +186,7 @@
             "total_barangays": 237
         },
         {
+            "id": 10,
             "iso": "PH-BTN",
             "province_name": "Batanes",
             "province_link": "https://en.wikipedia.org/wiki/Batanes",
@@ -192,6 +203,7 @@
             "total_barangays": 29
         },
         {
+            "id": 11,
             "iso": "PH-BTG",
             "province_name": "Batangas",
             "province_link": "https://en.wikipedia.org/wiki/Batangas",
@@ -208,6 +220,7 @@
             "total_barangays": 1
         },
         {
+            "id": 12,
             "iso": "PH-BEN",
             "province_name": "Benguet",
             "province_link": "https://en.wikipedia.org/wiki/Benguet",
@@ -224,6 +237,7 @@
             "total_barangays": 269
         },
         {
+            "id": 13,
             "iso": "PH-BIL",
             "province_name": "Biliran",
             "province_link": "https://en.wikipedia.org/wiki/Biliran",
@@ -240,6 +254,7 @@
             "total_barangays": 132
         },
         {
+            "id": 14,
             "iso": "PH-BOH",
             "province_name": "Bohol",
             "province_link": "https://en.wikipedia.org/wiki/Bohol",
@@ -256,6 +271,7 @@
             "total_barangays": 1
         },
         {
+            "id": 15,
             "iso": "PH-BUK",
             "province_name": "Bukidnon",
             "province_link": "https://en.wikipedia.org/wiki/Bukidnon",
@@ -272,6 +288,7 @@
             "total_barangays": 464
         },
         {
+            "id": 16,
             "iso": "PH-BUL",
             "province_name": "Bulacan",
             "province_link": "https://en.wikipedia.org/wiki/Bulacan",
@@ -288,6 +305,7 @@
             "total_barangays": 569
         },
         {
+            "id": 17,
             "iso": "PH-CAG",
             "province_name": "Cagayan",
             "province_link": "https://en.wikipedia.org/wiki/Cagayan",
@@ -304,6 +322,7 @@
             "total_barangays": 820
         },
         {
+            "id": 18,
             "iso": "PH-CAN",
             "province_name": "Camarines Norte",
             "province_link": "https://en.wikipedia.org/wiki/Camarines_Norte",
@@ -320,6 +339,7 @@
             "total_barangays": 282
         },
         {
+            "id": 19,
             "iso": "PH-CAS",
             "province_name": "Camarines Sur",
             "province_link": "https://en.wikipedia.org/wiki/Camarines_Sur",
@@ -336,6 +356,7 @@
             "total_barangays": 1
         },
         {
+            "id": 20,
             "iso": "PH-CAM",
             "province_name": "Camiguin",
             "province_link": "https://en.wikipedia.org/wiki/Camiguin",
@@ -352,6 +373,7 @@
             "total_barangays": 58
         },
         {
+            "id": 21,
             "iso": "PH-CAP",
             "province_name": "Capiz",
             "province_link": "https://en.wikipedia.org/wiki/Capiz",
@@ -368,6 +390,7 @@
             "total_barangays": 473
         },
         {
+            "id": 22,
             "iso": "PH-CAT",
             "province_name": "Catanduanes",
             "province_link": "https://en.wikipedia.org/wiki/Catanduanes",
@@ -384,6 +407,7 @@
             "total_barangays": 315
         },
         {
+            "id": 23,
             "iso": "PH-CAV",
             "province_name": "Cavite",
             "province_link": "https://en.wikipedia.org/wiki/Cavite",
@@ -400,6 +424,7 @@
             "total_barangays": 803
         },
         {
+            "id": 24,
             "iso": "PH-CEB",
             "province_name": "Cebu",
             "province_link": "https://en.wikipedia.org/wiki/Cebu",
@@ -416,6 +441,7 @@
             "total_barangays": 1
         },
         {
+            "id": 25,
             "iso": "PH-NCO",
             "province_name": "Cotabato",
             "province_link": "https://en.wikipedia.org/wiki/Cotabato",
@@ -432,6 +458,7 @@
             "total_barangays": 543
         },
         {
+            "id": 26,
             "iso": "PH-COM",
             "province_name": "Davao de Oro",
             "province_link": "https://en.wikipedia.org/wiki/Davao_de_Oro",
@@ -448,6 +475,7 @@
             "total_barangays": 237
         },
         {
+            "id": 27,
             "iso": "PH-DAV",
             "province_name": "Davao del Norte",
             "province_link": "https://en.wikipedia.org/wiki/Davao_del_Norte",
@@ -464,6 +492,7 @@
             "total_barangays": 223
         },
         {
+            "id": 28,
             "iso": "PH-DAS",
             "province_name": "Davao del Sur",
             "province_link": "https://en.wikipedia.org/wiki/Davao_del_Sur",
@@ -480,6 +509,7 @@
             "total_barangays": 414
         },
         {
+            "id": 29,
             "iso": "PH-DVO",
             "province_name": "Davao Occidental",
             "province_link": "https://en.wikipedia.org/wiki/Davao_Occidental",
@@ -496,6 +526,7 @@
             "total_barangays": 105
         },
         {
+            "id": 30,
             "iso": "PH-DAO",
             "province_name": "Davao Oriental",
             "province_link": "https://en.wikipedia.org/wiki/Davao_Oriental",
@@ -512,6 +543,7 @@
             "total_barangays": 183
         },
         {
+            "id": 31,
             "iso": "PH-DIN",
             "province_name": "Dinagat Islands",
             "province_link": "https://en.wikipedia.org/wiki/Dinagat_Islands",
@@ -528,6 +560,7 @@
             "total_barangays": 100
         },
         {
+            "id": 32,
             "iso": "PH-EAS",
             "province_name": "Eastern Samar",
             "province_link": "https://en.wikipedia.org/wiki/Eastern_Samar",
@@ -544,6 +577,7 @@
             "total_barangays": 597
         },
         {
+            "id": 33,
             "iso": "PH-GUI",
             "province_name": "Guimaras",
             "province_link": "https://en.wikipedia.org/wiki/Guimaras",
@@ -560,6 +594,7 @@
             "total_barangays": 98
         },
         {
+            "id": 34,
             "iso": "PH-IFU",
             "province_name": "Ifugao",
             "province_link": "https://en.wikipedia.org/wiki/Ifugao",
@@ -576,6 +611,7 @@
             "total_barangays": 176
         },
         {
+            "id": 35,
             "iso": "PH-ILN",
             "province_name": "Ilocos Norte",
             "province_link": "https://en.wikipedia.org/wiki/Ilocos_Norte",
@@ -592,6 +628,7 @@
             "total_barangays": 559
         },
         {
+            "id": 36,
             "iso": "PH-ILS",
             "province_name": "Ilocos Sur",
             "province_link": "https://en.wikipedia.org/wiki/Ilocos_Sur",
@@ -608,6 +645,7 @@
             "total_barangays": 768
         },
         {
+            "id": 37,
             "iso": "PH-ILI",
             "province_name": "Iloilo",
             "province_link": "https://en.wikipedia.org/wiki/Iloilo",
@@ -624,6 +662,7 @@
             "total_barangays": 1
         },
         {
+            "id": 38,
             "iso": "PH-ISA",
             "province_name": "Isabela",
             "province_link": "https://en.wikipedia.org/wiki/Isabela_(province)",
@@ -640,6 +679,7 @@
             "total_barangays": 1
         },
         {
+            "id": 39,
             "iso": "PH-KAL",
             "province_name": "Kalinga",
             "province_link": "https://en.wikipedia.org/wiki/Kalinga_(province)",
@@ -656,6 +696,7 @@
             "total_barangays": 153
         },
         {
+            "id": 40,
             "iso": "PH-LUN",
             "province_name": "La Union",
             "province_link": "https://en.wikipedia.org/wiki/La_Union",
@@ -672,6 +713,7 @@
             "total_barangays": 576
         },
         {
+            "id": 41,
             "iso": "PH-LAG",
             "province_name": "Laguna",
             "province_link": "https://en.wikipedia.org/wiki/Laguna_(province)",
@@ -688,6 +730,7 @@
             "total_barangays": 674
         },
         {
+            "id": 42,
             "iso": "PH-LAN",
             "province_name": "Lanao del Norte",
             "province_link": "https://en.wikipedia.org/wiki/Lanao_del_Norte",
@@ -704,6 +747,7 @@
             "total_barangays": 506
         },
         {
+            "id": 43,
             "iso": "PH-LAS",
             "province_name": "Lanao del Sur",
             "province_link": "https://en.wikipedia.org/wiki/Lanao_del_Sur",
@@ -720,6 +764,7 @@
             "total_barangays": 1
         },
         {
+            "id": 44,
             "iso": "PH-LEY",
             "province_name": "Leyte",
             "province_link": "https://en.wikipedia.org/wiki/Leyte_(province)",
@@ -736,6 +781,7 @@
             "total_barangays": 1
         },
         {
+            "id": 45,
             "iso": "PH-MDN",
             "province_name": "Maguindanao del Norte",
             "province_link": "https://en.wikipedia.org/wiki/Maguindanao_del_Norte",
@@ -752,6 +798,7 @@
             "total_barangays": 189
         },
         {
+            "id": 46,
             "iso": "PH-MDS",
             "province_name": "Maguindanao del Sur",
             "province_link": "https://en.wikipedia.org/wiki/Maguindanao_del_Sur",
@@ -768,6 +815,7 @@
             "total_barangays": 167
         },
         {
+            "id": 47,
             "iso": "PH-MAD",
             "province_name": "Marinduque",
             "province_link": "https://en.wikipedia.org/wiki/Marinduque",
@@ -784,6 +832,7 @@
             "total_barangays": 218
         },
         {
+            "id": 48,
             "iso": "PH-MAS",
             "province_name": "Masbate",
             "province_link": "https://en.wikipedia.org/wiki/Masbate",
@@ -800,6 +849,7 @@
             "total_barangays": 550
         },
         {
+            "id": 49,
             "iso": "PH-MSC",
             "province_name": "Misamis Occidental",
             "province_link": "https://en.wikipedia.org/wiki/Misamis_Occidental",
@@ -816,6 +866,7 @@
             "total_barangays": 490
         },
         {
+            "id": 50,
             "iso": "PH-MSR",
             "province_name": "Misamis Oriental",
             "province_link": "https://en.wikipedia.org/wiki/Misamis_Oriental",
@@ -832,6 +883,7 @@
             "total_barangays": 504
         },
         {
+            "id": 51,
             "iso": "PH-MOU",
             "province_name": "Mountain Province",
             "province_link": "https://en.wikipedia.org/wiki/Mountain_Province",
@@ -848,6 +900,7 @@
             "total_barangays": 144
         },
         {
+            "id": 52,
             "iso": "PH-NEC",
             "province_name": "Negros Occidental",
             "province_link": "https://en.wikipedia.org/wiki/Negros_Occidental",
@@ -864,6 +917,7 @@
             "total_barangays": 662
         },
         {
+            "id": 53,
             "iso": "PH-NER",
             "province_name": "Negros Oriental",
             "province_link": "https://en.wikipedia.org/wiki/Negros_Oriental",
@@ -880,6 +934,7 @@
             "total_barangays": 557
         },
         {
+            "id": 54,
             "iso": "PH-NSA",
             "province_name": "Northern Samar",
             "province_link": "https://en.wikipedia.org/wiki/Northern_Samar",
@@ -896,6 +951,7 @@
             "total_barangays": 569
         },
         {
+            "id": 55,
             "iso": "PH-NUE",
             "province_name": "Nueva Ecija",
             "province_link": "https://en.wikipedia.org/wiki/Nueva_Ecija",
@@ -912,6 +968,7 @@
             "total_barangays": 849
         },
         {
+            "id": 56,
             "iso": "PH-NUV",
             "province_name": "Nueva Vizcaya",
             "province_link": "https://en.wikipedia.org/wiki/Nueva_Vizcaya",
@@ -928,6 +985,7 @@
             "total_barangays": 275
         },
         {
+            "id": 57,
             "iso": "PH-MDC",
             "province_name": "Occidental Mindoro",
             "province_link": "https://en.wikipedia.org/wiki/Occidental_Mindoro",
@@ -944,6 +1002,7 @@
             "total_barangays": 162
         },
         {
+            "id": 58,
             "iso": "PH-MDR",
             "province_name": "Oriental Mindoro",
             "province_link": "https://en.wikipedia.org/wiki/Oriental_Mindoro",
@@ -960,6 +1019,7 @@
             "total_barangays": 426
         },
         {
+            "id": 59,
             "iso": "PH-PLW",
             "province_name": "Palawan",
             "province_link": "https://en.wikipedia.org/wiki/Palawan",
@@ -976,6 +1036,7 @@
             "total_barangays": 433
         },
         {
+            "id": 60,
             "iso": "PH-PAM",
             "province_name": "Pampanga",
             "province_link": "https://en.wikipedia.org/wiki/Pampanga",
@@ -992,6 +1053,7 @@
             "total_barangays": 538
         },
         {
+            "id": 61,
             "iso": "PH-PAN",
             "province_name": "Pangasinan",
             "province_link": "https://en.wikipedia.org/wiki/Pangasinan",
@@ -1008,6 +1070,7 @@
             "total_barangays": 1
         },
         {
+            "id": 62,
             "iso": "PH-QUE",
             "province_name": "Quezon",
             "province_link": "https://en.wikipedia.org/wiki/Quezon",
@@ -1024,6 +1087,7 @@
             "total_barangays": 1
         },
         {
+            "id": 63,
             "iso": "PH-QUI",
             "province_name": "Quirino",
             "province_link": "https://en.wikipedia.org/wiki/Quirino",
@@ -1040,6 +1104,7 @@
             "total_barangays": 132
         },
         {
+            "id": 64,
             "iso": "PH-RIZ",
             "province_name": "Rizal",
             "province_link": "https://en.wikipedia.org/wiki/Rizal_(province)",
@@ -1056,6 +1121,7 @@
             "total_barangays": 189
         },
         {
+            "id": 65,
             "iso": "PH-ROM",
             "province_name": "Romblon",
             "province_link": "https://en.wikipedia.org/wiki/Romblon",
@@ -1072,6 +1138,7 @@
             "total_barangays": 219
         },
         {
+            "id": 66,
             "iso": "PH-WSA",
             "province_name": "Samar",
             "province_link": "https://en.wikipedia.org/wiki/Samar_(province)",
@@ -1088,6 +1155,7 @@
             "total_barangays": 951
         },
         {
+            "id": 67,
             "iso": "PH-SAR",
             "province_name": "Sarangani",
             "province_link": "https://en.wikipedia.org/wiki/Sarangani",
@@ -1104,6 +1172,7 @@
             "total_barangays": 141
         },
         {
+            "id": 68,
             "iso": "PH-SIG",
             "province_name": "Siquijor",
             "province_link": "https://en.wikipedia.org/wiki/Siquijor",
@@ -1120,6 +1189,7 @@
             "total_barangays": 134
         },
         {
+            "id": 69,
             "iso": "PH-SOR",
             "province_name": "Sorsogon",
             "province_link": "https://en.wikipedia.org/wiki/Sorsogon",
@@ -1136,6 +1206,7 @@
             "total_barangays": 541
         },
         {
+            "id": 70,
             "iso": "PH-SCO",
             "province_name": "South Cotabato",
             "province_link": "https://en.wikipedia.org/wiki/South_Cotabato",
@@ -1152,6 +1223,7 @@
             "total_barangays": 225
         },
         {
+            "id": 71,
             "iso": "PH-SLE",
             "province_name": "Southern Leyte",
             "province_link": "https://en.wikipedia.org/wiki/Southern_Leyte",
@@ -1168,6 +1240,7 @@
             "total_barangays": 500
         },
         {
+            "id": 72,
             "iso": "PH-SUK",
             "province_name": "Sultan Kudarat",
             "province_link": "https://en.wikipedia.org/wiki/Sultan_Kudarat",
@@ -1184,6 +1257,7 @@
             "total_barangays": 249
         },
         {
+            "id": 73,
             "iso": "PH-SLU",
             "province_name": "Sulu",
             "province_link": "https://en.wikipedia.org/wiki/Sulu",
@@ -1200,6 +1274,7 @@
             "total_barangays": 410
         },
         {
+            "id": 74,
             "iso": "PH-SUN",
             "province_name": "Surigao del Norte",
             "province_link": "https://en.wikipedia.org/wiki/Surigao_del_Norte",
@@ -1216,6 +1291,7 @@
             "total_barangays": 335
         },
         {
+            "id": 75,
             "iso": "PH-SUR",
             "province_name": "Surigao del Sur",
             "province_link": "https://en.wikipedia.org/wiki/Surigao_del_Sur",
@@ -1232,6 +1308,7 @@
             "total_barangays": 309
         },
         {
+            "id": 76,
             "iso": "PH-TAR",
             "province_name": "Tarlac",
             "province_link": "https://en.wikipedia.org/wiki/Tarlac",
@@ -1248,6 +1325,7 @@
             "total_barangays": 511
         },
         {
+            "id": 77,
             "iso": "PH-TAW",
             "province_name": "Tawi-Tawi",
             "province_link": "https://en.wikipedia.org/wiki/Tawi-Tawi",
@@ -1264,6 +1342,7 @@
             "total_barangays": 203
         },
         {
+            "id": 78,
             "iso": "PH-ZMB",
             "province_name": "Zambales",
             "province_link": "https://en.wikipedia.org/wiki/Zambales",
@@ -1280,6 +1359,7 @@
             "total_barangays": 247
         },
         {
+            "id": 79,
             "iso": "PH-ZAN",
             "province_name": "Zamboanga del Norte",
             "province_link": "https://en.wikipedia.org/wiki/Zamboanga_del_Norte",
@@ -1296,6 +1376,7 @@
             "total_barangays": 691
         },
         {
+            "id": 80,
             "iso": "PH-ZAS",
             "province_name": "Zamboanga del Sur",
             "province_link": "https://en.wikipedia.org/wiki/Zamboanga_del_Sur",
@@ -1312,6 +1393,7 @@
             "total_barangays": 779
         },
         {
+            "id": 81,
             "iso": "PH-ZSI",
             "province_name": "Zamboanga Sibugay",
             "province_link": "https://en.wikipedia.org/wiki/Zamboanga_Sibugay",
@@ -1328,6 +1410,7 @@
             "total_barangays": 389
         },
         {
+            "id": 82,
             "iso": "PH-00",
             "province_name": "Metro Manila",
             "province_link": "https://en.wikipedia.org/wiki/Metro_Manila",
