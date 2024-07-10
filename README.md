@@ -28,7 +28,7 @@
         - **License**: Creative Commons Attribution-Share Alike 4.0 International
         - **Modifications**: Removed colors and legends to get raw borders only.
         - **Size**: 1.9 MiB
-    * **Municipality Level** - municipality-level borders
+    * **Municipality/City Level** - municipality/city-level borders
         - **Source**: https://commons.wikimedia.org/wiki/File:Municipalities_of_the_Philippines.svg
         - **License**: Public Domain
         - **Size**: 47.3 MiB
