@@ -50,22 +50,44 @@
             - https://en.wikipedia.org/wiki/List_of_cities_and_municipalities_in_the_Philippines
 
 
-
+## Scripts 
+1. **SVG Path to Polygon**
+    - **Source**: https://gis.stackexchange.com/a/301682
+    - **Used in**: `scripts/collection/maps/extract_polygons.py`
 
 
 ## Installation 
-1. (Optional) Copy the Involved Articles (if updated) Metadata articles in 
-   Part-A in `./data/metadata/base` folder with the following names respectively:
-    - `philippines.regions.html` 
-    - `philippines.provinces.html` 
-    - `philippines.district.html`
-    - `philippines.cities.html`
-    - `philippines.municiites.html`
 
-1. Run `node scripts/metadata/part-a/extract_metadata.js`. 
-   Then, verify the outputs at `./data/metadata/part-a/` folder. 
+### Data Collection / Set-up
+1. Install dependencies: 
+    - `npm install`
+    - `source env/bin/activate && python3 -m pip install -r "requirements.txt"`
 
+1. **Download Base Articles**
+    (Optional) Copy the Involved Articles (if updated) Metadata articles in 
+    Part-A in `./data/metadata/base` folder with the following names respectively:
+        - `philippines.regions.html` 
+        - `philippines.provinces.html` 
+        - `philippines.district.html`
+        - `philippines.cities.html`
+        - `philippines.municiites.html`
 
-1. Then, `node scripts/collection/articles/scraper.js`. 
-   Verify the outputs at `./data/articles/` folder. 
+1. **Extract Metadata (Part A)**
+    * Run `node scripts/metadata/part-a/extract_metadata.js`. 
+    * Then, verify the outputs at `./data/metadata/part-a/` folder. 
 
+1. **Scrape Articles**
+    * Execute `node scripts/collection/articles/scraper.js`. 
+    * Verify the outputs at `./data/articles/` folder. 
+
+1. **Extend Metadata (Extraction, Part B)**
+    * Then, execute`node scripts/collection/articles/extend_metadata.js`. 
+    * Verify the outputs at `./data/metadata/part-b/` folder. 
+
+1. **Extract Raw Paths from Map**
+    * Then, execute `node scripts/collection/maps/extract_info.js`. 
+    * Verify the outputs at `./data/maps/raw/paths` folder. 
+
+1. **Extract Polygons from Paths**
+    * Then, execute `python3 scripts/collection/maps/extract_polygons.py`. 
+    * Verify the outputs at `./data/maps/polygons/` folder. 
