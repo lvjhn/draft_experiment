@@ -8,7 +8,7 @@ module.exports = async function extractDistrictsMetadata() {
     console.log("@ Extending districts metadata...")   
    
     const districtsFile = "_/data/metadata/part-a/philippines.districts.json"
-    const articlesDir    = "./data/articles/districts"
+    const articlesDir    = "./data/articles/raw/districts"
     const data = []
 
     const catalog = require(districtsFile)

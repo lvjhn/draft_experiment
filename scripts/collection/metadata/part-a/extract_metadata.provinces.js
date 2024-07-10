@@ -7,7 +7,7 @@ const normalize = require("_/scripts/helpers/normalize")
 module.exports = async function extractProvincesMetadata() {
     console.log("@ Extracting province metadata...")   
 
-    const path = "./data/metadata/base/philippines.provinces.html"
+    const path = "./data/metadata/sources/philippines.provinces.html"
     const html = (await fse.readFile(path)).toString()
     const $ = cheerio.load(html)
     

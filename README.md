@@ -63,6 +63,7 @@
     - `npm install`
     - `source env/bin/activate && python3 -m pip install -r "requirements.txt"`
 
+#### Metadata Extraction and Article Scraping
 1. **Download Base Articles**
     (Optional) Copy the Involved Articles (if updated) Metadata articles in 
     Part-A in `./data/metadata/base` folder with the following names respectively:
@@ -84,6 +85,7 @@
     * Then, execute`node scripts/collection/articles/extend_metadata.js`. 
     * Verify the outputs at `./data/metadata/part-b/` folder. 
 
+#### Map Preprocessing
 1. **Extract Raw Paths from Map**
     * Then, execute `node scripts/collection/maps/extract_info.js`. 
     * Verify the outputs at `./data/maps/raw/paths` folder. 
