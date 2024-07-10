@@ -4,7 +4,8 @@
   "description": "## General Statistics (July 2024) * **No. of Regions** - 17  * **No. of Provinces** - 82  * **No. of Districts** - 253  * **No. of Cities** - 149   * **No. of Municipalities** - 1,494  * **No. of Barangays** - 42,029",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "ln -Fsn ../ ./node_modules/_ "
   },
   "repository": {
     "type": "git",
