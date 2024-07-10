@@ -32,8 +32,11 @@
     * **Barangay Level** - barangay-level borders
         - **Not Included** - Future Recommendation 
 
+1. **List/Outline of Barangays (2016, 2017, and 2019)** 
+    * **Source**: https://github.com/flores-jacob/philippine-regions-provinces-cities-municipalities-barangays
+    * **License**: MIT
 
-1. **Metadata (Part A) Articles** 
+1. **Metadata (Part A) Arti     cles** 
     - These articles are used to find locations and relevant information or
       articles about them. 
     - Involved Articles : 
@@ -47,6 +50,9 @@
             - https://en.wikipedia.org/wiki/List_of_cities_and_municipalities_in_the_Philippines
 
 
+
+
+
 ## Installation 
 1. (Optional) Copy the Involved Articles (if updated) Metadata articles in 
    Part-A in `./data/metadata/base` folder with the following names respectively:
@@ -55,4 +61,11 @@
     - `philippines.district.html`
     - `philippines.cities.html`
     - `philippines.municiites.html`
+
+1. Run `node scripts/metadata/part-a/extract_metadata.js`. 
+   Then, verify the outputs at `./data/metadata/part-a/` folder. 
+
+
+1. Then, `node scripts/collection/articles/scraper.js`. 
+   Verify the outputs at `./data/articles/` folder. 
 

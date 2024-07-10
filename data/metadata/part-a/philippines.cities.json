@@ -14,8 +14,8 @@
     ],
     "rows": [
         {
-            "city": "Alaminos",
-            "link": "https://en.wikipedia.org/wiki/Alaminos,_Pangasinan",
+            "city_name": "Alaminos",
+            "city_link": "https://en.wikipedia.org/wiki/Alaminos,_Pangasinan",
             "population": 99397,
             "area_km2": 164.26,
             "density_km2": 605,
@@ -26,8 +26,8 @@
             "ratification": "March 28, 2001"
         },
         {
-            "city": "Angeles City",
-            "link": "https://en.wikipedia.org/wiki/Angeles_City",
+            "city_name": "Angeles City",
+            "city_link": "https://en.wikipedia.org/wiki/Angeles_City",
             "population": 462928,
             "area_km2": 60.27,
             "density_km2": 6985,
@@ -38,8 +38,8 @@
             "ratification": "January 1, 1964"
         },
         {
-            "city": "Antipolo",
-            "link": "https://en.wikipedia.org/wiki/Antipolo",
+            "city_name": "Antipolo",
+            "city_link": "https://en.wikipedia.org/wiki/Antipolo",
             "population": 887399,
             "area_km2": 306.1,
             "density_km2": 2899,
@@ -50,8 +50,8 @@
             "ratification": "April 4, 1998"
         },
         {
-            "city": "Bacolod",
-            "link": "https://en.wikipedia.org/wiki/Bacolod",
+            "city_name": "Bacolod",
+            "city_link": "https://en.wikipedia.org/wiki/Bacolod",
             "population": 600783,
             "area_km2": 162.67,
             "density_km2": 3693,
@@ -62,8 +62,8 @@
             "ratification": "October 19, 1938"
         },
         {
-            "city": "Bacoor",
-            "link": "https://en.wikipedia.org/wiki/Bacoor",
+            "city_name": "Bacoor",
+            "city_link": "https://en.wikipedia.org/wiki/Bacoor",
             "population": 664625,
             "area_km2": 46.17,
             "density_km2": 14395,
@@ -74,8 +74,8 @@
             "ratification": "June 23, 2012"
         },
         {
-            "city": "Bago",
-            "link": "https://en.wikipedia.org/wiki/Bago,_Negros_Occidental",
+            "city_name": "Bago",
+            "city_link": "https://en.wikipedia.org/wiki/Bago,_Negros_Occidental",
             "population": 191210,
             "area_km2": 401.2,
             "density_km2": 477,
@@ -86,8 +86,8 @@
             "ratification": "February 19, 1966"
         },
         {
-            "city": "Baguio",
-            "link": "https://en.wikipedia.org/wiki/Baguio",
+            "city_name": "Baguio",
+            "city_link": "https://en.wikipedia.org/wiki/Baguio",
             "population": 366358,
             "area_km2": 57.51,
             "density_km2": 6370,
@@ -98,8 +98,8 @@
             "ratification": "September 1, 1909"
         },
         {
-            "city": "Bais",
-            "link": "https://en.wikipedia.org/wiki/Bais,_Negros_Oriental",
+            "city_name": "Bais",
+            "city_link": "https://en.wikipedia.org/wiki/Bais,_Negros_Oriental",
             "population": 84317,
             "area_km2": 319.64,
             "density_km2": 264,
@@ -110,8 +110,8 @@
             "ratification": "September 9, 1968"
         },
         {
-            "city": "Balanga",
-            "link": "https://en.wikipedia.org/wiki/Balanga,_Bataan",
+            "city_name": "Balanga",
+            "city_link": "https://en.wikipedia.org/wiki/Balanga,_Bataan",
             "population": 104173,
             "area_km2": 111.63,
             "density_km2": 933,
@@ -122,8 +122,8 @@
             "ratification": "December 30, 2000"
         },
         {
-            "city": "Baliwag",
-            "link": "https://en.wikipedia.org/wiki/Baliwag",
+            "city_name": "Baliwag",
+            "city_link": "https://en.wikipedia.org/wiki/Baliwag",
             "population": 168470,
             "area_km2": 45.05,
             "density_km2": 3740,
@@ -134,8 +134,8 @@
             "ratification": "December 17, 2022"
         },
         {
-            "city": "Batac",
-            "link": "https://en.wikipedia.org/wiki/Batac",
+            "city_name": "Batac",
+            "city_link": "https://en.wikipedia.org/wiki/Batac",
             "population": 55484,
             "area_km2": 161.06,
             "density_km2": 344,
@@ -146,8 +146,8 @@
             "ratification": "June 23, 2007"
         },
         {
-            "city": "Batangas City",
-            "link": "https://en.wikipedia.org/wiki/Batangas_City",
+            "city_name": "Batangas City",
+            "city_link": "https://en.wikipedia.org/wiki/Batangas_City",
             "population": 351437,
             "area_km2": 282.96,
             "density_km2": 1242,
@@ -158,8 +158,8 @@
             "ratification": "June 21, 1969"
         },
         {
-            "city": "Bayawan",
-            "link": "https://en.wikipedia.org/wiki/Bayawan",
+            "city_name": "Bayawan",
+            "city_link": "https://en.wikipedia.org/wiki/Bayawan",
             "population": 122747,
             "area_km2": 699.08,
             "density_km2": 176,
@@ -170,8 +170,8 @@
             "ratification": "December 23, 2000"
         },
         {
-            "city": "Baybay",
-            "link": "https://en.wikipedia.org/wiki/Baybay",
+            "city_name": "Baybay",
+            "city_link": "https://en.wikipedia.org/wiki/Baybay",
             "population": 111848,
             "area_km2": 459.3,
             "density_km2": 244,
@@ -182,8 +182,8 @@
             "ratification": "June 16, 2007"
         },
         {
-            "city": "Bayugan",
-            "link": "https://en.wikipedia.org/wiki/Bayugan",
+            "city_name": "Bayugan",
+            "city_link": "https://en.wikipedia.org/wiki/Bayugan",
             "population": 109499,
             "area_km2": 688.77,
             "density_km2": 159,
@@ -194,8 +194,8 @@
             "ratification": "June 20, 2007"
         },
         {
-            "city": "Biñan",
-            "link": "https://en.wikipedia.org/wiki/Bi%C3%B1an",
+            "city_name": "Biñan",
+            "city_link": "https://en.wikipedia.org/wiki/Bi%C3%B1an",
             "population": 407437,
             "area_km2": 43.5,
             "density_km2": 9366,
@@ -206,8 +206,8 @@
             "ratification": "February 2, 2010"
         },
         {
-            "city": "Bislig",
-            "link": "https://en.wikipedia.org/wiki/Bislig",
+            "city_name": "Bislig",
+            "city_link": "https://en.wikipedia.org/wiki/Bislig",
             "population": 99290,
             "area_km2": 331.8,
             "density_km2": 299,
@@ -218,8 +218,8 @@
             "ratification": "September 18, 2000"
         },
         {
-            "city": "Bogo",
-            "link": "https://en.wikipedia.org/wiki/Bogo,_Cebu",
+            "city_name": "Bogo",
+            "city_link": "https://en.wikipedia.org/wiki/Bogo,_Cebu",
             "population": 88867,
             "area_km2": 103.52,
             "density_km2": 858,
@@ -230,8 +230,8 @@
             "ratification": "June 16, 2007"
         },
         {
-            "city": "Borongan",
-            "link": "https://en.wikipedia.org/wiki/Borongan",
+            "city_name": "Borongan",
+            "city_link": "https://en.wikipedia.org/wiki/Borongan",
             "population": 71961,
             "area_km2": 475,
             "density_km2": 151,
@@ -242,8 +242,8 @@
             "ratification": "June 20, 2007"
         },
         {
-            "city": "Butuan",
-            "link": "https://en.wikipedia.org/wiki/Butuan",
+            "city_name": "Butuan",
+            "city_link": "https://en.wikipedia.org/wiki/Butuan",
             "population": 372910,
             "area_km2": 816.62,
             "density_km2": 457,
@@ -254,8 +254,8 @@
             "ratification": "August 2, 1950"
         },
         {
-            "city": "Cabadbaran",
-            "link": "https://en.wikipedia.org/wiki/Cabadbaran",
+            "city_name": "Cabadbaran",
+            "city_link": "https://en.wikipedia.org/wiki/Cabadbaran",
             "population": 80354,
             "area_km2": 214.44,
             "density_km2": 375,
@@ -266,8 +266,8 @@
             "ratification": "July 28, 2007"
         },
         {
-            "city": "Cabanatuan",
-            "link": "https://en.wikipedia.org/wiki/Cabanatuan",
+            "city_name": "Cabanatuan",
+            "city_link": "https://en.wikipedia.org/wiki/Cabanatuan",
             "population": 327325,
             "area_km2": 192.29,
             "density_km2": 1702,
@@ -278,8 +278,8 @@
             "ratification": "July 24, 1950"
         },
         {
-            "city": "Cabuyao",
-            "link": "https://en.wikipedia.org/wiki/Cabuyao",
+            "city_name": "Cabuyao",
+            "city_link": "https://en.wikipedia.org/wiki/Cabuyao",
             "population": 355330,
             "area_km2": 43.4,
             "density_km2": 8187,
@@ -290,8 +290,8 @@
             "ratification": "August 4, 2012"
         },
         {
-            "city": "Cadiz",
-            "link": "https://en.wikipedia.org/wiki/Cadiz,_Negros_Occidental",
+            "city_name": "Cadiz",
+            "city_link": "https://en.wikipedia.org/wiki/Cadiz,_Negros_Occidental",
             "population": 158544,
             "area_km2": 524.57,
             "density_km2": 302,
@@ -302,8 +302,8 @@
             "ratification": "July 4, 1967"
         },
         {
-            "city": "Cagayan de Oro",
-            "link": "https://en.wikipedia.org/wiki/Cagayan_de_Oro",
+            "city_name": "Cagayan de Oro",
+            "city_link": "https://en.wikipedia.org/wiki/Cagayan_de_Oro",
             "population": 728402,
             "area_km2": 412.8,
             "density_km2": 1765,
@@ -314,8 +314,8 @@
             "ratification": "June 15, 1950"
         },
         {
-            "city": "Calaca",
-            "link": "https://en.wikipedia.org/wiki/Calaca,_Batangas",
+            "city_name": "Calaca",
+            "city_link": "https://en.wikipedia.org/wiki/Calaca,_Batangas",
             "population": 87361,
             "area_km2": 114.58,
             "density_km2": 762,
@@ -326,8 +326,8 @@
             "ratification": "September 3, 2022"
         },
         {
-            "city": "Calamba",
-            "link": "https://en.wikipedia.org/wiki/Calamba,_Laguna",
+            "city_name": "Calamba",
+            "city_link": "https://en.wikipedia.org/wiki/Calamba,_Laguna",
             "population": 539671,
             "area_km2": 149.5,
             "density_km2": 3610,
@@ -338,8 +338,8 @@
             "ratification": "April 21, 2001"
         },
         {
-            "city": "Calapan",
-            "link": "https://en.wikipedia.org/wiki/Calapan",
+            "city_name": "Calapan",
+            "city_link": "https://en.wikipedia.org/wiki/Calapan",
             "population": 145786,
             "area_km2": 250.06,
             "density_km2": 583,
@@ -350,8 +350,8 @@
             "ratification": "March 21, 1998"
         },
         {
-            "city": "Calbayog",
-            "link": "https://en.wikipedia.org/wiki/Calbayog",
+            "city_name": "Calbayog",
+            "city_link": "https://en.wikipedia.org/wiki/Calbayog",
             "population": 186960,
             "area_km2": 880.74,
             "density_km2": 212,
@@ -362,8 +362,8 @@
             "ratification": "October 16, 1948"
         },
         {
-            "city": "Caloocan",
-            "link": "https://en.wikipedia.org/wiki/Caloocan",
+            "city_name": "Caloocan",
+            "city_link": "https://en.wikipedia.org/wiki/Caloocan",
             "population": 1661584,
             "area_km2": 55.8,
             "density_km2": 29777,
@@ -374,8 +374,8 @@
             "ratification": "February 16, 1962"
         },
         {
-            "city": "Candon",
-            "link": "https://en.wikipedia.org/wiki/Candon",
+            "city_name": "Candon",
+            "city_link": "https://en.wikipedia.org/wiki/Candon",
             "population": 61432,
             "area_km2": 103.28,
             "density_km2": 595,
@@ -386,8 +386,8 @@
             "ratification": "March 28, 2001"
         },
         {
-            "city": "Canlaon",
-            "link": "https://en.wikipedia.org/wiki/Canlaon",
+            "city_name": "Canlaon",
+            "city_link": "https://en.wikipedia.org/wiki/Canlaon",
             "population": 58822,
             "area_km2": 170.93,
             "density_km2": 344,
@@ -398,8 +398,8 @@
             "ratification": "June 18, 1961"
         },
         {
-            "city": "Carcar",
-            "link": "https://en.wikipedia.org/wiki/Carcar",
+            "city_name": "Carcar",
+            "city_link": "https://en.wikipedia.org/wiki/Carcar",
             "population": 136453,
             "area_km2": 116.78,
             "density_km2": 1168,
@@ -410,8 +410,8 @@
             "ratification": "July 1, 2007"
         },
         {
-            "city": "Carmona",
-            "link": "https://en.wikipedia.org/wiki/Carmona,_Cavite",
+            "city_name": "Carmona",
+            "city_link": "https://en.wikipedia.org/wiki/Carmona,_Cavite",
             "population": 106256,
             "area_km2": 29.68,
             "density_km2": 3580,
@@ -422,8 +422,8 @@
             "ratification": "July 8, 2023"
         },
         {
-            "city": "Catbalogan",
-            "link": "https://en.wikipedia.org/wiki/Catbalogan",
+            "city_name": "Catbalogan",
+            "city_link": "https://en.wikipedia.org/wiki/Catbalogan",
             "population": 106440,
             "area_km2": 274.22,
             "density_km2": 388,
@@ -434,8 +434,8 @@
             "ratification": "June 16, 2007"
         },
         {
-            "city": "Cauayan",
-            "link": "https://en.wikipedia.org/wiki/Cauayan,_Isabela",
+            "city_name": "Cauayan",
+            "city_link": "https://en.wikipedia.org/wiki/Cauayan,_Isabela",
             "population": 143403,
             "area_km2": 336.4,
             "density_km2": 426,
@@ -446,8 +446,8 @@
             "ratification": "March 28, 2001"
         },
         {
-            "city": "Cavite City",
-            "link": "https://en.wikipedia.org/wiki/Cavite_City",
+            "city_name": "Cavite City",
+            "city_link": "https://en.wikipedia.org/wiki/Cavite_City",
             "population": 100674,
             "area_km2": 10.89,
             "density_km2": 9245,
@@ -458,8 +458,8 @@
             "ratification": "May 26, 1940"
         },
         {
-            "city": "Cebu City",
-            "link": "https://en.wikipedia.org/wiki/Cebu_City",
+            "city_name": "Cebu City",
+            "city_link": "https://en.wikipedia.org/wiki/Cebu_City",
             "population": 964169,
             "area_km2": 315,
             "density_km2": 3061,
@@ -470,8 +470,8 @@
             "ratification": "February 4, 1937"
         },
         {
-            "city": "Cotabato City",
-            "link": "https://en.wikipedia.org/wiki/Cotabato_City",
+            "city_name": "Cotabato City",
+            "city_link": "https://en.wikipedia.org/wiki/Cotabato_City",
             "population": 325079,
             "area_km2": 176,
             "density_km2": 1847,
@@ -482,8 +482,8 @@
             "ratification": "June 20, 1959"
         },
         {
-            "city": "Dagupan",
-            "link": "https://en.wikipedia.org/wiki/Dagupan",
+            "city_name": "Dagupan",
+            "city_link": "https://en.wikipedia.org/wiki/Dagupan",
             "population": 174302,
             "area_km2": 37.23,
             "density_km2": 4682,
@@ -494,8 +494,8 @@
             "ratification": "June 20, 1947"
         },
         {
-            "city": "Danao",
-            "link": "https://en.wikipedia.org/wiki/Danao,_Cebu",
+            "city_name": "Danao",
+            "city_link": "https://en.wikipedia.org/wiki/Danao,_Cebu",
             "population": 156321,
             "area_km2": 107.3,
             "density_km2": 1457,
@@ -506,8 +506,8 @@
             "ratification": "June 7, 1961"
         },
         {
-            "city": "Dapitan",
-            "link": "https://en.wikipedia.org/wiki/Dapitan",
+            "city_name": "Dapitan",
+            "city_link": "https://en.wikipedia.org/wiki/Dapitan",
             "population": 85202,
             "area_km2": 390.53,
             "density_km2": 218,
@@ -518,8 +518,8 @@
             "ratification": "June 22, 1963"
         },
         {
-            "city": "Dasmariñas",
-            "link": "https://en.wikipedia.org/wiki/Dasmari%C3%B1as",
+            "city_name": "Dasmariñas",
+            "city_link": "https://en.wikipedia.org/wiki/Dasmari%C3%B1as",
             "population": 703141,
             "area_km2": 90.13,
             "density_km2": 7801,
@@ -530,8 +530,8 @@
             "ratification": "November 25, 2009"
         },
         {
-            "city": "Davao City",
-            "link": "https://en.wikipedia.org/wiki/Davao_City",
+            "city_name": "Davao City",
+            "city_link": "https://en.wikipedia.org/wiki/Davao_City",
             "population": 1776949,
             "area_km2": 2443.61,
             "density_km2": 727,
@@ -542,8 +542,8 @@
             "ratification": "March 1, 1937"
         },
         {
-            "city": "Digos",
-            "link": "https://en.wikipedia.org/wiki/Digos",
+            "city_name": "Digos",
+            "city_link": "https://en.wikipedia.org/wiki/Digos",
             "population": 188376,
             "area_km2": 287.1,
             "density_km2": 656,
@@ -554,8 +554,8 @@
             "ratification": "September 8, 2000"
         },
         {
-            "city": "Dipolog",
-            "link": "https://en.wikipedia.org/wiki/Dipolog",
+            "city_name": "Dipolog",
+            "city_link": "https://en.wikipedia.org/wiki/Dipolog",
             "population": 138141,
             "area_km2": 241.13,
             "density_km2": 573,
@@ -566,8 +566,8 @@
             "ratification": "January 1, 1970"
         },
         {
-            "city": "Dumaguete",
-            "link": "https://en.wikipedia.org/wiki/Dumaguete",
+            "city_name": "Dumaguete",
+            "city_link": "https://en.wikipedia.org/wiki/Dumaguete",
             "population": 134103,
             "area_km2": 33.62,
             "density_km2": 3989,
@@ -578,8 +578,8 @@
             "ratification": "November 24, 1948"
         },
         {
-            "city": "El Salvador",
-            "link": "https://en.wikipedia.org/wiki/El_Salvador,_Misamis_Oriental",
+            "city_name": "El Salvador",
+            "city_link": "https://en.wikipedia.org/wiki/El_Salvador,_Misamis_Oriental",
             "population": 58771,
             "area_km2": 106.15,
             "density_km2": 554,
@@ -590,8 +590,8 @@
             "ratification": "June 27, 2007"
         },
         {
-            "city": "Escalante",
-            "link": "https://en.wikipedia.org/wiki/Escalante,_Negros_Occidental",
+            "city_name": "Escalante",
+            "city_link": "https://en.wikipedia.org/wiki/Escalante,_Negros_Occidental",
             "population": 96159,
             "area_km2": 192.76,
             "density_km2": 499,
@@ -602,8 +602,8 @@
             "ratification": "March 31, 2001"
         },
         {
-            "city": "Gapan",
-            "link": "https://en.wikipedia.org/wiki/Gapan",
+            "city_name": "Gapan",
+            "city_link": "https://en.wikipedia.org/wiki/Gapan",
             "population": 122968,
             "area_km2": 164.44,
             "density_km2": 748,
@@ -614,8 +614,8 @@
             "ratification": "August 25, 2001"
         },
         {
-            "city": "General Santos",
-            "link": "https://en.wikipedia.org/wiki/General_Santos",
+            "city_name": "General Santos",
+            "city_link": "https://en.wikipedia.org/wiki/General_Santos",
             "population": 697315,
             "area_km2": 492.86,
             "density_km2": 1415,
@@ -626,8 +626,8 @@
             "ratification": "June 15, 1968"
         },
         {
-            "city": "General Trias",
-            "link": "https://en.wikipedia.org/wiki/General_Trias",
+            "city_name": "General Trias",
+            "city_link": "https://en.wikipedia.org/wiki/General_Trias",
             "population": 450583,
             "area_km2": 90.01,
             "density_km2": 5006,
@@ -638,8 +638,8 @@
             "ratification": "December 12, 2015"
         },
         {
-            "city": "Gingoog",
-            "link": "https://en.wikipedia.org/wiki/Gingoog",
+            "city_name": "Gingoog",
+            "city_link": "https://en.wikipedia.org/wiki/Gingoog",
             "population": 136698,
             "area_km2": 568.44,
             "density_km2": 240,
@@ -650,8 +650,8 @@
             "ratification": "June 18, 1960"
         },
         {
-            "city": "Guihulngan",
-            "link": "https://en.wikipedia.org/wiki/Guihulngan",
+            "city_name": "Guihulngan",
+            "city_link": "https://en.wikipedia.org/wiki/Guihulngan",
             "population": 102656,
             "area_km2": 388.56,
             "density_km2": 264,
@@ -662,8 +662,8 @@
             "ratification": "July 14, 2007"
         },
         {
-            "city": "Himamaylan",
-            "link": "https://en.wikipedia.org/wiki/Himamaylan",
+            "city_name": "Himamaylan",
+            "city_link": "https://en.wikipedia.org/wiki/Himamaylan",
             "population": 116240,
             "area_km2": 367.04,
             "density_km2": 317,
@@ -674,8 +674,8 @@
             "ratification": "March 31, 2001"
         },
         {
-            "city": "Ilagan",
-            "link": "https://en.wikipedia.org/wiki/Ilagan",
+            "city_name": "Ilagan",
+            "city_link": "https://en.wikipedia.org/wiki/Ilagan",
             "population": 158218,
             "area_km2": 1166.26,
             "density_km2": 136,
@@ -686,8 +686,8 @@
             "ratification": "August 11, 2012"
         },
         {
-            "city": "Iligan",
-            "link": "https://en.wikipedia.org/wiki/Iligan",
+            "city_name": "Iligan",
+            "city_link": "https://en.wikipedia.org/wiki/Iligan",
             "population": 363115,
             "area_km2": 813.37,
             "density_km2": 446,
@@ -698,8 +698,8 @@
             "ratification": "June 16, 1950"
         },
         {
-            "city": "Iloilo City",
-            "link": "https://en.wikipedia.org/wiki/Iloilo_City",
+            "city_name": "Iloilo City",
+            "city_link": "https://en.wikipedia.org/wiki/Iloilo_City",
             "population": 457626,
             "area_km2": 78.34,
             "density_km2": 5842,
@@ -710,8 +710,8 @@
             "ratification": "August 25, 1937"
         },
         {
-            "city": "Imus",
-            "link": "https://en.wikipedia.org/wiki/Imus",
+            "city_name": "Imus",
+            "city_link": "https://en.wikipedia.org/wiki/Imus",
             "population": 496794,
             "area_km2": 53.15,
             "density_km2": 9347,
@@ -722,8 +722,8 @@
             "ratification": "June 30, 2012"
         },
         {
-            "city": "Iriga",
-            "link": "https://en.wikipedia.org/wiki/Iriga",
+            "city_name": "Iriga",
+            "city_link": "https://en.wikipedia.org/wiki/Iriga",
             "population": 114457,
             "area_km2": 137.35,
             "density_km2": 833,
@@ -734,8 +734,8 @@
             "ratification": "September 3, 1968"
         },
         {
-            "city": "Isabela",
-            "link": "https://en.wikipedia.org/wiki/Isabela,_Basilan",
+            "city_name": "Isabela",
+            "city_link": "https://en.wikipedia.org/wiki/Isabela,_Basilan",
             "population": 130379,
             "area_km2": 223.73,
             "density_km2": 583,
@@ -746,8 +746,8 @@
             "ratification": "April 25, 2001"
         },
         {
-            "city": "Kabankalan",
-            "link": "https://en.wikipedia.org/wiki/Kabankalan",
+            "city_name": "Kabankalan",
+            "city_link": "https://en.wikipedia.org/wiki/Kabankalan",
             "population": 200198,
             "area_km2": 697.35,
             "density_km2": 287,
@@ -758,8 +758,8 @@
             "ratification": "August 2, 1997"
         },
         {
-            "city": "Kidapawan",
-            "link": "https://en.wikipedia.org/wiki/Kidapawan",
+            "city_name": "Kidapawan",
+            "city_link": "https://en.wikipedia.org/wiki/Kidapawan",
             "population": 160791,
             "area_km2": 358.47,
             "density_km2": 449,
@@ -770,8 +770,8 @@
             "ratification": "March 22, 1998"
         },
         {
-            "city": "Koronadal",
-            "link": "https://en.wikipedia.org/wiki/Koronadal",
+            "city_name": "Koronadal",
+            "city_link": "https://en.wikipedia.org/wiki/Koronadal",
             "population": 195398,
             "area_km2": 277,
             "density_km2": 705,
@@ -782,8 +782,8 @@
             "ratification": "October 8, 2000"
         },
         {
-            "city": "La Carlota",
-            "link": "https://en.wikipedia.org/wiki/La_Carlota,_Negros_Occidental",
+            "city_name": "La Carlota",
+            "city_link": "https://en.wikipedia.org/wiki/La_Carlota,_Negros_Occidental",
             "population": 66664,
             "area_km2": 137.29,
             "density_km2": 486,
@@ -794,8 +794,8 @@
             "ratification": "January 22, 1966"
         },
         {
-            "city": "Lamitan",
-            "link": "https://en.wikipedia.org/wiki/Lamitan",
+            "city_name": "Lamitan",
+            "city_link": "https://en.wikipedia.org/wiki/Lamitan",
             "population": 100150,
             "area_km2": 354.45,
             "density_km2": 283,
@@ -806,8 +806,8 @@
             "ratification": "June 18, 2007"
         },
         {
-            "city": "Laoag",
-            "link": "https://en.wikipedia.org/wiki/Laoag",
+            "city_name": "Laoag",
+            "city_link": "https://en.wikipedia.org/wiki/Laoag",
             "population": 111651,
             "area_km2": 116.08,
             "density_km2": 962,
@@ -818,8 +818,8 @@
             "ratification": "January 1, 1966"
         },
         {
-            "city": "Lapu-Lapu City",
-            "link": "https://en.wikipedia.org/wiki/Lapu-Lapu_City",
+            "city_name": "Lapu-Lapu City",
+            "city_link": "https://en.wikipedia.org/wiki/Lapu-Lapu_City",
             "population": 497604,
             "area_km2": 58.1,
             "density_km2": 8565,
@@ -830,8 +830,8 @@
             "ratification": "December 31, 1961"
         },
         {
-            "city": "Las Piñas",
-            "link": "https://en.wikipedia.org/wiki/Las_Pi%C3%B1as",
+            "city_name": "Las Piñas",
+            "city_link": "https://en.wikipedia.org/wiki/Las_Pi%C3%B1as",
             "population": 606293,
             "area_km2": 32.69,
             "density_km2": 18547,
@@ -842,8 +842,8 @@
             "ratification": "March 26, 1997"
         },
         {
-            "city": "Legazpi",
-            "link": "https://en.wikipedia.org/wiki/Legazpi,_Albay",
+            "city_name": "Legazpi",
+            "city_link": "https://en.wikipedia.org/wiki/Legazpi,_Albay",
             "population": 209533,
             "area_km2": 153.7,
             "density_km2": 1363,
@@ -854,8 +854,8 @@
             "ratification": "June 12, 1959"
         },
         {
-            "city": "Ligao",
-            "link": "https://en.wikipedia.org/wiki/Ligao",
+            "city_name": "Ligao",
+            "city_link": "https://en.wikipedia.org/wiki/Ligao",
             "population": 118096,
             "area_km2": 246.75,
             "density_km2": 479,
@@ -866,8 +866,8 @@
             "ratification": "March 24, 2001"
         },
         {
-            "city": "Lipa",
-            "link": "https://en.wikipedia.org/wiki/Lipa,_Batangas",
+            "city_name": "Lipa",
+            "city_link": "https://en.wikipedia.org/wiki/Lipa,_Batangas",
             "population": 372931,
             "area_km2": 209.4,
             "density_km2": 1781,
@@ -878,8 +878,8 @@
             "ratification": "June 20, 1947"
         },
         {
-            "city": "Lucena",
-            "link": "https://en.wikipedia.org/wiki/Lucena",
+            "city_name": "Lucena",
+            "city_link": "https://en.wikipedia.org/wiki/Lucena",
             "population": 278924,
             "area_km2": 80.21,
             "density_km2": 3477,
@@ -890,8 +890,8 @@
             "ratification": "August 19, 1962"
         },
         {
-            "city": "Maasin",
-            "link": "https://en.wikipedia.org/wiki/Maasin",
+            "city_name": "Maasin",
+            "city_link": "https://en.wikipedia.org/wiki/Maasin",
             "population": 87446,
             "area_km2": 211.71,
             "density_km2": 413,
@@ -902,8 +902,8 @@
             "ratification": "August 10, 2000"
         },
         {
-            "city": "Mabalacat",
-            "link": "https://en.wikipedia.org/wiki/Mabalacat",
+            "city_name": "Mabalacat",
+            "city_link": "https://en.wikipedia.org/wiki/Mabalacat",
             "population": 293244,
             "area_km2": 83.18,
             "density_km2": 3525,
@@ -914,8 +914,8 @@
             "ratification": "July 21, 2012"
         },
         {
-            "city": "Makati",
-            "link": "https://en.wikipedia.org/wiki/Makati",
+            "city_name": "Makati",
+            "city_link": "https://en.wikipedia.org/wiki/Makati",
             "population": 629616,
             "area_km2": 21.57,
             "density_km2": 29189,
@@ -926,8 +926,8 @@
             "ratification": "February 4, 1995"
         },
         {
-            "city": "Malabon",
-            "link": "https://en.wikipedia.org/wiki/Malabon",
+            "city_name": "Malabon",
+            "city_link": "https://en.wikipedia.org/wiki/Malabon",
             "population": 380522,
             "area_km2": 15.71,
             "density_km2": 24222,
@@ -938,8 +938,8 @@
             "ratification": "April 21, 2001"
         },
         {
-            "city": "Malaybalay",
-            "link": "https://en.wikipedia.org/wiki/Malaybalay",
+            "city_name": "Malaybalay",
+            "city_link": "https://en.wikipedia.org/wiki/Malaybalay",
             "population": 190712,
             "area_km2": 969.19,
             "density_km2": 197,
@@ -950,8 +950,8 @@
             "ratification": "March 22, 1998"
         },
         {
-            "city": "Malolos",
-            "link": "https://en.wikipedia.org/wiki/Malolos",
+            "city_name": "Malolos",
+            "city_link": "https://en.wikipedia.org/wiki/Malolos",
             "population": 261189,
             "area_km2": 67.25,
             "density_km2": 3884,
@@ -962,8 +962,8 @@
             "ratification": "December 18, 1999"
         },
         {
-            "city": "Mandaluyong",
-            "link": "https://en.wikipedia.org/wiki/Mandaluyong",
+            "city_name": "Mandaluyong",
+            "city_link": "https://en.wikipedia.org/wiki/Mandaluyong",
             "population": 425758,
             "area_km2": 11.26,
             "density_km2": 37812,
@@ -974,8 +974,8 @@
             "ratification": "April 10, 1994"
         },
         {
-            "city": "Mandaue",
-            "link": "https://en.wikipedia.org/wiki/Mandaue",
+            "city_name": "Mandaue",
+            "city_link": "https://en.wikipedia.org/wiki/Mandaue",
             "population": 364116,
             "area_km2": 25.18,
             "density_km2": 10442,
@@ -986,8 +986,8 @@
             "ratification": "August 30, 1969"
         },
         {
-            "city": "Manila",
-            "link": "https://en.wikipedia.org/wiki/Manila",
+            "city_name": "Manila",
+            "city_link": "https://en.wikipedia.org/wiki/Manila",
             "population": 1846513,
             "area_km2": 38.55,
             "density_km2": 47899,
@@ -998,8 +998,8 @@
             "ratification": "July 31, 1901"
         },
         {
-            "city": "Marawi",
-            "link": "https://en.wikipedia.org/wiki/Marawi",
+            "city_name": "Marawi",
+            "city_link": "https://en.wikipedia.org/wiki/Marawi",
             "population": 207010,
             "area_km2": 87.55,
             "density_km2": 2364,
@@ -1010,8 +1010,8 @@
             "ratification": "September 30, 1950"
         },
         {
-            "city": "Marikina",
-            "link": "https://en.wikipedia.org/wiki/Marikina",
+            "city_name": "Marikina",
+            "city_link": "https://en.wikipedia.org/wiki/Marikina",
             "population": 456159,
             "area_km2": 21.52,
             "density_km2": 21197,
@@ -1022,8 +1022,8 @@
             "ratification": "December 7, 1996"
         },
         {
-            "city": "Masbate City",
-            "link": "https://en.wikipedia.org/wiki/Masbate_City",
+            "city_name": "Masbate City",
+            "city_link": "https://en.wikipedia.org/wiki/Masbate_City",
             "population": 104522,
             "area_km2": 188,
             "density_km2": 556,
@@ -1034,8 +1034,8 @@
             "ratification": "September 30, 2000"
         },
         {
-            "city": "Mati",
-            "link": "https://en.wikipedia.org/wiki/Mati,_Davao_Oriental",
+            "city_name": "Mati",
+            "city_link": "https://en.wikipedia.org/wiki/Mati,_Davao_Oriental",
             "population": 147547,
             "area_km2": 588.63,
             "density_km2": 251,
@@ -1046,8 +1046,8 @@
             "ratification": "June 18, 2007"
         },
         {
-            "city": "Meycauayan",
-            "link": "https://en.wikipedia.org/wiki/Meycauayan",
+            "city_name": "Meycauayan",
+            "city_link": "https://en.wikipedia.org/wiki/Meycauayan",
             "population": 225673,
             "area_km2": 32.1,
             "density_km2": 7030,
@@ -1058,8 +1058,8 @@
             "ratification": "December 10, 2006"
         },
         {
-            "city": "Muñoz",
-            "link": "https://en.wikipedia.org/wiki/Mu%C3%B1oz,_Nueva_Ecija",
+            "city_name": "Muñoz",
+            "city_link": "https://en.wikipedia.org/wiki/Mu%C3%B1oz,_Nueva_Ecija",
             "population": 84308,
             "area_km2": 163.05,
             "density_km2": 162,
@@ -1070,8 +1070,8 @@
             "ratification": "December 9, 2000"
         },
         {
-            "city": "Muntinlupa",
-            "link": "https://en.wikipedia.org/wiki/Muntinlupa",
+            "city_name": "Muntinlupa",
+            "city_link": "https://en.wikipedia.org/wiki/Muntinlupa",
             "population": 543445,
             "area_km2": 39.75,
             "density_km2": 13672,
@@ -1082,8 +1082,8 @@
             "ratification": "May 8, 1995"
         },
         {
-            "city": "Naga",
-            "link": "https://en.wikipedia.org/wiki/Naga,_Camarines_Sur",
+            "city_name": "Naga",
+            "city_link": "https://en.wikipedia.org/wiki/Naga,_Camarines_Sur",
             "population": 209170,
             "area_km2": 84.48,
             "density_km2": 2476,
@@ -1094,8 +1094,8 @@
             "ratification": "June 18, 1948"
         },
         {
-            "city": "Naga",
-            "link": "https://en.wikipedia.org/wiki/Naga,_Cebu",
+            "city_name": "Naga",
+            "city_link": "https://en.wikipedia.org/wiki/Naga,_Cebu",
             "population": 133184,
             "area_km2": 101.97,
             "density_km2": 1306,
@@ -1106,8 +1106,8 @@
             "ratification": "September 2, 2007"
         },
         {
-            "city": "Navotas",
-            "link": "https://en.wikipedia.org/wiki/Navotas",
+            "city_name": "Navotas",
+            "city_link": "https://en.wikipedia.org/wiki/Navotas",
             "population": 247543,
             "area_km2": 8.94,
             "density_km2": 27689,
@@ -1118,8 +1118,8 @@
             "ratification": "June 24, 2007"
         },
         {
-            "city": "Olongapo",
-            "link": "https://en.wikipedia.org/wiki/Olongapo",
+            "city_name": "Olongapo",
+            "city_link": "https://en.wikipedia.org/wiki/Olongapo",
             "population": 260317,
             "area_km2": 103.3,
             "density_km2": 1407,
@@ -1130,8 +1130,8 @@
             "ratification": "June 1, 1966"
         },
         {
-            "city": "Ormoc",
-            "link": "https://en.wikipedia.org/wiki/Ormoc",
+            "city_name": "Ormoc",
+            "city_link": "https://en.wikipedia.org/wiki/Ormoc",
             "population": 230998,
             "area_km2": 613.6,
             "density_km2": 376,
@@ -1142,8 +1142,8 @@
             "ratification": "October 20, 1947"
         },
         {
-            "city": "Oroquieta",
-            "link": "https://en.wikipedia.org/wiki/Oroquieta",
+            "city_name": "Oroquieta",
+            "city_link": "https://en.wikipedia.org/wiki/Oroquieta",
             "population": 72301,
             "area_km2": 237.88,
             "density_km2": 304,
@@ -1154,8 +1154,8 @@
             "ratification": "January 1, 1970"
         },
         {
-            "city": "Ozamiz",
-            "link": "https://en.wikipedia.org/wiki/Ozamiz",
+            "city_name": "Ozamiz",
+            "city_link": "https://en.wikipedia.org/wiki/Ozamiz",
             "population": 140334,
             "area_km2": 169.95,
             "density_km2": 826,
@@ -1166,8 +1166,8 @@
             "ratification": "June 19, 1948"
         },
         {
-            "city": "Pagadian",
-            "link": "https://en.wikipedia.org/wiki/Pagadian",
+            "city_name": "Pagadian",
+            "city_link": "https://en.wikipedia.org/wiki/Pagadian",
             "population": 210452,
             "area_km2": 378.8,
             "density_km2": 556,
@@ -1178,8 +1178,8 @@
             "ratification": "June 21, 1969"
         },
         {
-            "city": "Palayan",
-            "link": "https://en.wikipedia.org/wiki/Palayan",
+            "city_name": "Palayan",
+            "city_link": "https://en.wikipedia.org/wiki/Palayan",
             "population": 45383,
             "area_km2": 101.4,
             "density_km2": 448,
@@ -1190,8 +1190,8 @@
             "ratification": "June 19, 1965"
         },
         {
-            "city": "Panabo",
-            "link": "https://en.wikipedia.org/wiki/Panabo",
+            "city_name": "Panabo",
+            "city_link": "https://en.wikipedia.org/wiki/Panabo",
             "population": 209230,
             "area_km2": 251.23,
             "density_km2": 231,
@@ -1202,8 +1202,8 @@
             "ratification": "March 31, 2001"
         },
         {
-            "city": "Parañaque",
-            "link": "https://en.wikipedia.org/wiki/Para%C3%B1aque",
+            "city_name": "Parañaque",
+            "city_link": "https://en.wikipedia.org/wiki/Para%C3%B1aque",
             "population": 689992,
             "area_km2": 46.57,
             "density_km2": 14816,
@@ -1214,8 +1214,8 @@
             "ratification": "March 22, 1998"
         },
         {
-            "city": "Pasay",
-            "link": "https://en.wikipedia.org/wiki/Pasay",
+            "city_name": "Pasay",
+            "city_link": "https://en.wikipedia.org/wiki/Pasay",
             "population": 440656,
             "area_km2": 13.97,
             "density_km2": 31543,
@@ -1226,8 +1226,8 @@
             "ratification": "August 16, 1947"
         },
         {
-            "city": "Pasig",
-            "link": "https://en.wikipedia.org/wiki/Pasig",
+            "city_name": "Pasig",
+            "city_link": "https://en.wikipedia.org/wiki/Pasig",
             "population": 803159,
             "area_km2": 48.46,
             "density_km2": 16574,
@@ -1238,8 +1238,8 @@
             "ratification": "January 21, 1995"
         },
         {
-            "city": "Passi",
-            "link": "https://en.wikipedia.org/wiki/Passi,_Iloilo",
+            "city_name": "Passi",
+            "city_link": "https://en.wikipedia.org/wiki/Passi,_Iloilo",
             "population": 88873,
             "area_km2": 251.39,
             "density_km2": 354,
@@ -1250,8 +1250,8 @@
             "ratification": "March 14, 1998"
         },
         {
-            "city": "Puerto Princesa",
-            "link": "https://en.wikipedia.org/wiki/Puerto_Princesa",
+            "city_name": "Puerto Princesa",
+            "city_link": "https://en.wikipedia.org/wiki/Puerto_Princesa",
             "population": 307079,
             "area_km2": 2381.02,
             "density_km2": 129,
@@ -1262,8 +1262,8 @@
             "ratification": "January 1, 1970"
         },
         {
-            "city": "Quezon City",
-            "link": "https://en.wikipedia.org/wiki/Quezon_City",
+            "city_name": "Quezon City",
+            "city_link": "https://en.wikipedia.org/wiki/Quezon_City",
             "population": 2960048,
             "area_km2": 171.71,
             "density_km2": 17239,
@@ -1274,8 +1274,8 @@
             "ratification": "October 12, 1939"
         },
         {
-            "city": "Roxas",
-            "link": "https://en.wikipedia.org/wiki/Roxas,_Capiz",
+            "city_name": "Roxas",
+            "city_link": "https://en.wikipedia.org/wiki/Roxas,_Capiz",
             "population": 179292,
             "area_km2": 95.07,
             "density_km2": 1886,
@@ -1286,8 +1286,8 @@
             "ratification": "May 12, 1951"
         },
         {
-            "city": "Sagay",
-            "link": "https://en.wikipedia.org/wiki/Sagay,_Negros_Occidental",
+            "city_name": "Sagay",
+            "city_link": "https://en.wikipedia.org/wiki/Sagay,_Negros_Occidental",
             "population": 148894,
             "area_km2": 330.34,
             "density_km2": 451,
@@ -1298,8 +1298,8 @@
             "ratification": "August 10, 1996"
         },
         {
-            "city": "Samal",
-            "link": "https://en.wikipedia.org/wiki/Samal,_Davao_del_Norte",
+            "city_name": "Samal",
+            "city_link": "https://en.wikipedia.org/wiki/Samal,_Davao_del_Norte",
             "population": 209230,
             "area_km2": 301.3,
             "density_km2": 694,
@@ -1310,8 +1310,8 @@
             "ratification": "March 7, 1998"
         },
         {
-            "city": "San Carlos",
-            "link": "https://en.wikipedia.org/wiki/San_Carlos,_Negros_Occidental",
+            "city_name": "San Carlos",
+            "city_link": "https://en.wikipedia.org/wiki/San_Carlos,_Negros_Occidental",
             "population": 132650,
             "area_km2": 451.5,
             "density_km2": 294,
@@ -1322,8 +1322,8 @@
             "ratification": "June 18, 1960"
         },
         {
-            "city": "San Carlos",
-            "link": "https://en.wikipedia.org/wiki/San_Carlos,_Pangasinan",
+            "city_name": "San Carlos",
+            "city_link": "https://en.wikipedia.org/wiki/San_Carlos,_Pangasinan",
             "population": 205424,
             "area_km2": 169.03,
             "density_km2": 1215,
@@ -1334,8 +1334,8 @@
             "ratification": "January 1, 1966"
         },
         {
-            "city": "San Fernando",
-            "link": "https://en.wikipedia.org/wiki/San_Fernando,_La_Union",
+            "city_name": "San Fernando",
+            "city_link": "https://en.wikipedia.org/wiki/San_Fernando,_La_Union",
             "population": 125640,
             "area_km2": 102.72,
             "density_km2": 1223,
@@ -1346,8 +1346,8 @@
             "ratification": "March 20, 1998"
         },
         {
-            "city": "San Fernando",
-            "link": "https://en.wikipedia.org/wiki/San_Fernando,_Pampanga",
+            "city_name": "San Fernando",
+            "city_link": "https://en.wikipedia.org/wiki/San_Fernando,_Pampanga",
             "population": 354666,
             "area_km2": 67.74,
             "density_km2": 5236,
@@ -1358,8 +1358,8 @@
             "ratification": "February 3, 2001"
         },
         {
-            "city": "San Jose",
-            "link": "https://en.wikipedia.org/wiki/San_Jose,_Nueva_Ecija",
+            "city_name": "San Jose",
+            "city_link": "https://en.wikipedia.org/wiki/San_Jose,_Nueva_Ecija",
             "population": 150917,
             "area_km2": 185.99,
             "density_km2": 811,
@@ -1370,8 +1370,8 @@
             "ratification": "August 4, 1969"
         },
         {
-            "city": "San Jose del Monte",
-            "link": "https://en.wikipedia.org/wiki/San_Jose_del_Monte",
+            "city_name": "San Jose del Monte",
+            "city_link": "https://en.wikipedia.org/wiki/San_Jose_del_Monte",
             "population": 651813,
             "area_km2": 105.53,
             "density_km2": 6177,
@@ -1382,8 +1382,8 @@
             "ratification": "September 10, 2000"
         },
         {
-            "city": "San Juan",
-            "link": "https://en.wikipedia.org/wiki/San_Juan,_Metro_Manila",
+            "city_name": "San Juan",
+            "city_link": "https://en.wikipedia.org/wiki/San_Juan,_Metro_Manila",
             "population": 126347,
             "area_km2": 5.95,
             "density_km2": 21235,
@@ -1394,8 +1394,8 @@
             "ratification": "June 16, 2007"
         },
         {
-            "city": "San Pablo",
-            "link": "https://en.wikipedia.org/wiki/San_Pablo,_Laguna",
+            "city_name": "San Pablo",
+            "city_link": "https://en.wikipedia.org/wiki/San_Pablo,_Laguna",
             "population": 285348,
             "area_km2": 197.56,
             "density_km2": 1444,
@@ -1406,8 +1406,8 @@
             "ratification": "March 30, 1941"
         },
         {
-            "city": "San Pedro",
-            "link": "https://en.wikipedia.org/wiki/San_Pedro,_Laguna",
+            "city_name": "San Pedro",
+            "city_link": "https://en.wikipedia.org/wiki/San_Pedro,_Laguna",
             "population": 326001,
             "area_km2": 24.05,
             "density_km2": 13555,
@@ -1418,8 +1418,8 @@
             "ratification": "December 28, 2013"
         },
         {
-            "city": "Santa Rosa",
-            "link": "https://en.wikipedia.org/wiki/Santa_Rosa,_Laguna",
+            "city_name": "Santa Rosa",
+            "city_link": "https://en.wikipedia.org/wiki/Santa_Rosa,_Laguna",
             "population": 414812,
             "area_km2": 54.84,
             "density_km2": 7564,
@@ -1430,8 +1430,8 @@
             "ratification": "July 10, 2004"
         },
         {
-            "city": "Santo Tomas",
-            "link": "https://en.wikipedia.org/wiki/Santo_Tomas,_Batangas",
+            "city_name": "Santo Tomas",
+            "city_link": "https://en.wikipedia.org/wiki/Santo_Tomas,_Batangas",
             "population": 218500,
             "area_km2": 95.41,
             "density_km2": 2290,
@@ -1442,8 +1442,8 @@
             "ratification": "September 7, 2019"
         },
         {
-            "city": "Santiago",
-            "link": "https://en.wikipedia.org/wiki/Santiago,_Isabela",
+            "city_name": "Santiago",
+            "city_link": "https://en.wikipedia.org/wiki/Santiago,_Isabela",
             "population": 148580,
             "area_km2": 255.5,
             "density_km2": 582,
@@ -1454,8 +1454,8 @@
             "ratification": "July 3, 1994"
         },
         {
-            "city": "Silay",
-            "link": "https://en.wikipedia.org/wiki/Silay",
+            "city_name": "Silay",
+            "city_link": "https://en.wikipedia.org/wiki/Silay",
             "population": 130478,
             "area_km2": 214.8,
             "density_km2": 607,
@@ -1466,8 +1466,8 @@
             "ratification": "June 12, 1957"
         },
         {
-            "city": "Sipalay",
-            "link": "https://en.wikipedia.org/wiki/Sipalay",
+            "city_name": "Sipalay",
+            "city_link": "https://en.wikipedia.org/wiki/Sipalay",
             "population": 72448,
             "area_km2": 379.78,
             "density_km2": 191,
@@ -1478,8 +1478,8 @@
             "ratification": "March 31, 2001"
         },
         {
-            "city": "Sorsogon City",
-            "link": "https://en.wikipedia.org/wiki/Sorsogon_City",
+            "city_name": "Sorsogon City",
+            "city_link": "https://en.wikipedia.org/wiki/Sorsogon_City",
             "population": 182237,
             "area_km2": 276.11,
             "density_km2": 660,
@@ -1490,8 +1490,8 @@
             "ratification": "December 16, 2000"
         },
         {
-            "city": "Surigao City",
-            "link": "https://en.wikipedia.org/wiki/Surigao_City",
+            "city_name": "Surigao City",
+            "city_link": "https://en.wikipedia.org/wiki/Surigao_City",
             "population": 171107,
             "area_km2": 245.3,
             "density_km2": 698,
@@ -1502,8 +1502,8 @@
             "ratification": "August 31, 1970"
         },
         {
-            "city": "Tabaco",
-            "link": "https://en.wikipedia.org/wiki/Tabaco",
+            "city_name": "Tabaco",
+            "city_link": "https://en.wikipedia.org/wiki/Tabaco",
             "population": 140961,
             "area_km2": 117.14,
             "density_km2": 1203,
@@ -1514,8 +1514,8 @@
             "ratification": "March 24, 2001"
         },
         {
-            "city": "Tabuk",
-            "link": "https://en.wikipedia.org/wiki/Tabuk,_Kalinga",
+            "city_name": "Tabuk",
+            "city_link": "https://en.wikipedia.org/wiki/Tabuk,_Kalinga",
             "population": 121033,
             "area_km2": 700.25,
             "density_km2": 173,
@@ -1526,8 +1526,8 @@
             "ratification": "June 23, 2007"
         },
         {
-            "city": "Tacloban",
-            "link": "https://en.wikipedia.org/wiki/Tacloban",
+            "city_name": "Tacloban",
+            "city_link": "https://en.wikipedia.org/wiki/Tacloban",
             "population": 251881,
             "area_km2": 201.72,
             "density_km2": 1249,
@@ -1538,8 +1538,8 @@
             "ratification": "June 12, 1953"
         },
         {
-            "city": "Tacurong",
-            "link": "https://en.wikipedia.org/wiki/Tacurong",
+            "city_name": "Tacurong",
+            "city_link": "https://en.wikipedia.org/wiki/Tacurong",
             "population": 109319,
             "area_km2": 153.4,
             "density_km2": 713,
@@ -1550,8 +1550,8 @@
             "ratification": "September 18, 2000"
         },
         {
-            "city": "Tagaytay",
-            "link": "https://en.wikipedia.org/wiki/Tagaytay",
+            "city_name": "Tagaytay",
+            "city_link": "https://en.wikipedia.org/wiki/Tagaytay",
             "population": 85330,
             "area_km2": 65,
             "density_km2": 1313,
@@ -1562,8 +1562,8 @@
             "ratification": "June 21, 1938"
         },
         {
-            "city": "Tagbilaran",
-            "link": "https://en.wikipedia.org/wiki/Tagbilaran",
+            "city_name": "Tagbilaran",
+            "city_link": "https://en.wikipedia.org/wiki/Tagbilaran",
             "population": 104976,
             "area_km2": 36.5,
             "density_km2": 2876,
@@ -1574,8 +1574,8 @@
             "ratification": "July 1, 1966"
         },
         {
-            "city": "Taguig",
-            "link": "https://en.wikipedia.org/wiki/Taguig",
+            "city_name": "Taguig",
+            "city_link": "https://en.wikipedia.org/wiki/Taguig",
             "population": 886722,
             "area_km2": 45.21,
             "density_km2": 19613,
@@ -1586,8 +1586,8 @@
             "ratification": "December 8, 2004"
         },
         {
-            "city": "Tagum",
-            "link": "https://en.wikipedia.org/wiki/Tagum",
+            "city_name": "Tagum",
+            "city_link": "https://en.wikipedia.org/wiki/Tagum",
             "population": 296202,
             "area_km2": 195.8,
             "density_km2": 1513,
@@ -1598,8 +1598,8 @@
             "ratification": "March 7, 1998"
         },
         {
-            "city": "Talisay",
-            "link": "https://en.wikipedia.org/wiki/Talisay,_Cebu",
+            "city_name": "Talisay",
+            "city_link": "https://en.wikipedia.org/wiki/Talisay,_Cebu",
             "population": 263048,
             "area_km2": 39.87,
             "density_km2": 6598,
@@ -1610,8 +1610,8 @@
             "ratification": "December 30, 2000"
         },
         {
-            "city": "Talisay",
-            "link": "https://en.wikipedia.org/wiki/Talisay,_Negros_Occidental",
+            "city_name": "Talisay",
+            "city_link": "https://en.wikipedia.org/wiki/Talisay,_Negros_Occidental",
             "population": 108909,
             "area_km2": 201.18,
             "density_km2": 541,
@@ -1622,8 +1622,8 @@
             "ratification": "February 11, 1998"
         },
         {
-            "city": "Tanauan",
-            "link": "https://en.wikipedia.org/wiki/Tanauan,_Batangas",
+            "city_name": "Tanauan",
+            "city_link": "https://en.wikipedia.org/wiki/Tanauan,_Batangas",
             "population": 193936,
             "area_km2": 107.16,
             "density_km2": 1810,
@@ -1634,8 +1634,8 @@
             "ratification": "March 10, 2001"
         },
         {
-            "city": "Tandag",
-            "link": "https://en.wikipedia.org/wiki/Tandag",
+            "city_name": "Tandag",
+            "city_link": "https://en.wikipedia.org/wiki/Tandag",
             "population": 62669,
             "area_km2": 291.73,
             "density_km2": 215,
@@ -1646,8 +1646,8 @@
             "ratification": "June 23, 2007"
         },
         {
-            "city": "Tangub",
-            "link": "https://en.wikipedia.org/wiki/Tangub",
+            "city_name": "Tangub",
+            "city_link": "https://en.wikipedia.org/wiki/Tangub",
             "population": 68389,
             "area_km2": 162.78,
             "density_km2": 420,
@@ -1658,8 +1658,8 @@
             "ratification": "February 28, 1968"
         },
         {
-            "city": "Tanjay",
-            "link": "https://en.wikipedia.org/wiki/Tanjay",
+            "city_name": "Tanjay",
+            "city_link": "https://en.wikipedia.org/wiki/Tanjay",
             "population": 82642,
             "area_km2": 267.05,
             "density_km2": 309,
@@ -1670,8 +1670,8 @@
             "ratification": "March 31, 2001"
         },
         {
-            "city": "Tarlac City",
-            "link": "https://en.wikipedia.org/wiki/Tarlac_City",
+            "city_name": "Tarlac City",
+            "city_link": "https://en.wikipedia.org/wiki/Tarlac_City",
             "population": 385398,
             "area_km2": 274.66,
             "density_km2": 1403,
@@ -1682,8 +1682,8 @@
             "ratification": "April 19, 1998"
         },
         {
-            "city": "Tayabas",
-            "link": "https://en.wikipedia.org/wiki/Tayabas",
+            "city_name": "Tayabas",
+            "city_link": "https://en.wikipedia.org/wiki/Tayabas",
             "population": 112658,
             "area_km2": 230.95,
             "density_km2": 488,
@@ -1694,8 +1694,8 @@
             "ratification": "July 14, 2007"
         },
         {
-            "city": "Toledo",
-            "link": "https://en.wikipedia.org/wiki/Toledo,_Cebu",
+            "city_name": "Toledo",
+            "city_link": "https://en.wikipedia.org/wiki/Toledo,_Cebu",
             "population": 207314,
             "area_km2": 216.28,
             "density_km2": 959,
@@ -1706,8 +1706,8 @@
             "ratification": "June 18, 1960"
         },
         {
-            "city": "Trece Martires",
-            "link": "https://en.wikipedia.org/wiki/Trece_Martires",
+            "city_name": "Trece Martires",
+            "city_link": "https://en.wikipedia.org/wiki/Trece_Martires",
             "population": 210503,
             "area_km2": 39.1,
             "density_km2": 5384,
@@ -1718,8 +1718,8 @@
             "ratification": "January 1, 1956"
         },
         {
-            "city": "Tuguegarao",
-            "link": "https://en.wikipedia.org/wiki/Tuguegarao",
+            "city_name": "Tuguegarao",
+            "city_link": "https://en.wikipedia.org/wiki/Tuguegarao",
             "population": 166334,
             "area_km2": 144.8,
             "density_km2": 1149,
@@ -1730,8 +1730,8 @@
             "ratification": "December 18, 1999"
         },
         {
-            "city": "Urdaneta",
-            "link": "https://en.wikipedia.org/wiki/Urdaneta,_Pangasinan",
+            "city_name": "Urdaneta",
+            "city_link": "https://en.wikipedia.org/wiki/Urdaneta,_Pangasinan",
             "population": 144577,
             "area_km2": 100.26,
             "density_km2": 1442,
@@ -1742,8 +1742,8 @@
             "ratification": "March 21, 1998"
         },
         {
-            "city": "Valencia",
-            "link": "https://en.wikipedia.org/wiki/Valencia,_Bukidnon",
+            "city_name": "Valencia",
+            "city_link": "https://en.wikipedia.org/wiki/Valencia,_Bukidnon",
             "population": 216546,
             "area_km2": 587.29,
             "density_km2": 369,
@@ -1754,8 +1754,8 @@
             "ratification": "December 30, 2000"
         },
         {
-            "city": "Valenzuela",
-            "link": "https://en.wikipedia.org/wiki/Valenzuela,_Metro_Manila",
+            "city_name": "Valenzuela",
+            "city_link": "https://en.wikipedia.org/wiki/Valenzuela,_Metro_Manila",
             "population": 714978,
             "area_km2": 47.02,
             "density_km2": 15206,
@@ -1766,8 +1766,8 @@
             "ratification": "December 30, 1998"
         },
         {
-            "city": "Victorias",
-            "link": "https://en.wikipedia.org/wiki/Victorias",
+            "city_name": "Victorias",
+            "city_link": "https://en.wikipedia.org/wiki/Victorias",
             "population": 90101,
             "area_km2": 133.92,
             "density_km2": 673,
@@ -1778,8 +1778,8 @@
             "ratification": "March 21, 1998"
         },
         {
-            "city": "Vigan",
-            "link": "https://en.wikipedia.org/wiki/Vigan",
+            "city_name": "Vigan",
+            "city_link": "https://en.wikipedia.org/wiki/Vigan",
             "population": 53935,
             "area_km2": 25.12,
             "density_km2": 2147,
@@ -1790,8 +1790,8 @@
             "ratification": "January 22, 2001"
         },
         {
-            "city": "Zamboanga City",
-            "link": "https://en.wikipedia.org/wiki/Zamboanga_City",
+            "city_name": "Zamboanga City",
+            "city_link": "https://en.wikipedia.org/wiki/Zamboanga_City",
             "population": 977234,
             "area_km2": 1453.27,
             "density_km2": 659,
