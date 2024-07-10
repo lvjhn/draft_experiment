@@ -6,11 +6,11 @@ const axios = require("axios")
 module.exports = async function extractRegionsMetadata() {
     console.log("@ Extending region metadata...")   
    
-    const regionFile = "_/data/metadata/part-a/philippines.regions.json"
+    const regionsFile = "_/data/metadata/part-a/philippines.regions.json"
     const articlesDir    = "./data/articles/regions"
     const data = []
 
-    const catalog = require(regionFile)
+    const catalog = require(regionsFile)
     
     for(let region of catalog.rows) {
         const link = region.region_link 

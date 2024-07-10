@@ -1,0 +1,2337 @@
+[
+    {
+        "id": 0,
+        "province_name": "Abra",
+        "coordinates": [
+            "17°35′N",
+            "120°45′E"
+        ],
+        "region": "Cordillera Administrative Region",
+        "founded": "March 10, 1917",
+        "capital": "Bangued",
+        "largest_city": "",
+        "governor_name": "Dominic B. Valera",
+        "governor_party": "NUP/ASENSO",
+        "vice_governor_name": "Maria Jocelyn V. Bernos",
+        "vice_governor_party": "NUP/ASENSO",
+        "highest_bol": "Mt.Bangbanglang",
+        "highest_peak": 2467,
+        "independent_cities": 0,
+        "component_cities": 0,
+        "municipalities": 27,
+        "languages": {
+            "Ilocano": null,
+            "Itneg": null,
+            "Isneg": null,
+            "Tagalog": null,
+            "English": null
+        }
+    },
+    {
+        "id": 1,
+        "province_name": "Agusan del Norte",
+        "coordinates": [
+            "9°10′N",
+            "125°30′E"
+        ],
+        "region": "Caraga",
+        "founded": "17 June 1967",
+        "capital": "Cabadbaran",
+        "largest_city": "Butuan",
+        "governor_name": "Ma. Angelica Rosedell M. Amante-Matba",
+        "governor_party": "PDP–Laban",
+        "vice_governor_name": "Enrico Corvera",
+        "vice_governor_party": "PDP–Laban",
+        "highest_bol": "Mount Hilong-Hilong",
+        "highest_peak": 2012,
+        "independent_cities": 1,
+        "component_cities": 1,
+        "municipalities": 10,
+        "languages": {
+            "Cebuano": null,
+            "Butuanon": null,
+            "Agusan": null,
+            "Higaonon": null,
+            "Mamanwa": null,
+            "Surigaonon": null,
+            "Tagalog": null,
+            "English": null
+        }
+    },
+    {
+        "id": 2,
+        "province_name": "Agusan del Sur",
+        "coordinates": [
+            "8°30′N",
+            "125°50′E"
+        ],
+        "region": "Caraga",
+        "founded": "17 June 1967",
+        "capital": "Prosperidad",
+        "largest_city": "Bayugan",
+        "governor_name": "Santiago B. Cane Jr.",
+        "governor_party": "NUP",
+        "vice_governor_name": "Samuel E. Tortor",
+        "vice_governor_party": "NUP",
+        "highest_bol": "Mount Datu Masuyapa",
+        "highest_peak": 1678,
+        "independent_cities": 0,
+        "component_cities": 1,
+        "municipalities": 13,
+        "languages": {
+            "Cebuano": null,
+            "Surigaonon": null,
+            "Butuanon": null,
+            "Agusan": null,
+            "Higaonon": null,
+            "Tagalog": null,
+            "English": null
+        }
+    },
+    {
+        "id": 3,
+        "province_name": "Aklan",
+        "coordinates": [
+            "11°40′N",
+            "122°20′E"
+        ],
+        "region": "Western Visayas",
+        "founded": "25 April 1956",
+        "capital": "Kalibo",
+        "largest_city": "",
+        "governor_name": "Jose Enrique M. Miraflores",
+        "governor_party": null,
+        "vice_governor_name": "Reynaldo M. Quimpo",
+        "vice_governor_party": "NP",
+        "highest_bol": "Mount Timbaban",
+        "highest_peak": 1777,
+        "independent_cities": 0,
+        "component_cities": 0,
+        "municipalities": 17,
+        "languages": {
+            "Aklanon": null,
+            "Malaynon": null,
+            "Hiligaynon": null,
+            "Ati": null,
+            "Kinaray-a": null,
+            "Onhan": null,
+            "Capiznon": null,
+            "Tagalog": null,
+            "English": null
+        }
+    },
+    {
+        "id": 4,
+        "province_name": "Albay",
+        "coordinates": [
+            "13°14′N",
+            "123°38′E"
+        ],
+        "region": "Bicol Region",
+        "founded": "April 3, 1574",
+        "capital": "Legazpi",
+        "largest_city": "",
+        "governor_name": "Edcel Greco Lagman",
+        "governor_party": "PFP",
+        "vice_governor_name": "Baby Glenda O. Bongao",
+        "vice_governor_party": "Liberal",
+        "highest_bol": "Mount Mayon",
+        "highest_peak": 2463,
+        "independent_cities": 0,
+        "component_cities": 3,
+        "municipalities": 15,
+        "languages": {
+            "Central Bikol": null,
+            "Tagalog": null,
+            "English": null
+        }
+    },
+    {
+        "id": 5,
+        "province_name": "Antique",
+        "coordinates": [
+            "11°10′00″N",
+            "122°05′00″E"
+        ],
+        "region": "Western Visayas",
+        "founded": "March 10, 1917\n[2]",
+        "capital": "San Jose de Buenavista",
+        "largest_city": "",
+        "governor_name": "Rhodora J. Cadiao",
+        "governor_party": "NUP",
+        "vice_governor_name": "Edgar D. Denosta",
+        "vice_governor_party": "NUP",
+        "highest_bol": "Mount Madja-as",
+        "highest_peak": 2117,
+        "independent_cities": 0,
+        "component_cities": 0,
+        "municipalities": 18,
+        "languages": {
+            "Kinaray-a": null,
+            "Caluyanon": null,
+            "Hiligaynon": null,
+            "Cuyonon": null,
+            "Ati": null,
+            "Tagalog": null,
+            "English": null
+        }
+    },
+    {
+        "id": 6,
+        "province_name": "Apayao",
+        "coordinates": [
+            "17°45′N",
+            "121°15′E"
+        ],
+        "region": "Cordillera Administrative Region",
+        "founded": "May 8, 1995",
+        "capital": "Kabugao*",
+        "largest_city": "",
+        "governor_name": "Elias C. Bulut Jr.",
+        "governor_party": "NPC",
+        "vice_governor_name": "Remy N. Albano",
+        "vice_governor_party": "KBL",
+        "highest_bol": "Mount Lungod",
+        "highest_peak": 1921,
+        "independent_cities": 0,
+        "component_cities": 0,
+        "municipalities": 7,
+        "languages": {
+            "Ilocano": null,
+            "Isnag": null,
+            "Tagalog": null,
+            "English": null
+        }
+    },
+    {
+        "id": 7,
+        "province_name": "Aurora",
+        "coordinates": [
+            "15°53′N",
+            "121°33′E"
+        ],
+        "region": "Central Luzon",
+        "founded": "1951 (as sub-province of Quezon)",
+        "capital": "Baler",
+        "largest_city": "",
+        "governor_name": "Reynante A. Tolentino",
+        "governor_party": "LDP",
+        "vice_governor_name": "",
+        "vice_governor_party": null,
+        "highest_bol": "Mount Mingan",
+        "highest_peak": 1901,
+        "independent_cities": 0,
+        "component_cities": 0,
+        "municipalities": 8,
+        "languages": {
+            "Tagalog": null,
+            "Ilocano": null,
+            "Kasiguranin": null,
+            "English": null
+        }
+    },
+    {
+        "id": 8,
+        "province_name": "Basilan",
+        "coordinates": [
+            "7°N",
+            "122°E"
+        ],
+        "region": "Bangsamoro (Whole province except Isabela City)  Zamboanga Peninsula (Isabela City only)",
+        "founded": "",
+        "capital": "Lamitan[1]",
+        "largest_city": "Isabela",
+        "governor_name": "Hadjiman S. Hataman-Salliman",
+        "governor_party": "PFP",
+        "vice_governor_name": "Yusop T. Alano",
+        "vice_governor_party": "PDP-Laban",
+        "highest_bol": "Basilan Peak",
+        "highest_peak": 998,
+        "independent_cities": 0,
+        "component_cities": 2,
+        "municipalities": 11,
+        "languages": {
+            "Chavacano": null,
+            "Yakan": null,
+            "Tausug": null,
+            "Sama": null,
+            "Cebuano": null,
+            "English": null,
+            "Filipino": null
+        }
+    },
+    {
+        "id": 9,
+        "province_name": "Bataan",
+        "coordinates": [
+            "14°41′N",
+            "120°27′E"
+        ],
+        "region": "Central Luzon",
+        "founded": "January 11, 1757",
+        "capital": "Balanga",
+        "largest_city": "",
+        "governor_name": "Jose Enrique S. Garcia III",
+        "governor_party": "NUP",
+        "vice_governor_name": "Ma. Cristina M. Garcia",
+        "vice_governor_party": "NUP",
+        "highest_bol": "Mount Mariveles",
+        "highest_peak": 1398,
+        "independent_cities": 0,
+        "component_cities": 1,
+        "municipalities": 11,
+        "languages": {
+            "Tagalog": null,
+            "Kapampangan": null,
+            "English": null
+        }
+    },
+    {
+        "id": 10,
+        "province_name": "Batanes",
+        "coordinates": [
+            "20°35′N",
+            "121°54′E"
+        ],
+        "region": "Cagayan Valley",
+        "founded": "June 26, 1783",
+        "capital": "Basco",
+        "largest_city": "",
+        "governor_name": "Marilou  Cayco",
+        "governor_party": "PFP",
+        "vice_governor_name": "Ignacio C. Villa",
+        "vice_governor_party": "LP",
+        "highest_bol": "Mount Iraya",
+        "highest_peak": 1009,
+        "independent_cities": 0,
+        "component_cities": 0,
+        "municipalities": 6,
+        "languages": {
+            "Ivatan": null,
+            "Itbayaten": null,
+            "Ilocano": null,
+            "Tagalog": null,
+            "English": null
+        }
+    },
+    {
+        "id": 11,
+        "province_name": "Batangas",
+        "coordinates": [
+            "13°50′N",
+            "121°00′E"
+        ],
+        "region": "Calabarzon",
+        "founded": "December 8, 1581",
+        "capital": "Batangas City",
+        "largest_city": "Lipa",
+        "governor_name": "Hermilando I. Mandanas ",
+        "governor_party": "PDP–Laban",
+        "vice_governor_name": "Jose Antonio S. Leviste II ",
+        "vice_governor_party": "PDP–Laban",
+        "highest_bol": "Mount Makiling",
+        "highest_peak": 1090,
+        "independent_cities": 0,
+        "component_cities": 5,
+        "municipalities": 29,
+        "languages": {
+            "Tagalog": null,
+            "English": null
+        }
+    },
+    {
+        "id": 12,
+        "province_name": "Benguet",
+        "coordinates": [
+            "17°N",
+            "121°E"
+        ],
+        "region": "Cordillera Administrative Region",
+        "founded": "November 23, 1900",
+        "capital": "La Trinidad",
+        "largest_city": "Baguio",
+        "governor_name": "Melchor D. Diclas",
+        "governor_party": "PDP–Laban",
+        "vice_governor_name": "Ericson \"Tagel\" Felipe",
+        "vice_governor_party": "INDEPENDENT",
+        "highest_bol": "Mount Pulag",
+        "highest_peak": 2928,
+        "independent_cities": 1,
+        "component_cities": 0,
+        "municipalities": 13,
+        "languages": {
+            "Ilocano": null,
+            "Filipino": null,
+            "Ibaloi": null,
+            "Pangasinan": null,
+            "Kankana-ey": null,
+            "Kalanguya": null,
+            "Karao": null,
+            "English": null
+        }
+    },
+    {
+        "id": 13,
+        "province_name": "Biliran",
+        "coordinates": [
+            "11°35′N",
+            "124°29′E"
+        ],
+        "region": "Eastern Visayas",
+        "founded": "11 May 1992",
+        "capital": "Naval",
+        "largest_city": "",
+        "governor_name": "Gerard Roger M. Espina",
+        "governor_party": "NP",
+        "vice_governor_name": "Brigido C. Caneja III",
+        "vice_governor_party": "NP",
+        "highest_bol": "Mount Naliwatan",
+        "highest_peak": 1346,
+        "independent_cities": 0,
+        "component_cities": 0,
+        "municipalities": 8,
+        "languages": {
+            "Waray": null,
+            "Cebuano": null,
+            "Tagalog": null,
+            "English": null
+        }
+    },
+    {
+        "id": 14,
+        "province_name": "Bohol",
+        "coordinates": [
+            "9°54′N",
+            "124°12′E"
+        ],
+        "region": "Central Visayas",
+        "founded": "July 22, 1854",
+        "capital": "Tagbilaran",
+        "largest_city": "",
+        "governor_name": "Erico Aristotle C. Aumentado",
+        "governor_party": "suspended)Dionisio Victor A. Balite (acting",
+        "vice_governor_name": "Dionisio Victor A. BaliteTita Baja",
+        "vice_governor_party": "acting",
+        "highest_bol": "Mount Matunog",
+        "highest_peak": 864,
+        "independent_cities": 0,
+        "component_cities": 1,
+        "municipalities": 47,
+        "languages": {}
+    },
+    {
+        "id": 15,
+        "province_name": "Bukidnon",
+        "coordinates": [
+            "7°55′N",
+            "125°05′E"
+        ],
+        "region": "Northern Mindanao",
+        "founded": "September 1, 1914 (Commission Act 2408)[2]",
+        "capital": "Malaybalay",
+        "largest_city": "Valencia",
+        "governor_name": "Rogelio Neil P. Roque",
+        "governor_party": "PFP",
+        "vice_governor_name": "Clive D. Quiño",
+        "vice_governor_party": "BPP",
+        "highest_bol": "Mount Dulang-dulang",
+        "highest_peak": 2941,
+        "independent_cities": 0,
+        "component_cities": 2,
+        "municipalities": 20,
+        "languages": {
+            "Cebuano": null,
+            "Manobo": null,
+            "Talaandig": null,
+            "Maguindanaon": null,
+            "Iranun": null,
+            "Ilocano": null,
+            "Hiligaynon": null,
+            "Higaonon": null,
+            "Filipino": null,
+            "English": null
+        }
+    },
+    {
+        "id": 16,
+        "province_name": "Bulacan",
+        "coordinates": [
+            "15°00′N",
+            "121°05′E"
+        ],
+        "region": "Central Luzon",
+        "founded": "August 15, 1578[2]",
+        "capital": "Malolos",
+        "largest_city": "San Jose del Monte",
+        "governor_name": "Daniel Fernando",
+        "governor_party": "NUP",
+        "vice_governor_name": "Alex Castro",
+        "vice_governor_party": "NUP",
+        "highest_bol": "Mount Oriod",
+        "highest_peak": 1188,
+        "independent_cities": 0,
+        "component_cities": 4,
+        "municipalities": 20,
+        "languages": {
+            "Tagalog": null,
+            "English": null
+        }
+    },
+    {
+        "id": 17,
+        "province_name": "Cagayan",
+        "coordinates": [
+            "18°00′N",
+            "121°48′E"
+        ],
+        "region": "Cagayan Valley",
+        "founded": "June 29, 1583",
+        "capital": "Tuguegarao",
+        "largest_city": "",
+        "governor_name": "Manuel Mamba",
+        "governor_party": "Nacionalista",
+        "vice_governor_name": "Melvin K. Vargas Jr.",
+        "vice_governor_party": "PDP–Laban",
+        "highest_bol": "Mount Cetaceo",
+        "highest_peak": 1823,
+        "independent_cities": 0,
+        "component_cities": 1,
+        "municipalities": 28,
+        "languages": {
+            "Ilocano": null,
+            "Ibanag": null,
+            "Itawis": null,
+            "Ivatan": null,
+            "Tagalog": null,
+            "English": null
+        }
+    },
+    {
+        "id": 18,
+        "province_name": "Camarines Norte",
+        "coordinates": [
+            "14°10′N",
+            "122°45′E"
+        ],
+        "region": "Bicol Region",
+        "founded": "1829",
+        "capital": "Daet",
+        "largest_city": "",
+        "governor_name": "Ricarte R. Padilla",
+        "governor_party": "PFP",
+        "vice_governor_name": "Joseph V. Ascutia",
+        "vice_governor_party": "LP",
+        "highest_bol": "Mount Labo",
+        "highest_peak": 1544,
+        "independent_cities": 0,
+        "component_cities": 0,
+        "municipalities": 12,
+        "languages": {
+            "Central Bikol": null,
+            "Tagalog": null,
+            "English": null
+        }
+    },
+    {
+        "id": 19,
+        "province_name": "Camarines Sur",
+        "coordinates": [
+            "13°40′N",
+            "123°20′E"
+        ],
+        "region": "Bicol Region",
+        "founded": "March 19, 1919",
+        "capital": "Pili13°33′15″N 123°16′31″E﻿ / ﻿13.55417°N 123.27528°E﻿ / 13.55417; 123.27528",
+        "largest_city": "Naga City13°37′12″N 123°10′12″E﻿ / ﻿13.62000°N 123.17000°E﻿ / 13.62000; 123.17000",
+        "governor_name": "Vincenzo Renato Luigi Villafuerte",
+        "governor_party": "PDP–Laban",
+        "vice_governor_name": "Salvio Patrick Fortuno",
+        "vice_governor_party": "PDP–Laban",
+        "highest_bol": "Mount Isarog",
+        "highest_peak": 2011.7,
+        "independent_cities": 1,
+        "component_cities": 1,
+        "municipalities": 35,
+        "languages": {
+            "Central Bikol": null,
+            "Rinconada Bikol": null,
+            "Albay Bikol": null,
+            "Tagalog": null,
+            "English": null
+        }
+    },
+    {
+        "id": 20,
+        "province_name": "Camiguin",
+        "coordinates": [
+            "9°10′N",
+            "124°43′E"
+        ],
+        "region": "Northern Mindanao",
+        "founded": "1565",
+        "capital": "Mambajao",
+        "largest_city": "",
+        "governor_name": "Xavier Jesus D. Romualdo",
+        "governor_party": "PDP-Laban",
+        "vice_governor_name": "Rodin M. Romualdo",
+        "vice_governor_party": "PDP-Laban",
+        "highest_bol": "Mount Timpoong",
+        "highest_peak": 1630,
+        "independent_cities": 0,
+        "component_cities": 0,
+        "municipalities": 5,
+        "languages": {
+            "Cebuano": null,
+            "Kinamigin": null,
+            "Tagalog": null,
+            "English": null
+        }
+    },
+    {
+        "id": 21,
+        "province_name": "Capiz",
+        "coordinates": [
+            "11°23′N",
+            "122°38′E"
+        ],
+        "region": "Western Visayas",
+        "founded": "April 15, 1901",
+        "capital": "Roxas",
+        "largest_city": "",
+        "governor_name": "Fredenil H. Castro",
+        "governor_party": "Lakas-CMD",
+        "vice_governor_name": "James \"Mitang\" O. Magbanua",
+        "vice_governor_party": "Lakas-CMD",
+        "highest_bol": "Mount Nangtud",
+        "highest_peak": 2074,
+        "independent_cities": 0,
+        "component_cities": 1,
+        "municipalities": 16,
+        "languages": {
+            "Capiznon": null,
+            "Hiligaynon": null,
+            "Aklanon": null,
+            "Kinaray-a": null,
+            "Igbok": null,
+            "Tagalog": null,
+            "English": null
+        }
+    },
+    {
+        "id": 22,
+        "province_name": "Catanduanes",
+        "coordinates": [
+            "13°50′N",
+            "124°15′E"
+        ],
+        "region": "Bicol Region",
+        "founded": "September 26, 1945",
+        "capital": "Virac",
+        "largest_city": "",
+        "governor_name": "Joseph C. Cua",
+        "governor_party": "NPC",
+        "vice_governor_name": "Peter C. Cua",
+        "vice_governor_party": "PDP–Laban",
+        "highest_bol": "Mount Tamboo",
+        "highest_peak": 695,
+        "independent_cities": 0,
+        "component_cities": 0,
+        "municipalities": 11,
+        "languages": {
+            "Central Bikol": null,
+            "Northern Catanduanes": null,
+            "Southern Catanduanes": null,
+            "Tagalog": null,
+            "English": null
+        }
+    },
+    {
+        "id": 23,
+        "province_name": "Cavite",
+        "coordinates": [
+            "14°16′N",
+            "120°52′E"
+        ],
+        "region": "Calabarzon",
+        "founded": "",
+        "capital": "Imus",
+        "largest_city": "Dasmariñas",
+        "governor_name": "Jonvic Remulla",
+        "governor_party": "NUP",
+        "vice_governor_name": "Athena Bryana Tolentino",
+        "vice_governor_party": "NUP",
+        "highest_bol": "Mount Sungay",
+        "highest_peak": 709,
+        "independent_cities": 0,
+        "component_cities": 8,
+        "municipalities": 15,
+        "languages": {}
+    },
+    {
+        "id": 24,
+        "province_name": "Cebu",
+        "coordinates": [
+            "10°19′N",
+            "123°45′E"
+        ],
+        "region": "Central Visayas",
+        "founded": "6 August 1569",
+        "capital": "Cebu City",
+        "largest_city": "",
+        "governor_name": "Gwendolyn F. Garcia",
+        "governor_party": "1Cebu",
+        "vice_governor_name": "Hilario R. Davide III",
+        "vice_governor_party": "LP",
+        "highest_bol": "Osmeña Peak",
+        "highest_peak": 1072,
+        "independent_cities": 3,
+        "component_cities": 6,
+        "municipalities": 44,
+        "languages": {}
+    },
+    {
+        "id": 25,
+        "province_name": "Cotabato",
+        "coordinates": [
+            "7°12′N",
+            "124°51′E"
+        ],
+        "region": "Soccsksargen*",
+        "founded": "",
+        "capital": "Kidapawan",
+        "largest_city": "",
+        "governor_name": "Emmylou Taliño-Mendoza",
+        "governor_party": "NP",
+        "vice_governor_name": "Efren F. Piñol",
+        "vice_governor_party": "PDP–Laban",
+        "highest_bol": "Mount Apo",
+        "highest_peak": 2954,
+        "independent_cities": 0,
+        "component_cities": 1,
+        "municipalities": 25,
+        "languages": {
+            "Hiligaynon": null,
+            "Maguindanaon": null,
+            "Cebuano": null,
+            "Chavacano": null,
+            "Iranun": null,
+            "Dulangan Manobo": null,
+            "Obo": null,
+            "Tagabawa": null,
+            "Tboli": null,
+            "Ilianen": null,
+            "Tagalog": null,
+            "English": null
+        }
+    },
+    {
+        "id": 26,
+        "province_name": "Davao de Oro",
+        "coordinates": [
+            "7°36′N",
+            "125°57′E"
+        ],
+        "region": "Davao Region",
+        "founded": "8 March 1998",
+        "capital": "Nabunturan",
+        "largest_city": "",
+        "governor_name": "Dorothy Montejo Gonzaga ",
+        "governor_party": "PFP",
+        "vice_governor_name": "Jayvee Tyron L. Uy",
+        "vice_governor_party": "Lakas",
+        "highest_bol": "Mt.Pandadagsaan",
+        "highest_peak": 2670,
+        "independent_cities": 0,
+        "component_cities": 0,
+        "municipalities": 11,
+        "languages": {
+            "Cebuano": null,
+            "Mansaka": null,
+            "Ata Manobo": null,
+            "Mandaya": null,
+            "Filipino": null,
+            "English": null
+        }
+    },
+    {
+        "id": 27,
+        "province_name": "Davao del Norte",
+        "coordinates": [
+            "7°21′N",
+            "125°42′E"
+        ],
+        "region": "Davao Region",
+        "founded": "May 8, 1967",
+        "capital": "Tagum",
+        "largest_city": "",
+        "governor_name": "Edwin I. Jubahib",
+        "governor_party": "PFP",
+        "vice_governor_name": "De Carlo L. Uy[a]",
+        "vice_governor_party": "Independent",
+        "highest_bol": "Mount Masimalon",
+        "highest_peak": 1115,
+        "independent_cities": 0,
+        "component_cities": 3,
+        "municipalities": 8,
+        "languages": {
+            "Cebuano": null,
+            "Davaoeño": null,
+            "Mansaka": null,
+            "Filipino": null,
+            "English": null
+        }
+    },
+    {
+        "id": 28,
+        "province_name": "Davao del Sur",
+        "coordinates": [
+            "6°20′N",
+            "125°30′E"
+        ],
+        "region": "Davao Region",
+        "founded": "May 8, 1967",
+        "capital": "Digos",
+        "largest_city": "Davao City",
+        "governor_name": "Yvonne Roña-Cagas",
+        "governor_party": "NP",
+        "vice_governor_name": "Riafe Cagas-Fernandez",
+        "vice_governor_party": "NP",
+        "highest_bol": "Mount Apo",
+        "highest_peak": 2954,
+        "independent_cities": 1,
+        "component_cities": 1,
+        "municipalities": 9,
+        "languages": {
+            "Ata Manobo": null,
+            "Cebuano": null,
+            "Giangan": null,
+            "Kalagan": null,
+            "Matigsalug": null,
+            "Obo": null,
+            "Tagabawa": null,
+            "Tagalog": null,
+            "English": null
+        }
+    },
+    {
+        "id": 29,
+        "province_name": "Davao Occidental",
+        "coordinates": [
+            "6°05′N",
+            "125°40′E"
+        ],
+        "region": "Davao Region",
+        "founded": "28 October 2013",
+        "capital": "Malita",
+        "largest_city": "",
+        "governor_name": "Franklin P. Bautista",
+        "governor_party": "Lakas",
+        "vice_governor_name": "Lorna P. Bautista-Bandigan",
+        "vice_governor_party": "HNP",
+        "highest_bol": "Mount Latian",
+        "highest_peak": 1624,
+        "independent_cities": 0,
+        "component_cities": 0,
+        "municipalities": 5,
+        "languages": {
+            "Cebuano": null,
+            "Sangirese": null,
+            "Sarangani": null,
+            "Tagalog": null,
+            "Filipino": null,
+            "English": null,
+            "Indonesian": null
+        }
+    },
+    {
+        "id": 30,
+        "province_name": "Davao Oriental",
+        "coordinates": [
+            "7°10′N",
+            "126°20′E"
+        ],
+        "region": "Davao Region",
+        "founded": "May 8, 1967",
+        "capital": "Mati",
+        "largest_city": "",
+        "governor_name": "Niño Sotero L. Uy Jr.",
+        "governor_party": "Nacionalista Party",
+        "vice_governor_name": "Nelson L. Dayanghirang Jr.",
+        "vice_governor_party": "Nacionalista Party",
+        "highest_bol": "Mount Mayo",
+        "highest_peak": 1728,
+        "independent_cities": 0,
+        "component_cities": 1,
+        "municipalities": 10,
+        "languages": {
+            "Davawenyo": null,
+            "Cebuano": null,
+            "Kalagan": null,
+            "Mandaya": null,
+            "Kamayo": null,
+            "Mansaka": null,
+            "Filipino": null,
+            "English": null
+        }
+    },
+    {
+        "id": 31,
+        "province_name": "Dinagat Islands",
+        "coordinates": [
+            "10°06′N",
+            "125°36′E"
+        ],
+        "region": "Caraga",
+        "founded": "2 December 2006",
+        "capital": "San Jose",
+        "largest_city": "",
+        "governor_name": "Nilo Demerey Jr.",
+        "governor_party": "PFP",
+        "vice_governor_name": "Benglen Ecleo",
+        "vice_governor_party": "PFP",
+        "highest_bol": "Mount Redondo",
+        "highest_peak": 939,
+        "independent_cities": 0,
+        "component_cities": 0,
+        "municipalities": 7,
+        "languages": {
+            "Cebuano": null,
+            "Surigaonon": null,
+            "Waray": null,
+            "Tagalog": null,
+            "English": null
+        }
+    },
+    {
+        "id": 32,
+        "province_name": "Eastern Samar",
+        "coordinates": [
+            "11°40′N",
+            "125°25′E"
+        ],
+        "region": "Eastern Visayas",
+        "founded": "June 19, 1965",
+        "capital": "Borongan",
+        "largest_city": "",
+        "governor_name": "Ben P. Evardone",
+        "governor_party": "PDP–Laban",
+        "vice_governor_name": "Maria Caridad S. Goteesan",
+        "vice_governor_party": "PDP–Laban",
+        "highest_bol": "Mount Mactaon",
+        "highest_peak": 673,
+        "independent_cities": 0,
+        "component_cities": 1,
+        "municipalities": 22,
+        "languages": {
+            "Waray": null,
+            "Cebuano": null,
+            "Tagalog": null,
+            "English": null
+        }
+    },
+    {
+        "id": 33,
+        "province_name": "Guimaras",
+        "coordinates": [
+            "10°34′N",
+            "122°35′E"
+        ],
+        "region": "Western Visayas",
+        "founded": "May 22, 1992",
+        "capital": "Jordan",
+        "largest_city": "",
+        "governor_name": "Joaquin Carlos Rahman A. Nava",
+        "governor_party": "NUP",
+        "vice_governor_name": "John Edward G. Gando",
+        "vice_governor_party": "PDP-Laban",
+        "highest_bol": "Mount Bontoc",
+        "highest_peak": 272,
+        "independent_cities": 0,
+        "component_cities": 0,
+        "municipalities": 5,
+        "languages": {
+            "Hiligaynon": null,
+            "Ati": null,
+            "Filipino": null,
+            "English": null
+        }
+    },
+    {
+        "id": 34,
+        "province_name": "Ifugao",
+        "coordinates": [
+            "16°50′N",
+            "121°10′E"
+        ],
+        "region": "Cordillera Administrative Region",
+        "founded": "June 18, 1966",
+        "capital": "Lagawe",
+        "largest_city": "",
+        "governor_name": "Jerry U. Dalipog",
+        "governor_party": "KBL",
+        "vice_governor_name": "Glenn D. Prudenciano",
+        "vice_governor_party": "LP",
+        "highest_bol": "Mount Pulag",
+        "highest_peak": 2928,
+        "independent_cities": 0,
+        "component_cities": 0,
+        "municipalities": 11,
+        "languages": {
+            "Ifugao": null,
+            "Tuwali": null,
+            "Kalanguya": null,
+            "Ilocano": null,
+            "Tagalog": null,
+            "English": null
+        }
+    },
+    {
+        "id": 35,
+        "province_name": "Ilocos Norte",
+        "coordinates": [
+            "18°10′N",
+            "120°45′E"
+        ],
+        "region": "Ilocos Region",
+        "founded": "February 2, 1818",
+        "capital": "Laoag",
+        "largest_city": "",
+        "governor_name": "Matthew Manotoc",
+        "governor_party": "NP",
+        "vice_governor_name": "Cecilia Araneta",
+        "vice_governor_party": "NP",
+        "highest_bol": "Mount Sicapoo",
+        "highest_peak": 2361,
+        "independent_cities": 0,
+        "component_cities": 2,
+        "municipalities": 21,
+        "languages": {
+            "Ilocano": null,
+            "Filipino": null
+        }
+    },
+    {
+        "id": 36,
+        "province_name": "Ilocos Sur",
+        "coordinates": [
+            "17°20′N",
+            "120°35′E"
+        ],
+        "region": "Ilocos Region",
+        "founded": "June 13, 1572",
+        "capital": "Vigan",
+        "largest_city": "Candon",
+        "governor_name": "Jeremias C. Singson",
+        "governor_party": "NPC/Bileg",
+        "vice_governor_name": "Ryan Luis V. Singson",
+        "vice_governor_party": "Lakas/Bileg",
+        "highest_bol": "Mount Camingingel",
+        "highest_peak": 2371,
+        "independent_cities": 0,
+        "component_cities": 2,
+        "municipalities": 32,
+        "languages": {
+            "Ilocano": null,
+            "Kankana-ey": null,
+            "Filipino": null,
+            "English": null
+        }
+    },
+    {
+        "id": 37,
+        "province_name": "Iloilo",
+        "coordinates": [
+            "11°00′N",
+            "122°40′E"
+        ],
+        "region": "Western Visayas",
+        "founded": "1566",
+        "capital": "Iloilo City",
+        "largest_city": "",
+        "governor_name": "Arthur R. Defensor Jr.",
+        "governor_party": "PFP",
+        "vice_governor_name": "Christine S. Garin",
+        "vice_governor_party": "NP",
+        "highest_bol": "Mount Baloy",
+        "highest_peak": 1958,
+        "independent_cities": 1,
+        "component_cities": 1,
+        "municipalities": 42,
+        "languages": {
+            "Hiligaynon": null,
+            "Kinaray-a": null,
+            "Capiznon": null,
+            "Ati": null,
+            "Filipino": null,
+            "English": null
+        }
+    },
+    {
+        "id": 38,
+        "province_name": "Isabela",
+        "coordinates": [
+            "17°N",
+            "122°E"
+        ],
+        "region": "Cagayan Valley",
+        "founded": "May 1, 1856",
+        "capital": "Ilagan",
+        "largest_city": "",
+        "governor_name": "Rodolfo T. Albano III",
+        "governor_party": "PDP–Laban",
+        "vice_governor_name": "Faustino Dy III(NPC)",
+        "vice_governor_party": "NPC",
+        "highest_bol": "Mount Dos Cuernos",
+        "highest_peak": 1736,
+        "independent_cities": 1,
+        "component_cities": 2,
+        "municipalities": 34,
+        "languages": {
+            "Ilocano": null,
+            "Ibanag": null,
+            "Gaddang": null,
+            "Tagalog": null,
+            "Yogad": null,
+            "English": null
+        }
+    },
+    {
+        "id": 39,
+        "province_name": "Kalinga",
+        "coordinates": [
+            "17°45′N",
+            "121°15′E"
+        ],
+        "region": "Cordillera Administrative Region",
+        "founded": "May 8, 1995",
+        "capital": "Tabuk",
+        "largest_city": "",
+        "governor_name": "James S. Edduba",
+        "governor_party": "Lakas",
+        "vice_governor_name": "Jocel C. Baac",
+        "vice_governor_party": "Aksyon",
+        "highest_bol": "Mount Alchan",
+        "highest_peak": 2617,
+        "independent_cities": 0,
+        "component_cities": 1,
+        "municipalities": 7,
+        "languages": {
+            "Kalinga": null,
+            "Ilocano": null,
+            "Gaddang": null,
+            "Tagalog": null,
+            "English": null
+        }
+    },
+    {
+        "id": 40,
+        "province_name": "La Union",
+        "coordinates": [
+            "16°30′N",
+            "120°25′E"
+        ],
+        "region": "Ilocos Region",
+        "founded": "March 2, 1850",
+        "capital": "San Fernando",
+        "largest_city": "",
+        "governor_name": "Raphaelle Veronica A. Ortega-David",
+        "governor_party": null,
+        "vice_governor_name": "Mario Eduardo C. Ortega",
+        "vice_governor_party": "NUP",
+        "highest_bol": "Mount Talalang",
+        "highest_peak": 1520,
+        "independent_cities": 0,
+        "component_cities": 1,
+        "municipalities": 19,
+        "languages": {
+            "Ilocano": null,
+            "Pangasinan": null,
+            "Kankanaey": null,
+            "Ibaloi": null,
+            "Tagalog": null,
+            "English": null
+        }
+    },
+    {
+        "id": 41,
+        "province_name": "Laguna",
+        "coordinates": [
+            "14°10′N",
+            "121°20′E"
+        ],
+        "region": "Calabarzon",
+        "founded": "July 28, 1571[1][2]",
+        "capital": "Santa Cruz",
+        "largest_city": "San Pablo",
+        "governor_name": "Ramil Hernandez",
+        "governor_party": "Lakas–CMD",
+        "vice_governor_name": "Katherine Agapay",
+        "vice_governor_party": "PFP",
+        "highest_bol": "Mount Banahaw",
+        "highest_peak": 2170,
+        "independent_cities": 0,
+        "component_cities": 6,
+        "municipalities": 24,
+        "languages": {
+            "Tagalog": null,
+            "English": null,
+            "Ilocano": null,
+            "Bicolano": null
+        }
+    },
+    {
+        "id": 42,
+        "province_name": "Lanao del Norte",
+        "coordinates": [
+            "8°02′N",
+            "124°00′E"
+        ],
+        "region": "Northern Mindanao",
+        "founded": "May 22, 1959",
+        "capital": "Tubod",
+        "largest_city": "Iligan",
+        "governor_name": "Imelda Dimaporo",
+        "governor_party": "PFP",
+        "vice_governor_name": "Allan Lim",
+        "vice_governor_party": "PDP–Laban",
+        "highest_bol": "Mount Inayawan",
+        "highest_peak": 1535,
+        "independent_cities": 1,
+        "component_cities": 0,
+        "municipalities": 22,
+        "languages": {
+            "Cebuano": null,
+            "Maranao": null,
+            "Tagalog": null,
+            "English": null
+        }
+    },
+    {
+        "id": 43,
+        "province_name": "Lanao del Sur",
+        "coordinates": [
+            "8°00′N",
+            "124°17′E"
+        ],
+        "region": "Bangsamoro",
+        "founded": "May 22, 1959",
+        "capital": "Marawi",
+        "largest_city": "",
+        "governor_name": "Mamintal Alonto Adiong Jr.",
+        "governor_party": null,
+        "vice_governor_name": "Mohammad Khalid R. Adiong",
+        "vice_governor_party": "Lakas–CMD",
+        "highest_bol": "Mount Ragang",
+        "highest_peak": 2815,
+        "independent_cities": 0,
+        "component_cities": 1,
+        "municipalities": 39,
+        "languages": {
+            "Maranao": null,
+            "Iranun": null,
+            "Tagalog": null,
+            "English": null
+        }
+    },
+    {
+        "id": 44,
+        "province_name": "Leyte",
+        "coordinates": [
+            "11°00′N",
+            "124°51′E"
+        ],
+        "region": "Eastern Visayas",
+        "founded": "1735[1]",
+        "capital": "Tacloban",
+        "largest_city": "",
+        "governor_name": "Carlos Jericho L. Petilla",
+        "governor_party": "PDP–Laban",
+        "vice_governor_name": "Leonardo M. Javier Jr. ",
+        "vice_governor_party": "PDP–Laban",
+        "highest_bol": "Alto Peak",
+        "highest_peak": 1332,
+        "independent_cities": 2,
+        "component_cities": 1,
+        "municipalities": 40,
+        "languages": {
+            "Waray-Waray": null,
+            "Cebuano": null,
+            "Baybayanon": null,
+            "English": null,
+            "Tagalog": null
+        }
+    },
+    {
+        "id": 45,
+        "province_name": "Maguindanao del Norte",
+        "coordinates": [
+            "07°08′N",
+            "124°16′E"
+        ],
+        "region": "Bangsamoro",
+        "founded": "",
+        "capital": "Datu Odin Sinsuat",
+        "largest_city": "Cotabato City",
+        "governor_name": "DisputedAbdulraof A. Macacua[a]Ainee Sinsuat[b]",
+        "governor_party": null,
+        "vice_governor_name": "Vacant[c] or Sharifudin Tucao Mastura[d]",
+        "vice_governor_party": null,
+        "highest_bol": null,
+        "highest_peak": null,
+        "independent_cities": 1,
+        "component_cities": 0,
+        "municipalities": 12,
+        "languages": {
+            "Maguindanaon": null,
+            "Tiruray": null,
+            "Iranun": null,
+            "Tagalog": null,
+            "English": null
+        }
+    },
+    {
+        "id": 46,
+        "province_name": "Maguindanao del Sur",
+        "coordinates": [
+            "06°55′N",
+            "124°34′E"
+        ],
+        "region": "Bangsamoro",
+        "founded": "",
+        "capital": "Buluan",
+        "largest_city": "",
+        "governor_name": "Bai Mariam Sangki-Mangudadatu",
+        "governor_party": null,
+        "vice_governor_name": "Datu Nathaniel S. Midtimbang",
+        "vice_governor_party": null,
+        "highest_bol": null,
+        "highest_peak": null,
+        "independent_cities": 0,
+        "component_cities": 0,
+        "municipalities": 24,
+        "languages": {
+            "Maguindanaon": null,
+            "Tiruray": null,
+            "Tagalog": null,
+            "English": null
+        }
+    },
+    {
+        "id": 47,
+        "province_name": "Marinduque",
+        "coordinates": [
+            "13°24′N",
+            "121°58′E"
+        ],
+        "region": "Mimaropa",
+        "founded": "May 1, 1901",
+        "capital": "Boac",
+        "largest_city": "",
+        "governor_name": "Presbitero J. Velasco Jr.",
+        "governor_party": "PFP",
+        "vice_governor_name": "Adeline Marciano-Angeles",
+        "vice_governor_party": "PFP",
+        "highest_bol": "Mount Malindig",
+        "highest_peak": 1157,
+        "independent_cities": 0,
+        "component_cities": 0,
+        "municipalities": 6,
+        "languages": {
+            "Tagalog": null,
+            "English": null
+        }
+    },
+    {
+        "id": 48,
+        "province_name": "Masbate",
+        "coordinates": [
+            "12°16′N",
+            "123°35′E"
+        ],
+        "region": "Bicol Region",
+        "founded": "March 18, 1901",
+        "capital": "Masbate City",
+        "largest_city": "",
+        "governor_name": "Antonio T. Kho",
+        "governor_party": "PDP-Laban",
+        "vice_governor_name": "Elisa T. Kho",
+        "vice_governor_party": "PDP-Laban",
+        "highest_bol": "Conical Peak",
+        "highest_peak": 699,
+        "independent_cities": 0,
+        "component_cities": 1,
+        "municipalities": 20,
+        "languages": {
+            "Masbateño": null,
+            "Waray": null,
+            "Hiligaynon": null,
+            "Bikol": null,
+            "Cebuano": null,
+            "Filipino": null,
+            "English": null
+        }
+    },
+    {
+        "id": 49,
+        "province_name": "Misamis Occidental",
+        "coordinates": [
+            "8°20′N",
+            "123°42′E"
+        ],
+        "region": "Northern Mindanao",
+        "founded": "November 2, 1929[1]",
+        "capital": "Oroquieta",
+        "largest_city": "Ozamiz City",
+        "governor_name": "Atty. Henry S. Oaminal Sr.",
+        "governor_party": "NP",
+        "vice_governor_name": "Rowena L. Gutierrez",
+        "vice_governor_party": "PDPLBN",
+        "highest_bol": "Mount Malindang",
+        "highest_peak": 2404,
+        "independent_cities": 0,
+        "component_cities": 3,
+        "municipalities": 14,
+        "languages": {
+            "Cebuano": null,
+            "Subanen": null,
+            "Maranao": null,
+            "Tagalog": null,
+            "English": null
+        }
+    },
+    {
+        "id": 50,
+        "province_name": "Misamis Oriental",
+        "coordinates": [
+            "8°45′N",
+            "125°00′E"
+        ],
+        "region": "Northern Mindanao",
+        "founded": "1939",
+        "capital": "Cagayan de Oro",
+        "largest_city": "",
+        "governor_name": "Peter M. Unabia",
+        "governor_party": "Lakas",
+        "vice_governor_name": "Jeremy Jonahmar G. Pelaez",
+        "vice_governor_party": "Padayon Pilipino",
+        "highest_bol": "Mount Balatukan",
+        "highest_peak": 2560,
+        "independent_cities": 1,
+        "component_cities": 2,
+        "municipalities": 23,
+        "languages": {
+            "Cebuano": null,
+            "Higaonon": null,
+            "Maranao": null,
+            "Subanon": null,
+            "Tagalog": null,
+            "English": null
+        }
+    },
+    {
+        "id": 51,
+        "province_name": "Mountain Province",
+        "coordinates": [
+            "17°05′N",
+            "121°10′E"
+        ],
+        "region": "Cordillera Administrative Region",
+        "founded": "1908",
+        "capital": "Bontoc",
+        "largest_city": "",
+        "governor_name": "Bonifacio C. Lacwasan Jr.",
+        "governor_party": "PDP-Laban",
+        "vice_governor_name": "Francis O. Taulif",
+        "vice_governor_party": "PDP-Laban",
+        "highest_bol": "Mount Amuyao",
+        "highest_peak": 2702,
+        "independent_cities": 0,
+        "component_cities": 0,
+        "municipalities": 10,
+        "languages": {
+            "Bontoc": null,
+            "Kankana-ey": null,
+            "Balangao": null,
+            "Ilocano": null,
+            "Tagalog": null,
+            "English": null
+        }
+    },
+    {
+        "id": 52,
+        "province_name": "Negros Occidental",
+        "coordinates": [
+            "10°25′N",
+            "123°00′E"
+        ],
+        "region": "Negros Island Region",
+        "founded": "January 1, 1890",
+        "capital": "Bacolod",
+        "largest_city": "",
+        "governor_name": "Eugenio Jose V. Lacson",
+        "governor_party": "NPC",
+        "vice_governor_name": "Jeffrey P. Ferrer",
+        "vice_governor_party": "NUP",
+        "highest_bol": "Mount Kanlaon",
+        "highest_peak": 2465,
+        "independent_cities": 1,
+        "component_cities": 12,
+        "municipalities": 19,
+        "languages": {
+            "Hiligaynon": null,
+            "Cebuano": null,
+            "Tagalog": null,
+            "English": null
+        }
+    },
+    {
+        "id": 53,
+        "province_name": "Negros Oriental",
+        "coordinates": [
+            "10°03′N",
+            "123°07′E"
+        ],
+        "region": "Negros Island Region",
+        "founded": "January 1, 1890",
+        "capital": "Dumaguete",
+        "largest_city": "",
+        "governor_name": "Manuel \"Chaco\" L. Sagarbarria",
+        "governor_party": "PFP",
+        "vice_governor_name": "Jaime L. Reyes",
+        "vice_governor_party": "LP",
+        "highest_bol": "Mount Kanlaon",
+        "highest_peak": 2465,
+        "independent_cities": 0,
+        "component_cities": 6,
+        "municipalities": 19,
+        "languages": {
+            "Cebuano": null,
+            "Hiligaynon": null,
+            "Tagalog": null,
+            "English": null
+        }
+    },
+    {
+        "id": 54,
+        "province_name": "Northern Samar",
+        "coordinates": [
+            "12°20′N",
+            "124°40′E"
+        ],
+        "region": "Eastern Visayas",
+        "founded": "June 19, 1965",
+        "capital": "Catarman",
+        "largest_city": "",
+        "governor_name": "Edwin C. Ongchuan",
+        "governor_party": "PFP",
+        "vice_governor_name": "Clarence E. Dato",
+        "vice_governor_party": "PFP",
+        "highest_bol": "Mount Saamong",
+        "highest_peak": 514,
+        "independent_cities": 0,
+        "component_cities": 0,
+        "municipalities": 24,
+        "languages": {
+            "Waray": null,
+            "Inabaknon": null,
+            "Tagalog": null,
+            "English": null
+        }
+    },
+    {
+        "id": 55,
+        "province_name": "Nueva Ecija",
+        "coordinates": [
+            "15°35′N",
+            "121°00′E"
+        ],
+        "region": "Central Luzon",
+        "founded": "25 April 1801[1]",
+        "capital": "Palayan",
+        "largest_city": "Cabanatuan",
+        "governor_name": "Aurelio Umali",
+        "governor_party": "Unang Sigaw",
+        "vice_governor_name": "Emmanuel Antonio Umali",
+        "vice_governor_party": "Unang Sigaw",
+        "highest_bol": "Mount Kiligantian",
+        "highest_peak": 1673,
+        "independent_cities": 0,
+        "component_cities": 5,
+        "municipalities": 27,
+        "languages": {
+            "Tagalog": null,
+            "Ilocano": null
+        }
+    },
+    {
+        "id": 56,
+        "province_name": "Nueva Vizcaya",
+        "coordinates": [
+            "16°29′N",
+            "121°09′E"
+        ],
+        "region": "Cagayan Valley",
+        "founded": "1839",
+        "capital": "Bayombong",
+        "largest_city": "",
+        "governor_name": "Jose V. Gambito",
+        "governor_party": "PFP",
+        "vice_governor_name": "Eufemia A. Dacayo",
+        "vice_governor_party": "Lakas-CMD",
+        "highest_bol": "Mount Pulag",
+        "highest_peak": 2928,
+        "independent_cities": 0,
+        "component_cities": 0,
+        "municipalities": 15,
+        "languages": {
+            "Ilocano": null,
+            "Pangasinan": null,
+            "Tagalog": null,
+            "Gaddang": null,
+            "Isinai": null,
+            "English": null
+        }
+    },
+    {
+        "id": 57,
+        "province_name": "Occidental Mindoro",
+        "coordinates": [
+            "13°00′N",
+            "120°55′E"
+        ],
+        "region": "Mimaropa",
+        "founded": "November 15, 1950",
+        "capital": "Mamburao",
+        "largest_city": "",
+        "governor_name": "Eduardo Gadiano",
+        "governor_party": "PFP",
+        "vice_governor_name": "Diana Apigo-Tayag",
+        "vice_governor_party": "Democratic Party of the Philippines",
+        "highest_bol": "Mount Baco",
+        "highest_peak": 2488,
+        "independent_cities": 0,
+        "component_cities": 0,
+        "municipalities": 11,
+        "languages": {
+            "Tagalog": null,
+            "Mangyan": null,
+            "English": null
+        }
+    },
+    {
+        "id": 58,
+        "province_name": "Oriental Mindoro",
+        "coordinates": [
+            "13°00′N",
+            "121°25′E"
+        ],
+        "region": "Mimaropa",
+        "founded": "November 15, 1950[1]",
+        "capital": "Calapan",
+        "largest_city": "",
+        "governor_name": "Humerlito \"Bonz\" A. Dolor",
+        "governor_party": "PDP–Laban",
+        "vice_governor_name": "Ejay L. Falcon",
+        "vice_governor_party": "PDP–Laban",
+        "highest_bol": "Mount Halcon",
+        "highest_peak": 2616,
+        "independent_cities": 0,
+        "component_cities": 1,
+        "municipalities": 14,
+        "languages": {
+            "Tagalog": null,
+            "Mangyan": null,
+            "English": null
+        }
+    },
+    {
+        "id": 59,
+        "province_name": "Palawan",
+        "coordinates": [
+            "10°00′N",
+            "118°50′E"
+        ],
+        "region": "Mimaropa (in transition)[1][2][citation needed]",
+        "founded": "1818",
+        "capital": "Puerto Princesa",
+        "largest_city": "",
+        "governor_name": "Victorino Dennis M. Socrates",
+        "governor_party": "PPPL",
+        "vice_governor_name": "Leoncio N. Ola",
+        "vice_governor_party": "PPPL",
+        "highest_bol": "Mount Mantalingajan",
+        "highest_peak": 2086,
+        "independent_cities": 1,
+        "component_cities": 0,
+        "municipalities": 23,
+        "languages": {
+            "Cuyonon": null,
+            "Agutaynen": null,
+            "Kinaray-a": null,
+            "Palawano": null,
+            "Hiligaynon": null,
+            "Molbog": null,
+            "Batak": null,
+            "Aborlan Tagbanwa": null,
+            "Calamian Tagbanwa": null,
+            "Central Tagbanwa": null,
+            "Kagayanen": null,
+            "Tausūg": null,
+            "Sabah Malay": null,
+            "English": null
+        }
+    },
+    {
+        "id": 60,
+        "province_name": "Pampanga",
+        "coordinates": [
+            "15°04′N",
+            "120°40′E"
+        ],
+        "region": "Central Luzon",
+        "founded": "December 11, 1571",
+        "capital": "San Fernando",
+        "largest_city": "Angeles City",
+        "governor_name": "Dennis Pineda",
+        "governor_party": "NPC/KAMBILAN",
+        "vice_governor_name": "Lilia Pineda",
+        "vice_governor_party": "NUP/KAMBILAN",
+        "highest_bol": "Mount Negron",
+        "highest_peak": 1583,
+        "independent_cities": 1,
+        "component_cities": 2,
+        "municipalities": 19,
+        "languages": {
+            "Kapampangan": null,
+            "Tagalog": null,
+            "English": null
+        }
+    },
+    {
+        "id": 61,
+        "province_name": "Pangasinan",
+        "coordinates": [
+            "15°55′N",
+            "120°20′E"
+        ],
+        "region": "Ilocos Region",
+        "founded": "April 5, 1580",
+        "capital": "Lingayen",
+        "largest_city": "San Carlos",
+        "governor_name": "Ramon V. Guico III",
+        "governor_party": "NP",
+        "vice_governor_name": "Mark Ronald D. Lambino",
+        "vice_governor_party": "Lakas–CMD",
+        "highest_bol": "Mount San Isidro",
+        "highest_peak": 737,
+        "independent_cities": 1,
+        "component_cities": 3,
+        "municipalities": 44,
+        "languages": {
+            "Pangasinan": null,
+            "Bolinao": null,
+            "Sambal": null,
+            "Ilocano": null,
+            "Tagalog": null,
+            "English": null
+        }
+    },
+    {
+        "id": 62,
+        "province_name": "Quezon",
+        "coordinates": [
+            "13°56′N",
+            "121°37′E"
+        ],
+        "region": "Calabarzon",
+        "founded": "1591 (as Kalilayan)",
+        "capital": "Lucena",
+        "largest_city": "",
+        "governor_name": "Angelina D.L. Tan",
+        "governor_party": "NPC",
+        "vice_governor_name": "Anacleto A. Alcala III",
+        "vice_governor_party": "NPC",
+        "highest_bol": "Mount Banahaw",
+        "highest_peak": 2170,
+        "independent_cities": 1,
+        "component_cities": 1,
+        "municipalities": 39,
+        "languages": {
+            "Tagalog": null,
+            "English": null
+        }
+    },
+    {
+        "id": 63,
+        "province_name": "Quirino",
+        "coordinates": [
+            "16°17′N",
+            "121°35′E"
+        ],
+        "region": "Cagayan Valley",
+        "founded": "June 18, 1966",
+        "capital": "Cabarroguis",
+        "largest_city": "",
+        "governor_name": "Dakila Carlo E. Cua",
+        "governor_party": "PFP",
+        "vice_governor_name": "Julius Caesar S. Vaquilar",
+        "vice_governor_party": "PDP–Laban",
+        "highest_bol": "Mount Dialanese",
+        "highest_peak": 1808,
+        "independent_cities": 0,
+        "component_cities": 0,
+        "municipalities": 6,
+        "languages": {
+            "Ilocano": null,
+            "Ifugao": null,
+            "Bugkalot": null,
+            "Pangasinan": null,
+            "Kankana-ey": null,
+            "Tagalog": null
+        }
+    },
+    {
+        "id": 64,
+        "province_name": "Rizal",
+        "coordinates": [
+            "14°40′N",
+            "121°15′E"
+        ],
+        "region": "Calabarzon",
+        "founded": "June 11, 1901",
+        "capital": "Antipolo(since July 7, 2020)",
+        "largest_city": "",
+        "governor_name": "Nina Ricci A. Ynares",
+        "governor_party": "NPC",
+        "vice_governor_name": "Reynaldo H. San Juan, Jr.",
+        "vice_governor_party": "PFP",
+        "highest_bol": "Mount Irid",
+        "highest_peak": 1509,
+        "independent_cities": 0,
+        "component_cities": 1,
+        "municipalities": 13,
+        "languages": {
+            "Tagalog": null,
+            "English": null,
+            "Cebuano": null,
+            "Waray": null,
+            "Bikol": null,
+            "Ilocano": null,
+            "Hiligaynon": null
+        }
+    },
+    {
+        "id": 65,
+        "province_name": "Romblon",
+        "coordinates": [
+            "12°33′N",
+            "122°17′E"
+        ],
+        "region": "Mimaropa",
+        "founded": "16 March 1901",
+        "capital": "Romblon",
+        "largest_city": "",
+        "governor_name": "Jose R. Riano",
+        "governor_party": "PFP",
+        "vice_governor_name": "Armando Gutierrez",
+        "vice_governor_party": "PDP–Laban",
+        "highest_bol": "Guiting-Guiting",
+        "highest_peak": 2058,
+        "independent_cities": 0,
+        "component_cities": 0,
+        "municipalities": 17,
+        "languages": {
+            "Romblomanon": null,
+            "Onhan": null,
+            "Asi": null,
+            "Hiligaynon": null,
+            "Tagalog": null,
+            "English": null
+        }
+    },
+    {
+        "id": 66,
+        "province_name": "Samar",
+        "coordinates": [
+            "11°50′N",
+            "125°00′E"
+        ],
+        "region": "Eastern Visayas",
+        "founded": "June 19, 1965",
+        "capital": "Catbalogan",
+        "largest_city": "Calbayog",
+        "governor_name": "Sharee Ann T. Tan ",
+        "governor_party": "NP",
+        "vice_governor_name": "Arnold V. Tan",
+        "vice_governor_party": "NP",
+        "highest_bol": "Mount Huraw",
+        "highest_peak": 890,
+        "independent_cities": 0,
+        "component_cities": 2,
+        "municipalities": 24,
+        "languages": {
+            "Waray-Waray": null,
+            "Cebuano": null,
+            "Tagalog": null,
+            "English": null
+        }
+    },
+    {
+        "id": 67,
+        "province_name": "Sarangani",
+        "coordinates": [
+            "5°52′N",
+            "125°17′E"
+        ],
+        "region": "Soccsksargen",
+        "founded": "November 28, 1992",
+        "capital": "Alabel",
+        "largest_city": "",
+        "governor_name": "Rogelio D. Pacquiao",
+        "governor_party": "PCM",
+        "vice_governor_name": "Elmer T. de Peralta",
+        "vice_governor_party": "PCM",
+        "highest_bol": "Mount Busa",
+        "highest_peak": 2083,
+        "independent_cities": 0,
+        "component_cities": 0,
+        "municipalities": 7,
+        "languages": {
+            "Cebuano": null,
+            "Hiligaynon": null,
+            "Maguindanaon": null,
+            "Blaan": null,
+            "Tboli": null,
+            "Sarangani": null,
+            "Tagalog": null
+        }
+    },
+    {
+        "id": 68,
+        "province_name": "Siquijor",
+        "coordinates": [
+            "9°11′N",
+            "123°35′E"
+        ],
+        "region": "Negros Island Region",
+        "founded": "17 September 1971",
+        "capital": "Siquijor",
+        "largest_city": "",
+        "governor_name": "Jake Vincent S. Villa",
+        "governor_party": "PFP",
+        "vice_governor_name": "Mei Ling M. Quezon-Brown",
+        "vice_governor_party": "NPC",
+        "highest_bol": "Mount Malabahoc",
+        "highest_peak": 628,
+        "independent_cities": null,
+        "component_cities": null,
+        "municipalities": 6,
+        "languages": {}
+    },
+    {
+        "id": 69,
+        "province_name": "Sorsogon",
+        "coordinates": [
+            "12°50′N",
+            "123°55′E"
+        ],
+        "region": "Bicol Region",
+        "founded": "October 17, 1894[1][2]",
+        "capital": "Sorsogon City",
+        "largest_city": "",
+        "governor_name": "Jose Edwin B. Hamor",
+        "governor_party": "NPC",
+        "vice_governor_name": "Krunimar Antonio D. Escudero II",
+        "vice_governor_party": "NPC",
+        "highest_bol": "Mount Bulusan",
+        "highest_peak": 1565,
+        "independent_cities": 0,
+        "component_cities": 1,
+        "municipalities": 14,
+        "languages": {
+            "Northern Sorsogon": null,
+            "Bikol": null,
+            "Filipino": null,
+            "English": null,
+            "Waray Sorsogon": null,
+            "Waray-Waray": null
+        }
+    },
+    {
+        "id": 70,
+        "province_name": "South Cotabato",
+        "coordinates": [
+            "6°10′N",
+            "125°00′E"
+        ],
+        "region": "Soccsksargen",
+        "founded": "July 18, 1966",
+        "capital": "Koronadal",
+        "largest_city": "General Santos",
+        "governor_name": "Reynaldo S. Tamayo Jr.",
+        "governor_party": "PFP",
+        "vice_governor_name": "Arthur Y. Pingoy Jr.",
+        "vice_governor_party": "PFP",
+        "highest_bol": "Mount Matutum",
+        "highest_peak": 2286,
+        "independent_cities": 1,
+        "component_cities": 1,
+        "municipalities": 10,
+        "languages": {
+            "Hiligaynon": null,
+            "Cebuano": null,
+            "Maguindanaon": null,
+            "Tboli": null,
+            "Blaan": null,
+            "Ilocano": null,
+            "Tagalog": null,
+            "English": null
+        }
+    },
+    {
+        "id": 71,
+        "province_name": "Southern Leyte",
+        "coordinates": [
+            "10°20′N",
+            "125°05′E"
+        ],
+        "region": "Eastern Visayas",
+        "founded": "May 22, 1959",
+        "capital": "Maasin",
+        "largest_city": "",
+        "governor_name": "Damian G. Mercado",
+        "governor_party": "PFP",
+        "vice_governor_name": "Rosa Emilia G. Mercado",
+        "vice_governor_party": "PDP-Laban",
+        "highest_bol": "Mount Bitanjuan",
+        "highest_peak": 965,
+        "independent_cities": 0,
+        "component_cities": 1,
+        "municipalities": 18,
+        "languages": {
+            "Cebuano": null,
+            "Waray": null,
+            "Baybayanon": null,
+            "Kinabalian": null,
+            "Tagalog": null
+        }
+    },
+    {
+        "id": 72,
+        "province_name": "Sultan Kudarat",
+        "coordinates": [
+            "6°33′N",
+            "124°17′E"
+        ],
+        "region": "Soccsksargen",
+        "founded": "November 22, 1973",
+        "capital": "Isulan",
+        "largest_city": "Tacurong City",
+        "governor_name": "Datu Pax Ali S. Mangudadatu",
+        "governor_party": null,
+        "vice_governor_name": "Raden C. Sakaluran",
+        "vice_governor_party": null,
+        "highest_bol": "Mount Pitot Kalabaw",
+        "highest_peak": 1503,
+        "independent_cities": 0,
+        "component_cities": 1,
+        "municipalities": 11,
+        "languages": {
+            "Hiligaynon": null,
+            "Maguindanaon": null,
+            "Karay-a": null,
+            "Ilocano": null,
+            "Cebuano": null,
+            "Blaan": null,
+            "Teduray": null,
+            "Dulangan Manobo": null,
+            "Tagalog": null,
+            "English": null
+        }
+    },
+    {
+        "id": 73,
+        "province_name": "Sulu",
+        "coordinates": [
+            "6°N",
+            "121°E"
+        ],
+        "region": "Bangsamoro",
+        "founded": "March 10, 1917",
+        "capital": "JoloPatikul (seat of Government)",
+        "largest_city": "",
+        "governor_name": "Abdusakur M. Tan",
+        "governor_party": "PDP-Laban",
+        "vice_governor_name": "Abdusakur A. Tan II",
+        "vice_governor_party": "PDP-Laban",
+        "highest_bol": "Mount Tumatangis",
+        "highest_peak": 811,
+        "independent_cities": 0,
+        "component_cities": 0,
+        "municipalities": 19,
+        "languages": {
+            "Tausug": null,
+            "Sama": null,
+            "Tagalog": null,
+            "English": null,
+            "Sabah Malay": null,
+            "Chavacano": null
+        }
+    },
+    {
+        "id": 74,
+        "province_name": "Surigao del Norte",
+        "coordinates": [
+            "10°N",
+            "126°E"
+        ],
+        "region": "Caraga",
+        "founded": "June 19, 1960",
+        "capital": "Surigao City",
+        "largest_city": "",
+        "governor_name": "Robert Lyndon S. Barbers",
+        "governor_party": "NP",
+        "vice_governor_name": "Eddie D. Gokiangkee, Jr.",
+        "vice_governor_party": "PDP-Laban",
+        "highest_bol": "Mount Legaspi",
+        "highest_peak": 1170,
+        "independent_cities": 0,
+        "component_cities": 1,
+        "municipalities": 20,
+        "languages": {
+            "Surigaonon": null,
+            "Cebuano": null,
+            "Agusan": null,
+            "Mamanwa": null,
+            "Tagalog": null,
+            "English": null
+        }
+    },
+    {
+        "id": 75,
+        "province_name": "Surigao del Sur",
+        "coordinates": [
+            "8°40′N",
+            "126°00′E"
+        ],
+        "region": "Caraga",
+        "founded": "June 19, 1960",
+        "capital": "Tandag",
+        "largest_city": "Bislig",
+        "governor_name": "Alexander T. Pimentel",
+        "governor_party": "PDP–Laban",
+        "vice_governor_name": "Manuel O. Alameda",
+        "vice_governor_party": "Hugpong Surigao Sur",
+        "highest_bol": "Mount Diuata",
+        "highest_peak": 611,
+        "independent_cities": 0,
+        "component_cities": 2,
+        "municipalities": 17,
+        "languages": {
+            "Surigaonon": null,
+            "Kamayo": null,
+            "Cebuano": null,
+            "Agusan": null,
+            "Tagalog": null,
+            "English": null
+        }
+    },
+    {
+        "id": 76,
+        "province_name": "Tarlac",
+        "coordinates": [
+            "15°30′N",
+            "120°30′E"
+        ],
+        "region": "Central Luzon",
+        "founded": "28 May 1873",
+        "capital": "Tarlac City",
+        "largest_city": "",
+        "governor_name": "Susan Y. Sulit",
+        "governor_party": "NPC",
+        "vice_governor_name": "Carlito S. David",
+        "vice_governor_party": "NPC",
+        "highest_bol": "Mount Iba",
+        "highest_peak": 1655,
+        "independent_cities": 0,
+        "component_cities": 1,
+        "municipalities": 17,
+        "languages": {
+            "Kapampangan": null,
+            "Ilocano": null,
+            "Pangasinan": null,
+            "Tagalog": null,
+            "English": null
+        }
+    },
+    {
+        "id": 77,
+        "province_name": "Tawi-Tawi",
+        "coordinates": [
+            "5°12′00″N",
+            "120°05′00″E"
+        ],
+        "region": "Bangsamoro",
+        "founded": "September 11, 1973",
+        "capital": "Bongao",
+        "largest_city": "",
+        "governor_name": "Yshmael I. Sali",
+        "governor_party": "TOP",
+        "vice_governor_name": "Al-Syed A. Sali",
+        "vice_governor_party": "TOP",
+        "highest_bol": "Mount Sibangkat[2]",
+        "highest_peak": 552,
+        "independent_cities": 0,
+        "component_cities": 0,
+        "municipalities": 11,
+        "languages": {
+            "Arabic": null,
+            "Sama": null,
+            "Tausug": null,
+            "Tagalog": null,
+            "English": null,
+            "Sabah Malay": null
+        }
+    },
+    {
+        "id": 78,
+        "province_name": "Zambales",
+        "coordinates": [
+            "15°20′N",
+            "120°10′E"
+        ],
+        "region": "Central Luzon",
+        "founded": "1578",
+        "capital": "Iba",
+        "largest_city": "Olongapo",
+        "governor_name": "Hermogenes E. Ebdane, Jr.",
+        "governor_party": "PFP",
+        "vice_governor_name": "Jacqueline Rose F. Khonghun",
+        "vice_governor_party": "Aksyon",
+        "highest_bol": "Mount Tapulao",
+        "highest_peak": 2037,
+        "independent_cities": 1,
+        "component_cities": 0,
+        "municipalities": 13,
+        "languages": {
+            "Tagalog": null,
+            "Ilocano": null,
+            "Sambal": null,
+            "Botolan": null,
+            "Ambala": null,
+            "English": null
+        }
+    },
+    {
+        "id": 79,
+        "province_name": "Zamboanga del Norte",
+        "coordinates": [
+            "8°08′00″N",
+            "123°00′00″E"
+        ],
+        "region": "Zamboanga Peninsula",
+        "founded": "June 6, 1952",
+        "capital": "Dipolog",
+        "largest_city": "",
+        "governor_name": "Rosalina G. Jalosjos",
+        "governor_party": "Nacionalista",
+        "vice_governor_name": "Julius C. Napigquit",
+        "vice_governor_party": "PDP–Laban",
+        "highest_bol": "Mount Dansalan",
+        "highest_peak": 629,
+        "independent_cities": 0,
+        "component_cities": 2,
+        "municipalities": 25,
+        "languages": {
+            "Cebuano": null,
+            "Subanon": null,
+            "English": null
+        }
+    },
+    {
+        "id": 80,
+        "province_name": "Zamboanga del Sur",
+        "coordinates": [
+            "7°50′N",
+            "123°15′E"
+        ],
+        "region": "Zamboanga Peninsula",
+        "founded": "June 6, 1952 (Divide)\nSeptember 17, 1952 (Celebration)",
+        "capital": "Pagadian",
+        "largest_city": "",
+        "governor_name": "Victor Yu",
+        "governor_party": "PDPLBN",
+        "vice_governor_name": "Roseller Ariosa",
+        "vice_governor_party": "PDPLBN",
+        "highest_bol": "Mount Pinukis",
+        "highest_peak": 1532,
+        "independent_cities": 1,
+        "component_cities": 1,
+        "municipalities": 26,
+        "languages": {
+            "Cebuano": null,
+            "Maguindanaon": null,
+            "Subanon": null,
+            "Chavacano": null,
+            "Tausug": null,
+            "Iranun": null,
+            "Maranao": null,
+            "Filipino": null,
+            "English": null
+        }
+    },
+    {
+        "id": 81,
+        "province_name": "Zamboanga Sibugay",
+        "coordinates": [
+            "7°48′N",
+            "122°40′E"
+        ],
+        "region": "Zamboanga Peninsula",
+        "founded": "22 February 2001",
+        "capital": "Ipil",
+        "largest_city": "",
+        "governor_name": "Dulce Ann Hofer",
+        "governor_party": "PFP",
+        "vice_governor_name": "Rey Andre C. Olegario",
+        "vice_governor_party": "NP",
+        "highest_bol": "Quipit Peak",
+        "highest_peak": 899,
+        "independent_cities": 0,
+        "component_cities": 0,
+        "municipalities": 16,
+        "languages": {
+            "Cebuano": null,
+            "Subanon": null,
+            "Maguindanaon": null,
+            "Tausug": null,
+            "Filipino": null,
+            "English": null
+        }
+    },
+    {
+        "id": 82,
+        "province_name": "Metro Manila",
+        "coordinates": [
+            "14°35′N",
+            "121°00′E"
+        ],
+        "region": "636.00 km2 (245.56 sq mi)",
+        "founded": "",
+        "capital": "Manila\n1,846,513\n42.88 km2(16.56 sq mi)",
+        "largest_city": "",
+        "governor_name": "",
+        "governor_party": null,
+        "vice_governor_name": "",
+        "vice_governor_party": null,
+        "highest_bol": null,
+        "highest_peak": null,
+        "independent_cities": null,
+        "component_cities": null,
+        "municipalities": null,
+        "languages": {
+            "Filipino": null,
+            "English": null
+        }
+    }
+]
