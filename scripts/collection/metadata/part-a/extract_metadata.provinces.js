@@ -2,6 +2,7 @@ const cheerio = require("cheerio");
 const fse = require("fs-extra")
 const headerMap = require("_/scripts/helpers/headerMap.js")
 const axios = require("axios")
+const normalize = require("_/scripts/helpers/normalize")
 
 module.exports = async function extractProvincesMetadata() {
     console.log("@ Extracting province metadata...")   
@@ -64,14 +65,14 @@ module.exports = async function extractProvincesMetadata() {
             else if(i == _headerMap["province"]) {
                 let name = $el.find("a").text().replaceAll(/\[.*\]/g, "")
                 let link = $el.find("a").attr("href")
-                rowData["province_name"] = name 
-                rowData["province_link"] = link 
+                rowData["province_name"] = normalize(name) 
+                rowData["province_link"] = normalize(link) 
             }
 
             // capital
             else if(i == _headerMap["capital"]) {
                 let capital = $el.text().trim()
-                rowData["capital"] = capital 
+                rowData["capital"] = normalize(capital)
             }
 
             // population %
@@ -113,13 +114,13 @@ module.exports = async function extractProvincesMetadata() {
             // island group 
             else if(i == _headerMap["island_group"]) {
                 let islandGroup = $el.text().trim()
-                rowData["island_group"] = islandGroup
+                rowData["island_group"] = normalize(islandGroup)
             }
 
             // region
             else if(i == _headerMap["region"]) {
-                let islandGroup = $el.text().trim()
-                rowData["region"] = islandGroup
+                let region = $el.text().trim()
+                rowData["region"] = normalize(region)
             }
 
             // total municipalities

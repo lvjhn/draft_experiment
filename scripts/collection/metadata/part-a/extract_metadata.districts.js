@@ -2,6 +2,7 @@ const cheerio = require("cheerio");
 const fse = require("fs-extra")
 const headerMap = require("_/scripts/helpers/headerMap.js")
 const axios = require("axios")
+const normalize = require("_/scripts/helpers/normalize")
 
 module.exports = async function extractDistrictsMetadata() {
     console.log("@ Extracting district metadata...")   
@@ -75,15 +76,15 @@ module.exports = async function extractDistrictsMetadata() {
                district = district.replaceAll("rd", "")
                district = district.replaceAll("th", "")
                 
-               rowData["province_name"] = province.trim()
-               rowData["district_name"] = district.trim()
-               rowData["district_link"] = link
+               rowData["province_name"] = normalize(province)
+               rowData["district_name"] = normalize(district)
+               rowData["district_link"] = normalize(link)
             }
             
             // process region 
             else if(i == _headerMap["region"]) {
                 let region = $el.text().trim()
-                rowData["region"] = region 
+                rowData["region"] = normalize(region)
             }
 
             // process electorate 
@@ -113,7 +114,7 @@ module.exports = async function extractDistrictsMetadata() {
             // process party 
             else if(i == _headerMap["party"]) {
                 let party = $el.text().trim()
-                rowData["party"] = party
+                rowData["party"] = normalize(party)
             }
             
         })

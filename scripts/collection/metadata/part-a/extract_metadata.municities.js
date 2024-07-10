@@ -2,6 +2,7 @@ const cheerio = require("cheerio");
 const fse = require("fs-extra")
 const headerMap = require("_/scripts/helpers/headerMap.js")
 const axios = require("axios")
+const normalize = require("_/scripts/helpers/normalize")
 
 module.exports = async function extractMunicipalityMetadata() {
     console.log("@ Extracting municity metadata...")   
@@ -51,8 +52,8 @@ module.exports = async function extractMunicipalityMetadata() {
                 let municity = $el.text()
                 let link = $el.find("a").attr("href")
                 
-               rowData["municity_name"] = municity.trim()
-               rowData["municity_link"] = link
+               rowData["municity_name"] = normalize(municity.trim())
+               rowData["municity_link"] = normalize(link)
             }
 
             // process population data 
@@ -82,7 +83,7 @@ module.exports = async function extractMunicipalityMetadata() {
             // process class data
             else if(i == _headerMap["class"]) {
                 let _class = $el.text()
-                rowData["class"] = _class.trim()
+                rowData["class"] = normalize(_class.trim())
             }
 
             // process province data

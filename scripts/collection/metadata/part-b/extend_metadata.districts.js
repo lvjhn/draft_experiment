@@ -2,6 +2,7 @@ const cheerio = require("cheerio");
 const fse = require("fs-extra")
 const headerMap = require("_/scripts/helpers/headerMap.js")
 const axios = require("axios")
+const normalize = require("_/scripts/helpers/normalize")
 
 module.exports = async function extractDistrictsMetadata() {
     console.log("@ Extending districts metadata...")   
@@ -30,29 +31,29 @@ module.exports = async function extractDistrictsMetadata() {
         rowData["district_name"] = district["district_name"];
 
         // extract province
-        (() => {
+        {
             const $province = 
                 $("th:contains('Province')").eq(0)
                 
             const province = 
                 $province.parent().find("td").text().trim()
 
-            rowData["province"] = province
-        })();
+            rowData["province"] = normalize(province)
+        }
 
         // extract region
-        (() => {
+        {
             const $region = 
                 $("th:contains('Region')").eq(0)
                 
             const region = 
                 $region.parent().find("td").text().trim()
 
-            rowData["region"] = region
-        })();
+            rowData["region"] = normalize(region)
+        };
 
         // major settlements
-        (() => {
+        {
             const $majorSettlements = 
                 $("th:contains('Major settlements')").eq(0)
                 
@@ -82,15 +83,15 @@ module.exports = async function extractDistrictsMetadata() {
                     return
                 }
                 else {
-                    items[switcher].push(text)
+                    items[switcher].push(normalize(text))
                 }
             })
 
             rowData["major_settlements"] = items
-        })();
+        }
 
         // created
-        (() => {
+        {
             const $region = 
                 $("th:contains('Created')").eq(0)
              
@@ -98,10 +99,10 @@ module.exports = async function extractDistrictsMetadata() {
                 $region.parent().find("td").text().trim()
 
             rowData["created"] = parseInt(region)
-        })();
+        }
 
-      // created
-      (() => {
+        // created
+        {
             const $table = 
                 $("table:contains('Electoral history')").eq(0)
         
@@ -117,13 +118,15 @@ module.exports = async function extractDistrictsMetadata() {
                         /([0-9]{4}–([0-9]{4}|present))/g.exec(lastCol)[1]
                     const items = lastCol.split(matched)
                     let municities = items[1].split(", ")
-                    municities = municities.map(x => x.replaceAll(":", ""))
+                    municities = municities.map(
+                        x => normalize((x.replaceAll(":", ""))
+                    ))
                     history[matched] = municities
                 }
             })
 
             rowData["district_history"] = history
-        })();
+        }
 
         data.push(rowData)
 

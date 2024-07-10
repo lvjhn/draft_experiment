@@ -2,6 +2,7 @@ const cheerio = require("cheerio");
 const fse = require("fs-extra")
 const headerMap = require("_/scripts/helpers/headerMap.js")
 const axios = require("axios")
+const normalize = require("_/scripts/helpers/normalize")
 
 module.exports = async function extractDistrictsMetadata() {
     console.log("@ Extracting cities metadata...")   
@@ -57,8 +58,8 @@ module.exports = async function extractDistrictsMetadata() {
                 let city = $el.text().trim() 
                 let link = $el.find("a").attr("href")
                  
-                rowData["city_name"] = city.trim()
-                rowData["city_link"] = link
+                rowData["city_name"] = normalize(city.trim())
+                rowData["city_link"] = normalize(link)
             }
 
             // process population data 
@@ -89,34 +90,34 @@ module.exports = async function extractDistrictsMetadata() {
             // process region data 
             else if(i == _headerMap["region"]) {
                 let region = $el.text().trim()
-                rowData["region"] = region
+                rowData["region"] = normalize(region)
             }
 
             // process legal class data 
             else if(i == _headerMap["legal_class"]) {
                 let legal_class = $el.text().trim()
-                rowData["legal_class"] = legal_class
+                rowData["legal_class"] = normalize(legal_class)
             }
 
             // process charter data 
             else if(i == _headerMap["charter"]) {
                 let charter = $el.text().trim()
                 charter = charter.replaceAll(/\[.*\]/g, "").trim()
-                rowData["charter"] = charter
+                rowData["charter"] = normalize(charter)
             }
 
             // process approval data 
             else if(i == _headerMap["approval"]) {
                 let approval = $el.text().trim()
                 approval = approval.replaceAll(/\[.*\]/g, "").trim()
-                rowData["approval"] = approval
+                rowData["approval"] = normalize(approval)
             }
 
             // process ratification data 
             else if(i == _headerMap["ratification"]) {
                 let ratification = $el.text().trim()
                 ratification = ratification.replaceAll(/\[.*\]/g, "").trim()
-                rowData["ratification"] = ratification
+                rowData["ratification"] = normalize(ratification)
             }
             
         })

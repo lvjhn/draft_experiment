@@ -2,6 +2,7 @@ const cheerio = require("cheerio");
 const fse = require("fs-extra")
 const headerMap = require("_/scripts/helpers/headerMap.js")
 const axios = require("axios")
+const normalize = require("_/scripts/helpers/normalize")
 
 module.exports = async function extractProvincesMetadata() {
     console.log("@ Extending provinces metadata...")   
@@ -26,58 +27,61 @@ module.exports = async function extractProvincesMetadata() {
         rowData["province_name"] = province["province_name"];
 
         // extract coordinates
-        (() => {
+        {
             const $coordinates = $("span.geo-dms").eq(0)
             const text = $coordinates.text() 
             rowData["coordinates"] = text.trim().split(" ")
-        })();
+        }
 
         // extract region
-        (() => {
+        {
             const $region = 
                 $("th:contains('Region')").eq(0)
                 
             const region = 
                 $region.parent().find("td").text().trim()
 
-            rowData["region"] = region
-        })();
+            rowData["region"] = normalize(region)
+        }
 
         // extract founded date
-        (() => {
+        {
             const $founded = 
                 $("th:contains('Founded')").eq(0)
                 
             const founded = 
                 $founded.parent().find("td").text().trim()
+                    .split(" ").slice(0, 3).join(" ")
+                    .replaceAll(",", "")
+                    .replaceAll(/\[.*\]/g, "")
 
-            rowData["founded"] = founded
-        })();
+            rowData["founded"] = normalize(founded)
+        }
 
         // extract capital
-        (() => {
+        {
             const $capital = 
                 $("th:contains('Capital')").eq(0)
                 
             const capital = 
                 $capital.parent().find("td").text().trim()
 
-            rowData["capital"] = capital
-        })();
+            rowData["capital"] = normalize(capital)
+        }
 
         // largest city
-        (() => {
+        {
             const $largestCity = 
                 $("th:contains('Largest city')").eq(0)
                 
             const largestCity = 
                 $largestCity.parent().find("td").text().trim()
 
-            rowData["largest_city"] = largestCity
-        })();
+            rowData["largest_city"] = normalize(largestCity)
+        }
 
         // extract current governor
-        (() => {
+        {
             const $governor = 
                 $("th:contains('Governor')").eq(0)
                 
@@ -90,11 +94,11 @@ module.exports = async function extractProvincesMetadata() {
             rowData["governor_name"] = 
                 governor_name
             rowData["governor_party"] = 
-                governor_party ? governor_party[1] : null
-        })();
+                governor_party ? normalize(governor_party[1]) : null
+        }
 
         // extract current vice governor
-        (() => {
+        {
             const $viceGovernor = 
                 $("th:contains('Vice Governor')").eq(0)
                 
@@ -107,11 +111,11 @@ module.exports = async function extractProvincesMetadata() {
             rowData["vice_governor_name"] = 
                 viceGovernor_name
             rowData["vice_governor_party"] = 
-                viceGovernor_party ? viceGovernor_party[1] : null
-        })();
+                viceGovernor_party ? normalize(viceGovernor_party[1]) : null
+        }
 
         // extract highest elevation
-        (() => {
+        {
             const $highestElevation = 
                 $("th:contains('Highest')").eq(0)
             
@@ -125,13 +129,12 @@ module.exports = async function extractProvincesMetadata() {
             const peak = 
                 $highestElevation.parent().find("td")
                     .text().split(" ")[0].split(" ")[0]
-                    .replaceAll(",", "")
 
             rowData["highest_peak"] = parseFloat(peak)
-        })();   
+        }
 
-          // extract independent cities counts
-          (() => {
+        // extract independent cities counts
+        {
             const $independentCities = 
                 $("th:contains('Independent')").eq(0)
                 
@@ -140,10 +143,10 @@ module.exports = async function extractProvincesMetadata() {
                     .replaceAll(",", "")
                 
             rowData["independent_cities"] = parseInt(independentCities)
-        })();
+        }
 
         // extract independent cities counts
-        (() => {
+        {
             const $componentCities = 
                 $("th:contains('Component cities')").eq(0)
                 
@@ -153,10 +156,10 @@ module.exports = async function extractProvincesMetadata() {
 
 
             rowData["component_cities"] = parseInt(componentCities)
-        })();
+        }
 
         // extract municipalities counts
-        (() => {
+        {
             const $municipalities = 
                 $("th:contains('Municipalities')").eq(0)
                 
@@ -165,10 +168,10 @@ module.exports = async function extractProvincesMetadata() {
                 .replaceAll(",", "")
 
             rowData["municipalities"] = parseInt(municipalities)
-        })();
+        }
 
         // extract languages
-        (() => {
+        {
             const $languages = 
                 $("th:contains('Spoken'), th:contains('Languages')").eq(0)
             
@@ -191,13 +194,44 @@ module.exports = async function extractProvincesMetadata() {
                 const subitems = []
                 $subitems.each((i, el) => {
                     let text = $(el).text().trim()
-                   
-                    subitems.push(text)
+                    subitems.push(normalize(text))
                 })
                 rowData["languages"][group] = 
                     subitems.length == 0 ? null : subitems
             })
-        })();
+        }
+
+
+        // extract languages
+        {
+            const $languages = 
+                $("th:contains('Spoken'), th:contains('Languages')").eq(0)
+            
+            const $languagesValue = 
+                $languages.parent().find("td")
+            
+            const $languageGroups = 
+                $languagesValue.find("div > ul > li")
+            
+            rowData["languages"] = {}
+
+            $languageGroups.each((j, el) => {
+                const group = $(el).find("> a").eq(0).text().trim() 
+                
+                if(group == "") {
+                    return 
+                }
+
+                const $subitems = $(el).find("> .hlist > ul > li > a") 
+                const subitems = []
+                $subitems.each((i, el) => {
+                    let text = $(el).text().trim()
+                    subitems.push(normalize(text))
+                })
+                rowData["languages"][group] = 
+                    subitems.length == 0 ? null : subitems
+            })
+        }
 
 
         data.push(rowData)

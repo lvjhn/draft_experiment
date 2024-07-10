@@ -4,15 +4,12 @@ const extendProvincesMetadata =
     require("./extend_metadata.provinces");
 const extendDistrictsMetadata = 
     require("./extend_metadata.districts");
-// const extendMunicitiesMetadata = 
-//     require("./extend_metadata.municities");
-// const extendCitiesMetadata = 
-//     require("./extend_metadata.cities");
+const extendMunicitiesMetadata = 
+    require("./extend_metadata.municities");
 
 (async () => {
-    // await extendRegionsMetadata()
-    // await extendProvincesMetadata()
+    await extendRegionsMetadata()
+    await extendProvincesMetadata()
     await extendDistrictsMetadata()
-    // await extendMunicitiesMetadata()
-    // await extendCitiesMetadata()
+    await extendMunicitiesMetadata()
 })()

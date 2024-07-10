@@ -2,6 +2,7 @@ const cheerio = require("cheerio");
 const fse = require("fs-extra")
 const headerMap = require("_/scripts/helpers/headerMap.js")
 const axios = require("axios")
+const normalize = require("_/scripts/helpers/normalize")
 
 module.exports = async function extractRegionsMetadata() {
     console.log("@ Extracting region metadata...")   
@@ -59,9 +60,9 @@ module.exports = async function extractRegionsMetadata() {
                 let name = $el.find("a").text().replaceAll(/\[.*\]/g, "")
                 let link = $el.find("a").attr("href")
                 let abbr = $el.find("span").text().slice(1, -1)
-                rowData["region_name"] = name 
-                rowData["region_link"] = link 
-                rowData["region_id"] = abbr
+                rowData["region_name"] = normalize(name)
+                rowData["region_link"] = normalize(link)
+                rowData["region_id"] = normalize(abbr)
             }
 
             // process psgc 
@@ -73,13 +74,13 @@ module.exports = async function extractRegionsMetadata() {
             // process island group 
             else if(i == _headerMap["island_group"]) {
                 let islandGroup = $el.text().trim()
-                rowData["island_group"] = islandGroup
+                rowData["island_group"] = normalize(islandGroup)
             }
 
             // process regional center 
             else if(i == _headerMap["regional_center"]) {
                 let regionalCenter = $el.text().trim() 
-                rowData["regional_center"] = regionalCenter
+                rowData["regional_center"] = normalize(regionalCenter)
             }
 
             // component local government units 
@@ -90,7 +91,7 @@ module.exports = async function extractRegionsMetadata() {
                 $lgus.each((i, el) => {
                     let lgu = $(el).text().trim() 
                     lgu = lgu.replaceAll(/\[.*\]/g, "")
-                    lgus.push(lgu)
+                    lgus.push(normalize(lgu))
                 })
                 rowData["lgu_count"] = parseInt(nLGUs)
                 rowData["lgus"] = lgus
