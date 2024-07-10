@@ -1,0 +1,2538 @@
+{
+    "headers": [
+        "district",
+        "region",
+        "electorate",
+        "population",
+        "area",
+        "representative",
+        "",
+        "party"
+    ],
+    "rows": [
+        {
+            "province": "Abra",
+            "district": "at-large",
+            "region": "CAR",
+            "electorate": 177058,
+            "population": 250985,
+            "area_km2": 4165,
+            "representative": "Menchie Bernos",
+            "party": "Lakas"
+        },
+        {
+            "province": "Agusan del Norte",
+            "district": "1",
+            "region": "XIII",
+            "electorate": 238541,
+            "population": 403150,
+            "area_km2": 1399,
+            "representative": "Jose Aquino II",
+            "party": "Lakas"
+        },
+        {
+            "province": "Agusan del Norte",
+            "district": "2",
+            "region": "XIII",
+            "electorate": 239118,
+            "population": 357263,
+            "area_km2": 2147,
+            "representative": "Dale Corvera",
+            "party": "Lakas"
+        },
+        {
+            "province": "Agusan del Sur",
+            "district": "1",
+            "region": "XIII",
+            "electorate": 201019,
+            "population": 366004,
+            "area_km2": 4472,
+            "representative": "Alfel Bascug",
+            "party": "NUP"
+        },
+        {
+            "province": "Agusan del Sur",
+            "district": "2",
+            "region": "XIII",
+            "electorate": 222211,
+            "population": 373363,
+            "area_km2": 5516,
+            "representative": "Eddiebong Plaza",
+            "party": "NUP"
+        },
+        {
+            "province": "Aklan",
+            "district": "1",
+            "region": "VI",
+            "electorate": 200459,
+            "population": 313775,
+            "area_km2": 1033,
+            "representative": "Carlito Marquez",
+            "party": "NPC"
+        },
+        {
+            "province": "Aklan",
+            "district": "2",
+            "region": "VI",
+            "electorate": 189901,
+            "population": 301700,
+            "area_km2": 787,
+            "representative": "Teodorico Haresco Jr.",
+            "party": "Nacionalista"
+        },
+        {
+            "province": "Albay",
+            "district": "1",
+            "region": "V",
+            "electorate": 249910,
+            "population": 395907,
+            "area_km2": 547,
+            "representative": "Edcel Lagman",
+            "party": "Liberal"
+        },
+        {
+            "province": "Albay",
+            "district": "2",
+            "region": "V",
+            "electorate": 281679,
+            "population": 477781,
+            "area_km2": 665,
+            "representative": "Joey Salceda",
+            "party": "Lakas"
+        },
+        {
+            "province": "Albay",
+            "district": "3",
+            "region": "V",
+            "electorate": 308911,
+            "population": 501080,
+            "area_km2": 1361,
+            "representative": "Fernando Cabredo",
+            "party": "NUP"
+        },
+        {
+            "province": "Antipolo",
+            "district": "1",
+            "region": "IV-A",
+            "electorate": 224611,
+            "population": 379568,
+            "area_km2": 35,
+            "representative": "Roberto Puno",
+            "party": "NUP"
+        },
+        {
+            "province": "Antipolo",
+            "district": "2",
+            "region": "IV-A",
+            "electorate": 257451,
+            "population": 507831,
+            "area_km2": 258,
+            "representative": "Romeo Acop",
+            "party": "NUP"
+        },
+        {
+            "province": "Antique",
+            "district": "at-large",
+            "region": "VI",
+            "electorate": 371244,
+            "population": 612974,
+            "area_km2": 2729,
+            "representative": "Antonio Legarda Jr.",
+            "party": "NPC"
+        },
+        {
+            "province": "Apayao",
+            "district": "at-large",
+            "region": "CAR",
+            "electorate": 74743,
+            "population": 124366,
+            "area_km2": 4413,
+            "representative": "Eleanor Bulut Begtang",
+            "party": "NPC"
+        },
+        {
+            "province": "Aurora",
+            "district": "at-large",
+            "region": "III",
+            "electorate": 145617,
+            "population": 235750,
+            "area_km2": 3147,
+            "representative": "Rommel T. Angara",
+            "party": "LDP"
+        },
+        {
+            "province": "Bacolod",
+            "district": "at-large",
+            "region": "VI",
+            "electorate": 312816,
+            "population": 600783,
+            "area_km2": 162,
+            "representative": "Greg Gasataya",
+            "party": "NPC"
+        },
+        {
+            "province": "Baguio",
+            "district": "at-large",
+            "region": "CAR",
+            "electorate": 164125,
+            "population": 366358,
+            "area_km2": 57,
+            "representative": "Marquez Go",
+            "party": "Nacionalista"
+        },
+        {
+            "province": "Basilan",
+            "district": "at-large",
+            "region": "BARMM",
+            "electorate": 263017,
+            "population": 556586,
+            "area_km2": 1327,
+            "representative": "Mujiv Hataman",
+            "party": "Basilan Unity Party"
+        },
+        {
+            "province": "Bataan",
+            "district": "1",
+            "region": "III",
+            "electorate": 150127,
+            "population": 229071,
+            "area_km2": 357,
+            "representative": "Geraldine Roman",
+            "party": "Lakas"
+        },
+        {
+            "province": "Bataan",
+            "district": "2",
+            "region": "III",
+            "electorate": 194748,
+            "population": 289455,
+            "area_km2": 318,
+            "representative": "Albert Garcia",
+            "party": "NUP"
+        },
+        {
+            "province": "Bataan",
+            "district": "3",
+            "region": "III",
+            "electorate": 210632,
+            "population": 334847,
+            "area_km2": 696,
+            "representative": "Maria Angela Garcia",
+            "party": "NUP"
+        },
+        {
+            "province": "Batanes",
+            "district": "at-large",
+            "region": "II",
+            "electorate": 12204,
+            "population": 18831,
+            "area_km2": 219,
+            "representative": "Ciriaco Gato Jr.",
+            "party": "NPC"
+        },
+        {
+            "province": "Batangas",
+            "district": "1",
+            "region": "IV-A",
+            "electorate": 378526,
+            "population": 635962,
+            "area_km2": 924,
+            "representative": "Eric Buhain",
+            "party": "Nacionalista"
+        },
+        {
+            "province": "Batangas",
+            "district": "2",
+            "region": "IV-A",
+            "electorate": 193151,
+            "population": 306809,
+            "area_km2": 399,
+            "representative": "Gerville Luistro",
+            "party": "Lakas"
+        },
+        {
+            "province": "Batangas",
+            "district": "3",
+            "region": "IV-A",
+            "electorate": 430588,
+            "population": 768561,
+            "area_km2": 545,
+            "representative": "Maria Theresa Collantes",
+            "party": "NPC"
+        },
+        {
+            "province": "Batangas",
+            "district": "4",
+            "region": "IV-A",
+            "electorate": 291063,
+            "population": 472794,
+            "area_km2": 757,
+            "representative": "Lianda Bolilia",
+            "party": "Nacionalista"
+        },
+        {
+            "province": "Batangas",
+            "district": "5",
+            "region": "IV-A",
+            "electorate": 223258,
+            "population": 351437,
+            "area_km2": 282,
+            "representative": "Mario Vittorio Mariño",
+            "party": "Nacionalista"
+        },
+        {
+            "province": "Batangas",
+            "district": "6",
+            "region": "IV-A",
+            "electorate": 200706,
+            "population": 372931,
+            "area_km2": 209,
+            "representative": "Vacant"
+        },
+        {
+            "province": "Benguet",
+            "district": "at-large",
+            "region": "CAR",
+            "electorate": 227033,
+            "population": 460683,
+            "area_km2": 2769,
+            "representative": "Eric Yap",
+            "party": "United Benguet Party"
+        },
+        {
+            "province": "Biliran",
+            "district": "at-large",
+            "region": "VIII",
+            "electorate": 121755,
+            "population": 179312,
+            "area_km2": 536,
+            "representative": "Gerardo Espina Jr.",
+            "party": "Lakas"
+        },
+        {
+            "province": "Biñan",
+            "district": "at-large",
+            "region": "IV-A",
+            "electorate": 194174,
+            "population": 407437,
+            "area_km2": 43,
+            "representative": "Marlyn Alonte-Naguiat",
+            "party": "Lakas"
+        },
+        {
+            "province": "Bohol",
+            "district": "1",
+            "region": "VII",
+            "electorate": 299640,
+            "population": 470599,
+            "area_km2": 1002,
+            "representative": "Edgar Chatto",
+            "party": "NUP"
+        },
+        {
+            "province": "Bohol",
+            "district": "2",
+            "region": "VII",
+            "electorate": 293141,
+            "population": 471025,
+            "area_km2": 1640,
+            "representative": "Maria Vanessa Aumentado",
+            "party": "Lakas"
+        },
+        {
+            "province": "Bohol",
+            "district": "3",
+            "region": "VII",
+            "electorate": 305901,
+            "population": 452705,
+            "area_km2": 2187,
+            "representative": "Kristine Alexie Besas-Tutor",
+            "party": "Lakas"
+        },
+        {
+            "province": "Bukidnon",
+            "district": "1",
+            "region": "X",
+            "electorate": 192203,
+            "population": 332575,
+            "area_km2": 2681,
+            "representative": "Jose Manuel Alba",
+            "party": "Bukidnon Paglaum"
+        },
+        {
+            "province": "Bukidnon",
+            "district": "2",
+            "region": "X",
+            "electorate": 223518,
+            "population": 409880,
+            "area_km2": 3297,
+            "representative": "Jonathan Keith Flores",
+            "party": "Lakas"
+        },
+        {
+            "province": "Bukidnon",
+            "district": "3",
+            "region": "X",
+            "electorate": 285392,
+            "population": 482016,
+            "area_km2": 3219,
+            "representative": "Jose Maria Zubiri Jr.",
+            "party": "Bukidnon Paglaum"
+        },
+        {
+            "province": "Bukidnon",
+            "district": "4",
+            "region": "X",
+            "electorate": 174521,
+            "population": 316837,
+            "area_km2": 1300,
+            "representative": "Laarni Roque",
+            "party": "Nacionalista"
+        },
+        {
+            "province": "Bulacan",
+            "district": "1",
+            "region": "III",
+            "electorate": 413788,
+            "population": 758872,
+            "area_km2": 385,
+            "representative": "Danny Domingo",
+            "party": "NUP"
+        },
+        {
+            "province": "Bulacan",
+            "district": "2",
+            "region": "III",
+            "electorate": 224922,
+            "population": 360101,
+            "area_km2": 147,
+            "representative": "Augustina Dominique Pancho",
+            "party": "NUP"
+        },
+        {
+            "province": "Bulacan",
+            "district": "3",
+            "region": "III",
+            "electorate": 265734,
+            "population": 419539,
+            "area_km2": 1445,
+            "representative": "Lorna Silverio",
+            "party": "NUP"
+        },
+        {
+            "province": "Bulacan",
+            "district": "4",
+            "region": "III",
+            "electorate": 265701,
+            "population": 540104,
+            "area_km2": 117,
+            "representative": "Linabelle Villarica",
+            "party": "PFP"
+        },
+        {
+            "province": "Bulacan",
+            "district": "5",
+            "region": "III",
+            "electorate": 291581,
+            "population": 486960,
+            "area_km2": 119,
+            "representative": "Ambrosio Cruz",
+            "party": "Lakas"
+        },
+        {
+            "province": "Bulacan",
+            "district": "6",
+            "region": "III",
+            "electorate": 251896,
+            "population": 491501,
+            "area_km2": 462,
+            "representative": "Salvador Pleyto",
+            "party": "Lakas"
+        },
+        {
+            "province": "Cagayan",
+            "district": "1",
+            "region": "II",
+            "electorate": 261650,
+            "population": 459819,
+            "area_km2": 4221,
+            "representative": "Ramon Nolasco Jr.",
+            "party": "NPC"
+        },
+        {
+            "province": "Cagayan",
+            "district": "2",
+            "region": "II",
+            "electorate": 199907,
+            "population": 322634,
+            "area_km2": 2751,
+            "representative": "Aline Vargas Alfonso",
+            "party": "Lakas"
+        },
+        {
+            "province": "Cagayan",
+            "district": "3",
+            "region": "II",
+            "electorate": 273443,
+            "population": 486150,
+            "area_km2": 2322,
+            "representative": "Joseph Lara",
+            "party": "Lakas"
+        },
+        {
+            "province": "Cagayan de Oro",
+            "district": "1",
+            "region": "X",
+            "electorate": 165144,
+            "population": 383945,
+            "area_km2": 377,
+            "representative": "Lordan Suan",
+            "party": "Lakas"
+        },
+        {
+            "province": "Cagayan de Oro",
+            "district": "2",
+            "region": "X",
+            "electorate": 180214,
+            "population": 344457,
+            "area_km2": 123,
+            "representative": "Rufus Rodriguez",
+            "party": "CDP"
+        },
+        {
+            "province": "Calamba",
+            "district": "at-large",
+            "region": "IV-A",
+            "electorate": 310090,
+            "population": 539671,
+            "area_km2": 149,
+            "representative": "Charisse Anne Hernandez",
+            "party": "PDP"
+        },
+        {
+            "province": "Caloocan",
+            "district": "1",
+            "region": "NCR",
+            "electorate": 478335,
+            "population": 952125,
+            "area_km2": 34,
+            "representative": "Oscar Malapitan",
+            "party": "Nacionalista"
+        },
+        {
+            "province": "Caloocan",
+            "district": "2",
+            "region": "NCR",
+            "electorate": 241112,
+            "population": 381690,
+            "area_km2": 8,
+            "representative": "Mary Mitzi Cajayon-Uy",
+            "party": "Lakas"
+        },
+        {
+            "province": "Caloocan",
+            "district": "3",
+            "region": "NCR",
+            "electorate": 124219,
+            "population": 327769,
+            "area_km2": 12,
+            "representative": "Dean Asistio",
+            "party": "Lakas"
+        },
+        {
+            "province": "Camarines Norte",
+            "district": "1",
+            "region": "V",
+            "electorate": 174528,
+            "population": 312910,
+            "area_km2": 1491,
+            "representative": "Josefina Tallado",
+            "party": "PDP"
+        },
+        {
+            "province": "Camarines Norte",
+            "district": "2",
+            "region": "V",
+            "electorate": 176986,
+            "population": 316789,
+            "area_km2": 829,
+            "representative": "Rosemarie Panotes",
+            "party": "Lakas"
+        },
+        {
+            "province": "Camarines Sur",
+            "district": "1",
+            "region": "V",
+            "electorate": 127363,
+            "population": 207496,
+            "area_km2": 1097,
+            "representative": "Tsuyoshi Anthony Horibata",
+            "party": "PDP"
+        },
+        {
+            "province": "Camarines Sur",
+            "district": "2",
+            "region": "V",
+            "electorate": 205986,
+            "population": 343942,
+            "area_km2": 819,
+            "representative": "Luis Raymund Villafuerte",
+            "party": "NUP"
+        },
+        {
+            "province": "Camarines Sur",
+            "district": "3",
+            "region": "V",
+            "electorate": 304431,
+            "population": 554323,
+            "area_km2": 614,
+            "representative": "Gabriel Bordado",
+            "party": "Liberal"
+        },
+        {
+            "province": "Camarines Sur",
+            "district": "4",
+            "region": "V",
+            "electorate": 275070,
+            "population": 462770,
+            "area_km2": 2010,
+            "representative": "Arnulf Bryan Fuentebella",
+            "party": "NPC"
+        },
+        {
+            "province": "Camarines Sur",
+            "district": "5",
+            "region": "V",
+            "electorate": 286759,
+            "population": 499713,
+            "area_km2": 954,
+            "representative": "Miguel Luis Villafuerte",
+            "party": "PDP"
+        },
+        {
+            "province": "Camiguin",
+            "district": "at-large",
+            "region": "X",
+            "electorate": 63756,
+            "population": 92808,
+            "area_km2": 237,
+            "representative": "Jurdin Jesus Romualdo",
+            "party": "Lakas"
+        },
+        {
+            "province": "Capiz",
+            "district": "1",
+            "region": "VI",
+            "electorate": 269589,
+            "population": 440067,
+            "area_km2": 730,
+            "representative": "Emmanuel Billones",
+            "party": "Liberal"
+        },
+        {
+            "province": "Capiz",
+            "district": "2",
+            "region": "VI",
+            "electorate": 243740,
+            "population": 364885,
+            "area_km2": 1864,
+            "representative": "Jane Castro",
+            "party": "Lakas"
+        },
+        {
+            "province": "Catanduanes",
+            "district": "at-large",
+            "region": "V",
+            "electorate": 196405,
+            "population": 271879,
+            "area_km2": 1492,
+            "representative": "Eulogio Rodriguez",
+            "party": "Independent"
+        },
+        {
+            "province": "Cavite",
+            "district": "1",
+            "region": "IV-A",
+            "electorate": 235912,
+            "population": 368468,
+            "area_km2": 88,
+            "representative": "Ramon Jolo Revilla III",
+            "party": "Lakas"
+        },
+        {
+            "province": "Cavite",
+            "district": "2",
+            "region": "IV-A",
+            "electorate": 303084,
+            "population": 664625,
+            "area_km2": 46,
+            "representative": "Lani Mercado",
+            "party": "Lakas"
+        },
+        {
+            "province": "Cavite",
+            "district": "3",
+            "region": "IV-A",
+            "electorate": 215939,
+            "population": 496794,
+            "area_km2": 64,
+            "representative": "Adrian Jay Advincula",
+            "party": "NUP"
+        },
+        {
+            "province": "Cavite",
+            "district": "4",
+            "region": "IV-A",
+            "electorate": 389108,
+            "population": 703141,
+            "area_km2": 90,
+            "representative": "Vacant"
+        },
+        {
+            "province": "Cavite",
+            "district": "5",
+            "region": "IV-A",
+            "electorate": 280805,
+            "population": 574333,
+            "area_km2": 251,
+            "representative": "Roy Loyola",
+            "party": "NPC"
+        },
+        {
+            "province": "Cavite",
+            "district": "6",
+            "region": "IV-A",
+            "electorate": 169045,
+            "population": 450583,
+            "area_km2": 81,
+            "representative": "Antonio Ferrer",
+            "party": "NUP"
+        },
+        {
+            "province": "Cavite",
+            "district": "7",
+            "region": "IV-A",
+            "electorate": 297214,
+            "population": 633219,
+            "area_km2": 246,
+            "representative": "Crispin Diego Remulla",
+            "party": "NUP"
+        },
+        {
+            "province": "Cavite",
+            "district": "8",
+            "region": "IV-A",
+            "electorate": 257792,
+            "population": 453666,
+            "area_km2": 558,
+            "representative": "Aniela Tolentino",
+            "party": "NUP"
+        },
+        {
+            "province": "Cebu",
+            "district": "1",
+            "region": "VII",
+            "electorate": 431872,
+            "population": 809335,
+            "area_km2": 527,
+            "representative": "Rhea Mhae Gullas",
+            "party": "Lakas"
+        },
+        {
+            "province": "Cebu",
+            "district": "2",
+            "region": "VII",
+            "electorate": 161412,
+            "population": 257658,
+            "area_km2": 740,
+            "representative": "Edsel Galeos",
+            "party": "Lakas"
+        },
+        {
+            "province": "Cebu",
+            "district": "3",
+            "region": "VII",
+            "electorate": 369340,
+            "population": 616326,
+            "area_km2": 1258,
+            "representative": "Pablo John Garcia",
+            "party": "NUP"
+        },
+        {
+            "province": "Cebu",
+            "district": "4",
+            "region": "VII",
+            "electorate": 323278,
+            "population": 540814,
+            "area_km2": 740,
+            "representative": "Janice Salimbangon",
+            "party": "NUP"
+        },
+        {
+            "province": "Cebu",
+            "district": "5",
+            "region": "VII",
+            "electorate": 366162,
+            "population": 643946,
+            "area_km2": 877,
+            "representative": "Vincent Franco Frasco",
+            "party": "NUP"
+        },
+        {
+            "province": "Cebu",
+            "district": "6",
+            "region": "VII",
+            "electorate": 350166,
+            "population": 218607,
+            "area_km2": 89,
+            "representative": "Daphne Lagon",
+            "party": "Lakas"
+        },
+        {
+            "province": "Cebu",
+            "district": "7",
+            "region": "VII",
+            "electorate": 156665,
+            "population": 238699,
+            "area_km2": 641,
+            "representative": "Peter John Calderon",
+            "party": "NPC"
+        },
+        {
+            "province": "Cebu City",
+            "district": "1",
+            "region": "VII",
+            "electorate": 325577,
+            "population": 406378,
+            "area_km2": 130,
+            "representative": "Rachel Marguerite del Mar",
+            "party": "NPC"
+        },
+        {
+            "province": "Cebu City",
+            "district": "2",
+            "region": "VII",
+            "electorate": 384031,
+            "population": 557791,
+            "area_km2": 142,
+            "representative": "Eduardo Rama Jr.",
+            "party": "Lakas"
+        },
+        {
+            "province": "Cotabato",
+            "district": "1",
+            "region": "XII",
+            "electorate": 269395,
+            "population": 569265,
+            "area_km2": 2420,
+            "representative": "Joselito Sacdalan",
+            "party": "PDP"
+        },
+        {
+            "province": "Cotabato",
+            "district": "2",
+            "region": "XII",
+            "electorate": 250013,
+            "population": 432405,
+            "area_km2": 3321,
+            "representative": "Rudy Caoagdan",
+            "party": "Nacionalista"
+        },
+        {
+            "province": "Cotabato",
+            "district": "3",
+            "region": "XII",
+            "electorate": 253883,
+            "population": 488948,
+            "area_km2": 3266,
+            "representative": "Maria Alana Samantha Santos",
+            "party": "Lakas"
+        },
+        {
+            "province": "Davao City",
+            "district": "1",
+            "region": "XI",
+            "electorate": 389332,
+            "population": 618729,
+            "area_km2": 1010,
+            "representative": "Paolo Duterte",
+            "party": "HNP"
+        },
+        {
+            "province": "Davao City",
+            "district": "2",
+            "region": "XI",
+            "electorate": 308189,
+            "population": 634158,
+            "area_km2": 830,
+            "representative": "Vincent Garcia",
+            "party": "HNP"
+        },
+        {
+            "province": "Davao City",
+            "district": "3",
+            "region": "XI",
+            "electorate": 287083,
+            "population": 524062,
+            "area_km2": 1298,
+            "representative": "Isidro Ungab",
+            "party": "HNP"
+        },
+        {
+            "province": "Davao de Oro",
+            "district": "1",
+            "region": "XI",
+            "electorate": 210940,
+            "population": 346257,
+            "area_km2": 2069,
+            "representative": "Maricar Zamora",
+            "party": "Lakas"
+        },
+        {
+            "province": "Davao de Oro",
+            "district": "2",
+            "region": "XI",
+            "electorate": 252002,
+            "population": 421290,
+            "area_km2": 2410,
+            "representative": "Ruwel Peter Gonzaga",
+            "party": "PDP"
+        },
+        {
+            "province": "Davao del Norte",
+            "district": "1",
+            "region": "XI",
+            "electorate": 301337,
+            "population": 552642,
+            "area_km2": 2395,
+            "representative": "Pantaleon Alvarez",
+            "party": "Reporma"
+        },
+        {
+            "province": "Davao del Norte",
+            "district": "2",
+            "region": "XI",
+            "electorate": 304306,
+            "population": 572415,
+            "area_km2": 1031,
+            "representative": "Alan Dujali",
+            "party": "HNP"
+        },
+        {
+            "province": "Davao del Sur",
+            "district": "at-large",
+            "region": "XI",
+            "electorate": 425586,
+            "population": 680481,
+            "area_km2": 2163,
+            "representative": "John Tracy Cagas",
+            "party": "Nacionalista"
+        },
+        {
+            "province": "Davao Occidental",
+            "district": "at-large",
+            "region": "XI",
+            "electorate": 182122,
+            "population": 317159,
+            "area_km2": 2163,
+            "representative": "Claude Bautista",
+            "party": "Lakas"
+        },
+        {
+            "province": "Davao Oriental",
+            "district": "1",
+            "region": "XI",
+            "electorate": 145291,
+            "population": 223811,
+            "area_km2": 3209,
+            "representative": "Nelson Dayanghirang",
+            "party": "Nacionalista"
+        },
+        {
+            "province": "Davao Oriental",
+            "district": "2",
+            "region": "XI",
+            "electorate": 220205,
+            "population": 352532,
+            "area_km2": 2469,
+            "representative": "Cheeno Almario",
+            "party": "Lakas"
+        },
+        {
+            "province": "Dinagat Islands",
+            "district": "at-large",
+            "region": "XIII",
+            "electorate": 78795,
+            "population": 128117,
+            "area_km2": 1036,
+            "representative": "Alan Uno Ecleo",
+            "party": "Lakas"
+        },
+        {
+            "province": "Eastern Samar",
+            "district": "at-large",
+            "region": "VIII",
+            "electorate": 338718,
+            "population": 477168,
+            "area_km2": 4660,
+            "representative": "Maria Fe Abunda",
+            "party": "PDP"
+        },
+        {
+            "province": "General Santos",
+            "district": "at-large",
+            "region": "XII",
+            "electorate": 301106,
+            "population": 697315,
+            "area_km2": 492,
+            "representative": "Ton Acharon",
+            "party": "NPC"
+        },
+        {
+            "province": "Guimaras",
+            "district": "at-large",
+            "region": "VI",
+            "electorate": 119538,
+            "population": 187842,
+            "area_km2": 604,
+            "representative": "Ma. Lucille Nava",
+            "party": "PDP"
+        },
+        {
+            "province": "Ifugao",
+            "district": "at-large",
+            "region": "CAR",
+            "electorate": 124289,
+            "population": 207498,
+            "area_km2": 2628,
+            "representative": "Solomon Chungalao",
+            "party": "NPC"
+        },
+        {
+            "province": "Iligan",
+            "district": "at-large",
+            "region": "X",
+            "electorate": 184058,
+            "population": 363115,
+            "area_km2": 813,
+            "representative": "Celso Regencia",
+            "party": "PDP"
+        },
+        {
+            "province": "Ilocos Norte",
+            "district": "1",
+            "region": "I",
+            "electorate": 218493,
+            "population": 313584,
+            "area_km2": 2047,
+            "representative": "Sandro Marcos",
+            "party": "PFP"
+        },
+        {
+            "province": "Ilocos Norte",
+            "district": "2",
+            "region": "I",
+            "electorate": 197740,
+            "population": 296004,
+            "area_km2": 1420,
+            "representative": "Eugenio Angelo Barba",
+            "party": "Nacionalista"
+        },
+        {
+            "province": "Ilocos Sur",
+            "district": "1",
+            "region": "I",
+            "electorate": 190952,
+            "population": 298333,
+            "area_km2": 518,
+            "representative": "Ronald Singson",
+            "party": "NPC"
+        },
+        {
+            "province": "Ilocos Sur",
+            "district": "2",
+            "region": "I",
+            "electorate": 266818,
+            "population": 407676,
+            "area_km2": 2077,
+            "representative": "Kristine Singson-Meehan",
+            "party": "NPC"
+        },
+        {
+            "province": "Iloilo",
+            "district": "1",
+            "region": "VI",
+            "electorate": 220068,
+            "population": 374726,
+            "area_km2": 840,
+            "representative": "Janette Garin",
+            "party": "Lakas"
+        },
+        {
+            "province": "Iloilo",
+            "district": "2",
+            "region": "VI",
+            "electorate": 204119,
+            "population": 346189,
+            "area_km2": 606,
+            "representative": "Michael Gorriceta",
+            "party": "Nacionalista"
+        },
+        {
+            "province": "Iloilo",
+            "district": "3",
+            "region": "VI",
+            "electorate": 260489,
+            "population": 456006,
+            "area_km2": 1405,
+            "representative": "Lorenz Defensor",
+            "party": "NUP"
+        },
+        {
+            "province": "Iloilo",
+            "district": "4",
+            "region": "VI",
+            "electorate": 250384,
+            "population": 402317,
+            "area_km2": 976,
+            "representative": "Ferjenel Biron",
+            "party": "Nacionalista"
+        },
+        {
+            "province": "Iloilo",
+            "district": "5",
+            "region": "VI",
+            "electorate": 295332,
+            "population": 472661,
+            "area_km2": 1171,
+            "representative": "Raul Tupas",
+            "party": "Nacionalista"
+        },
+        {
+            "province": "Iloilo City",
+            "district": "at-large",
+            "region": "VI",
+            "electorate": 294776,
+            "population": 457626,
+            "area_km2": 78,
+            "representative": "Julienne Baronda",
+            "party": "Lakas"
+        },
+        {
+            "province": "Isabela",
+            "district": "1",
+            "region": "II",
+            "electorate": 246572,
+            "population": 399196,
+            "area_km2": 4519,
+            "representative": "Antonio Albano",
+            "party": "Lakas"
+        },
+        {
+            "province": "Isabela",
+            "district": "2",
+            "region": "II",
+            "electorate": 119263,
+            "population": 199903,
+            "area_km2": 2890,
+            "representative": "Ed Christopher Go",
+            "party": "Nacionalista"
+        },
+        {
+            "province": "Isabela",
+            "district": "3",
+            "region": "II",
+            "electorate": 168562,
+            "population": 282027,
+            "area_km2": 686,
+            "representative": "Ian Paul Dy",
+            "party": "Lakas"
+        },
+        {
+            "province": "Isabela",
+            "district": "4",
+            "region": "II",
+            "electorate": 181913,
+            "population": 268602,
+            "area_km2": 1922,
+            "representative": "Joseph Tan",
+            "party": "Lakas"
+        },
+        {
+            "province": "Isabela",
+            "district": "5",
+            "region": "II",
+            "electorate": 167755,
+            "population": 267550,
+            "area_km2": 981,
+            "representative": "Faustino Michael Carlos Dy III",
+            "party": "Lakas"
+        },
+        {
+            "province": "Isabela",
+            "district": "6",
+            "region": "II",
+            "electorate": 166616,
+            "population": 279772,
+            "area_km2": 1414,
+            "representative": "Faustino Dy V",
+            "party": "Lakas"
+        },
+        {
+            "province": "Kalinga",
+            "district": "at-large",
+            "region": "CAR",
+            "electorate": 137658,
+            "population": 229570,
+            "area_km2": 3231,
+            "representative": "Allen Jesse Mangaoang",
+            "party": "Nacionalista"
+        },
+        {
+            "province": "La Union",
+            "district": "1",
+            "region": "I",
+            "electorate": 233923,
+            "population": 376529,
+            "area_km2": 706,
+            "representative": "Paolo Ortega",
+            "party": "NPC"
+        },
+        {
+            "province": "La Union",
+            "district": "2",
+            "region": "I",
+            "electorate": 276786,
+            "population": 445823,
+            "area_km2": 791,
+            "representative": "Dante Garcia",
+            "party": "Lakas"
+        },
+        {
+            "province": "Laguna",
+            "district": "1",
+            "region": "IV-A",
+            "electorate": 399962,
+            "population": 326001,
+            "area_km2": 24,
+            "representative": "Ann Matibag",
+            "party": "Lakas"
+        },
+        {
+            "province": "Laguna",
+            "district": "2",
+            "region": "IV-A",
+            "electorate": 314028,
+            "population": 537865,
+            "area_km2": 140,
+            "representative": "Ruth Mariano-Hernandez",
+            "party": "Lakas"
+        },
+        {
+            "province": "Laguna",
+            "district": "3",
+            "region": "IV-A",
+            "electorate": 319696,
+            "population": 590757,
+            "area_km2": 487,
+            "representative": "Amben Amante",
+            "party": "Lakas"
+        },
+        {
+            "province": "Laguna",
+            "district": "4",
+            "region": "IV-A",
+            "electorate": 365157,
+            "population": 565650,
+            "area_km2": 1017,
+            "representative": "Jam Agarao",
+            "party": "PFP"
+        },
+        {
+            "province": "Lanao del Norte",
+            "district": "1",
+            "region": "X",
+            "electorate": 167566,
+            "population": 321098,
+            "area_km2": 1092,
+            "representative": "Mohamad Khalid Dimaporo",
+            "party": "Lakas"
+        },
+        {
+            "province": "Lanao del Norte",
+            "district": "2",
+            "region": "X",
+            "electorate": 186553,
+            "population": 401804,
+            "area_km2": 2253,
+            "representative": "Aminah Dimaporo",
+            "party": "Lakas"
+        },
+        {
+            "province": "Lanao del Sur",
+            "district": "1",
+            "region": "BARMM",
+            "electorate": 317928,
+            "population": 686512,
+            "area_km2": 7402,
+            "representative": "Zia Adiong",
+            "party": "Lakas"
+        },
+        {
+            "province": "Lanao del Sur",
+            "district": "2",
+            "region": "BARMM",
+            "electorate": 238863,
+            "population": 509006,
+            "area_km2": 6092,
+            "representative": "Yasser Balindong",
+            "party": "Lakas"
+        },
+        {
+            "province": "Lapu-Lapu",
+            "district": "at-large",
+            "region": "VII",
+            "electorate": 214117,
+            "population": 497604,
+            "area_km2": 58,
+            "representative": "Ma. Cynthia Chan",
+            "party": "Lakas"
+        },
+        {
+            "province": "Las Piñas",
+            "district": "at-large",
+            "region": "NCR",
+            "electorate": 328384,
+            "population": 606293,
+            "area_km2": 32,
+            "representative": "Camille Villar",
+            "party": "Nacionalista"
+        },
+        {
+            "province": "Leyte",
+            "district": "1",
+            "region": "VIII",
+            "electorate": 318057,
+            "population": 534120,
+            "area_km2": 988,
+            "representative": "Martin Romualdez",
+            "party": "Lakas"
+        },
+        {
+            "province": "Leyte",
+            "district": "2",
+            "region": "VIII",
+            "electorate": 279400,
+            "population": 417651,
+            "area_km2": 1476,
+            "representative": "Lolita Javier",
+            "party": "Nacionalista"
+        },
+        {
+            "province": "Leyte",
+            "district": "3",
+            "region": "VIII",
+            "electorate": 127704,
+            "population": 179492,
+            "area_km2": 651,
+            "representative": "Anna Veloso Tuazon",
+            "party": "NUP"
+        },
+        {
+            "province": "Leyte",
+            "district": "4",
+            "region": "VIII",
+            "electorate": 309550,
+            "population": 492035,
+            "area_km2": 1450,
+            "representative": "Richard Gomez",
+            "party": "PFP"
+        },
+        {
+            "province": "Leyte",
+            "district": "5",
+            "region": "VIII",
+            "electorate": 258171,
+            "population": 405430,
+            "area_km2": 1947,
+            "representative": "Carl Cari",
+            "party": "Lakas"
+        },
+        {
+            "province": "Maguindanao del Norte",
+            "district": "at-large",
+            "region": "BARMM",
+            "electorate": 418672,
+            "population": 926037,
+            "area_km2": 3988,
+            "representative": "Bai Dimple Mastura",
+            "party": "Lakas"
+        },
+        {
+            "province": "Maguindanao del Sur",
+            "district": "at-large",
+            "region": "BARMM",
+            "electorate": 347825,
+            "population": 741221,
+            "area_km2": 4728,
+            "representative": "Mohamad Tong Paglas",
+            "party": "Nacionalista"
+        },
+        {
+            "province": "Makati",
+            "district": "1",
+            "region": "NCR",
+            "electorate": 211303,
+            "population": 254600,
+            "area_km2": 16,
+            "representative": "Romulo Peña Jr.",
+            "party": "Liberal"
+        },
+        {
+            "province": "Makati",
+            "district": "2",
+            "region": "NCR",
+            "electorate": 241121,
+            "population": 375016,
+            "area_km2": 15,
+            "representative": "Luis Campos Jr.",
+            "party": "NPC"
+        },
+        {
+            "province": "Malabon",
+            "district": "at-large",
+            "region": "NCR",
+            "electorate": 222350,
+            "population": 380522,
+            "area_km2": 15,
+            "representative": "Josephine Veronique Lacson-Noel",
+            "party": "NPC"
+        },
+        {
+            "province": "Mandaluyong",
+            "district": "at-large",
+            "region": "NCR",
+            "electorate": 229470,
+            "population": 425758,
+            "area_km2": 21,
+            "representative": "Neptali Gonzales II",
+            "party": "NUP"
+        },
+        {
+            "province": "Mandaue",
+            "district": "at-large",
+            "region": "VII",
+            "electorate": 226091,
+            "population": 364116,
+            "area_km2": 34,
+            "representative": "Emmarie Ouano-Dizon",
+            "party": "Lakas"
+        },
+        {
+            "province": "Manila",
+            "district": "1",
+            "region": "NCR",
+            "electorate": 238437,
+            "population": 441282,
+            "area_km2": 4,
+            "representative": "Ernix Dionisio",
+            "party": "Lakas"
+        },
+        {
+            "province": "Manila",
+            "district": "2",
+            "region": "NCR",
+            "electorate": 139169,
+            "population": 212938,
+            "area_km2": 4,
+            "representative": "Rolando Valeriano",
+            "party": "NUP"
+        },
+        {
+            "province": "Manila",
+            "district": "3",
+            "region": "NCR",
+            "electorate": 159496,
+            "population": 220029,
+            "area_km2": 6,
+            "representative": "Joel Chua",
+            "party": "Aksyon Demokratiko"
+        },
+        {
+            "province": "Manila",
+            "district": "4",
+            "region": "NCR",
+            "electorate": 162427,
+            "population": 277013,
+            "area_km2": 5,
+            "representative": "Edward Maceda",
+            "party": "NPC"
+        },
+        {
+            "province": "Manila",
+            "district": "5",
+            "region": "NCR",
+            "electorate": 209481,
+            "population": 395065,
+            "area_km2": 11,
+            "representative": "Irwin Tieng",
+            "party": "Lakas"
+        },
+        {
+            "province": "Manila",
+            "district": "6",
+            "region": "NCR",
+            "electorate": 156139,
+            "population": 300186,
+            "area_km2": 7,
+            "representative": "Benny Abante",
+            "party": "NUP"
+        },
+        {
+            "province": "Marikina",
+            "district": "1",
+            "region": "NCR",
+            "electorate": 106706,
+            "population": 174892,
+            "area_km2": 9,
+            "representative": "Maan Teodoro",
+            "party": "UNA"
+        },
+        {
+            "province": "Marikina",
+            "district": "2",
+            "region": "NCR",
+            "electorate": 139395,
+            "population": 281167,
+            "area_km2": 13,
+            "representative": "Stella Quimbo",
+            "party": "Liberal"
+        },
+        {
+            "province": "Marinduque",
+            "district": "at-large",
+            "region": "IV-B",
+            "electorate": 152570,
+            "population": 239207,
+            "area_km2": 952,
+            "representative": "Lord Allan Jay Velasco",
+            "party": "NPC"
+        },
+        {
+            "province": "Masbate",
+            "district": "1",
+            "region": "V",
+            "electorate": 116767,
+            "population": 177651,
+            "area_km2": 814,
+            "representative": "Richard Kho",
+            "party": "Lakas"
+        },
+        {
+            "province": "Masbate",
+            "district": "2",
+            "region": "V",
+            "electorate": 239021,
+            "population": 404366,
+            "area_km2": 2053,
+            "representative": "Ara Kho",
+            "party": "Lakas"
+        },
+        {
+            "province": "Masbate",
+            "district": "3",
+            "region": "V",
+            "electorate": 210791,
+            "population": 326903,
+            "area_km2": 1284,
+            "representative": "Wilton Kho",
+            "party": "Lakas"
+        },
+        {
+            "province": "Misamis Occidental",
+            "district": "1",
+            "region": "X",
+            "electorate": 193312,
+            "population": 276762,
+            "area_km2": 1000,
+            "representative": "Jason Almonte",
+            "party": "PDP"
+        },
+        {
+            "province": "Misamis Occidental",
+            "district": "2",
+            "region": "X",
+            "electorate": 215525,
+            "population": 340571,
+            "area_km2": 1054,
+            "representative": "Ando Oaminal",
+            "party": "Nacionalista"
+        },
+        {
+            "province": "Misamis Oriental",
+            "district": "1",
+            "region": "X",
+            "electorate": 274450,
+            "population": 405763,
+            "area_km2": 1481,
+            "representative": "Christian Unabia",
+            "party": "Lakas"
+        },
+        {
+            "province": "Misamis Oriental",
+            "district": "2",
+            "region": "X",
+            "electorate": 349580,
+            "population": 551137,
+            "area_km2": 1650,
+            "representative": "Yevgeny Vincente Emano",
+            "party": "Padayon Pilipino"
+        },
+        {
+            "province": "Mountain Province",
+            "district": "at-large",
+            "region": "CAR",
+            "electorate": 108512,
+            "population": 158200,
+            "area_km2": 2157,
+            "representative": "Maximo Dalog Jr.",
+            "party": "Nacionalista"
+        },
+        {
+            "province": "Muntinlupa",
+            "district": "at-large",
+            "region": "NCR",
+            "electorate": 341511,
+            "population": 543445,
+            "area_km2": 39,
+            "representative": "Jaime Fresnedi",
+            "party": "Liberal"
+        },
+        {
+            "province": "Navotas",
+            "district": "at-large",
+            "region": "NCR",
+            "electorate": 145806,
+            "population": 247543,
+            "area_km2": 10,
+            "representative": "Toby Tiangco",
+            "party": "Partido Navoteño"
+        },
+        {
+            "province": "Negros Occidental",
+            "district": "1",
+            "region": "VI",
+            "electorate": 249468,
+            "population": 381716,
+            "area_km2": 1436,
+            "representative": "Gerardo Valmayor Jr.",
+            "party": "NPC"
+        },
+        {
+            "province": "Negros Occidental",
+            "district": "2",
+            "region": "VI",
+            "electorate": 206751,
+            "population": 362521,
+            "area_km2": 967,
+            "representative": "Alfredo Thirdy Marañon",
+            "party": "NUP"
+        },
+        {
+            "province": "Negros Occidental",
+            "district": "3",
+            "region": "VI",
+            "electorate": 306831,
+            "population": 482646,
+            "area_km2": 942,
+            "representative": "Jose Francisco Benitez",
+            "party": "PFP"
+        },
+        {
+            "province": "Negros Occidental",
+            "district": "4",
+            "region": "VI",
+            "electorate": 241076,
+            "population": 406666,
+            "area_km2": 750,
+            "representative": "Juliet Marie Ferrer",
+            "party": "NUP"
+        },
+        {
+            "province": "Negros Occidental",
+            "district": "5",
+            "region": "VI",
+            "electorate": 277004,
+            "population": 464026,
+            "area_km2": 1220,
+            "representative": "Dino Yulo",
+            "party": "Independent"
+        },
+        {
+            "province": "Negros Occidental",
+            "district": "6",
+            "region": "VI",
+            "electorate": 295254,
+            "population": 525597,
+            "area_km2": 2485,
+            "representative": "Mercedes Alvarez",
+            "party": "NPC"
+        },
+        {
+            "province": "Negros Oriental",
+            "district": "1",
+            "region": "VII",
+            "electorate": 271566,
+            "population": 445970,
+            "area_km2": 1797,
+            "representative": "Jocelyn Limkaichong",
+            "party": "Liberal"
+        },
+        {
+            "province": "Negros Oriental",
+            "district": "2",
+            "region": "VII",
+            "electorate": 339117,
+            "population": 535632,
+            "area_km2": 1480,
+            "representative": "Manuel Sagarbarria",
+            "party": "NPC"
+        },
+        {
+            "province": "Negros Oriental",
+            "district": "3",
+            "region": "VII",
+            "electorate": 278143,
+            "population": 451388,
+            "area_km2": 2107,
+            "representative": "Vacant"
+        },
+        {
+            "province": "Northern Samar",
+            "district": "1",
+            "region": "VIII",
+            "electorate": 241623,
+            "population": 345791,
+            "area_km2": 1937,
+            "representative": "Paul Daza",
+            "party": "NUP"
+        },
+        {
+            "province": "Northern Samar",
+            "district": "2",
+            "region": "VIII",
+            "electorate": 201201,
+            "population": 293395,
+            "area_km2": 1755,
+            "representative": "Harris Ongchuan",
+            "party": "NUP"
+        },
+        {
+            "province": "Nueva Ecija",
+            "district": "1",
+            "region": "III",
+            "electorate": 358002,
+            "population": 598187,
+            "area_km2": 1027,
+            "representative": "Mika Suansing",
+            "party": "Lakas"
+        },
+        {
+            "province": "Nueva Ecija",
+            "district": "2",
+            "region": "III",
+            "electorate": 310119,
+            "population": 493038,
+            "area_km2": 1897,
+            "representative": "Joseph Gilbert Violago",
+            "party": "NUP"
+        },
+        {
+            "province": "Nueva Ecija",
+            "district": "3",
+            "region": "III",
+            "electorate": 411583,
+            "population": 636728,
+            "area_km2": 1384,
+            "representative": "Rosanna Vergara",
+            "party": "PDP"
+        },
+        {
+            "province": "Nueva Ecija",
+            "district": "4",
+            "region": "III",
+            "electorate": 380746,
+            "population": 582181,
+            "area_km2": 1351,
+            "representative": "Emeng Pascual",
+            "party": "Lakas"
+        },
+        {
+            "province": "Nueva Vizcaya",
+            "district": "at-large",
+            "region": "II",
+            "electorate": 278898,
+            "population": 497432,
+            "area_km2": 3975,
+            "representative": "Luisa Lloren Cuaresma",
+            "party": "Lakas"
+        },
+        {
+            "province": "Occidental Mindoro",
+            "district": "at-large",
+            "region": "IV-B",
+            "electorate": 289953,
+            "population": 525354,
+            "area_km2": 5865,
+            "representative": "Odie Tarriela",
+            "party": "PFP"
+        },
+        {
+            "province": "Oriental Mindoro",
+            "district": "1",
+            "region": "IV-B",
+            "electorate": 282342,
+            "population": 485487,
+            "area_km2": 2015,
+            "representative": "Arnan Panaligan",
+            "party": "Lakas"
+        },
+        {
+            "province": "Oriental Mindoro",
+            "district": "2",
+            "region": "IV-B",
+            "electorate": 231200,
+            "population": 422852,
+            "area_km2": 2223,
+            "representative": "Alfonso Umali Jr.",
+            "party": "Liberal"
+        },
+        {
+            "province": "Palawan",
+            "district": "1",
+            "region": "IV-B",
+            "electorate": 262465,
+            "population": 462089,
+            "area_km2": 7725,
+            "representative": "Vacant"
+        },
+        {
+            "province": "Palawan",
+            "district": "2",
+            "region": "IV-B",
+            "electorate": 236014,
+            "population": 438769,
+            "area_km2": 6116,
+            "representative": "Jose Alvarez",
+            "party": "PDP"
+        },
+        {
+            "province": "Palawan",
+            "district": "3",
+            "region": "IV-B",
+            "electorate": 178706,
+            "population": 345815,
+            "area_km2": 3188,
+            "representative": "Vacant"
+        },
+        {
+            "province": "Pampanga",
+            "district": "1",
+            "region": "III",
+            "electorate": 380959,
+            "population": 880360,
+            "area_km2": 240,
+            "representative": "Carmelo Lazatin II",
+            "party": "PDP"
+        },
+        {
+            "province": "Pampanga",
+            "district": "2",
+            "region": "III",
+            "electorate": 330862,
+            "population": 655973,
+            "area_km2": 815,
+            "representative": "Gloria Macapagal Arroyo",
+            "party": "Lakas"
+        },
+        {
+            "province": "Pampanga",
+            "district": "3",
+            "region": "III",
+            "electorate": 400858,
+            "population": 782547,
+            "area_km2": 431,
+            "representative": "Aurelio Gonzales Jr.",
+            "party": "Independent"
+        },
+        {
+            "province": "Pampanga",
+            "district": "4",
+            "region": "III",
+            "electorate": 347624,
+            "population": 581757,
+            "area_km2": 575,
+            "representative": "Anna Bondoc",
+            "party": "Nacionalista"
+        },
+        {
+            "province": "Pangasinan",
+            "district": "1",
+            "region": "I",
+            "electorate": 278494,
+            "population": 454365,
+            "area_km2": 1758,
+            "representative": "Arthur Celeste",
+            "party": "Nacionalista"
+        },
+        {
+            "province": "Pangasinan",
+            "district": "2",
+            "region": "I",
+            "electorate": 325051,
+            "population": 514041,
+            "area_km2": 1080,
+            "representative": "Mark Cojuangco",
+            "party": "NPC"
+        },
+        {
+            "province": "Pangasinan",
+            "district": "3",
+            "region": "I",
+            "electorate": 406069,
+            "population": 708245,
+            "area_km2": 584,
+            "representative": "Rachel Baby Arenas",
+            "party": "Lakas"
+        },
+        {
+            "province": "Pangasinan",
+            "district": "4",
+            "region": "I",
+            "electorate": 310771,
+            "population": 495311,
+            "area_km2": 274,
+            "representative": "Christopher de Venecia",
+            "party": "Lakas"
+        },
+        {
+            "province": "Pangasinan",
+            "district": "5",
+            "region": "I",
+            "electorate": 324329,
+            "population": 526367,
+            "area_km2": 585,
+            "representative": "Ramon Guico Jr.",
+            "party": "Lakas"
+        },
+        {
+            "province": "Pangasinan",
+            "district": "6",
+            "region": "I",
+            "electorate": 301978,
+            "population": 464861,
+            "area_km2": 1175,
+            "representative": "Len Primicias Agabas",
+            "party": "PFP"
+        },
+        {
+            "province": "Parañaque",
+            "district": "1",
+            "region": "NCR",
+            "electorate": 137525,
+            "population": 265839,
+            "area_km2": 17,
+            "representative": "Edwin Olivarez",
+            "party": "Lakas"
+        },
+        {
+            "province": "Parañaque",
+            "district": "2",
+            "region": "NCR",
+            "electorate": 191399,
+            "population": 424153,
+            "area_km2": 27,
+            "representative": "Gustavo Tambunting",
+            "party": "NUP"
+        },
+        {
+            "province": "Pasay",
+            "district": "at-large",
+            "region": "NCR",
+            "electorate": 285538,
+            "population": 440656,
+            "area_km2": 13,
+            "representative": "Antonino Calixto",
+            "party": "Lakas"
+        },
+        {
+            "province": "Pasig",
+            "district": "at-large",
+            "region": "NCR",
+            "electorate": 440856,
+            "population": 803159,
+            "area_km2": 31,
+            "representative": "Roman Romulo",
+            "party": "Independent"
+        },
+        {
+            "province": "Quezon",
+            "district": "1",
+            "region": "IV-A",
+            "electorate": 320898,
+            "population": 573895,
+            "area_km2": 4178,
+            "representative": "Wilfrido Mark Enverga",
+            "party": "NPC"
+        },
+        {
+            "province": "Quezon",
+            "district": "2",
+            "region": "IV-A",
+            "electorate": 421577,
+            "population": 753343,
+            "area_km2": 825,
+            "representative": "David C. Suarez",
+            "party": "Lakas"
+        },
+        {
+            "province": "Quezon",
+            "district": "3",
+            "region": "IV-A",
+            "electorate": 268105,
+            "population": 446711,
+            "area_km2": 1986,
+            "representative": "Reynante Arrogancia",
+            "party": "NPC"
+        },
+        {
+            "province": "Quezon",
+            "district": "4",
+            "region": "IV-A",
+            "electorate": 273864,
+            "population": 455434,
+            "area_km2": 2079,
+            "representative": "Mike Tan",
+            "party": "NPC"
+        },
+        {
+            "province": "Quezon City",
+            "district": "1",
+            "region": "NCR",
+            "electorate": 204097,
+            "population": 384384,
+            "area_km2": 19,
+            "representative": "Arjo Atayde",
+            "party": "Nacionalista"
+        },
+        {
+            "province": "Quezon City",
+            "district": "2",
+            "region": "NCR",
+            "electorate": 329585,
+            "population": 738328,
+            "area_km2": 26,
+            "representative": "Ralph Tulfo",
+            "party": "PFP"
+        },
+        {
+            "province": "Quezon City",
+            "district": "3",
+            "region": "NCR",
+            "electorate": 150580,
+            "population": 319371,
+            "area_km2": 22,
+            "representative": "Franz Pumaren",
+            "party": "NUP"
+        },
+        {
+            "province": "Quezon City",
+            "district": "4",
+            "region": "NCR",
+            "electorate": 209699,
+            "population": 407402,
+            "area_km2": 22,
+            "representative": "Marvin Rillo",
+            "party": "Lakas"
+        },
+        {
+            "province": "Quezon City",
+            "district": "5",
+            "region": "NCR",
+            "electorate": 246497,
+            "population": 596047,
+            "area_km2": 52,
+            "representative": "PM Vargas",
+            "party": "Lakas"
+        },
+        {
+            "province": "Quezon City",
+            "district": "6",
+            "region": "NCR",
+            "electorate": 189660,
+            "population": 514516,
+            "area_km2": 21,
+            "representative": "Marivic Co-Pilar",
+            "party": "NUP"
+        },
+        {
+            "province": "Quirino",
+            "district": "at-large",
+            "region": "II",
+            "electorate": 117635,
+            "population": 203828,
+            "area_km2": 2323,
+            "representative": "Midy Cua",
+            "party": "Lakas"
+        },
+        {
+            "province": "Rizal",
+            "district": "1",
+            "region": "IV-A",
+            "electorate": 544551,
+            "population": 1207509,
+            "area_km2": 174,
+            "representative": "Michael John Duavit",
+            "party": "NPC"
+        },
+        {
+            "province": "Rizal",
+            "district": "2",
+            "region": "IV-A",
+            "electorate": 278444,
+            "population": 517975,
+            "area_km2": 474,
+            "representative": "Dino Tanjuatco",
+            "party": "Liberal"
+        },
+        {
+            "province": "Rizal",
+            "district": "3",
+            "region": "IV-A",
+            "electorate": 106418,
+            "population": 273306,
+            "area_km2": 55,
+            "representative": "Jose Arturo Garcia Jr.",
+            "party": "NPC"
+        },
+        {
+            "province": "Rizal",
+            "district": "4",
+            "region": "IV-A",
+            "electorate": 209134,
+            "population": 443954,
+            "area_km2": 172,
+            "representative": "Juan Fidel Felipe Nograles",
+            "party": "Lakas"
+        },
+        {
+            "province": "Romblon",
+            "district": "at-large",
+            "region": "IV-B",
+            "electorate": 198078,
+            "population": 308985,
+            "area_km2": 1533,
+            "representative": "Eleandro Jesus Madrona",
+            "party": "Nacionalista"
+        },
+        {
+            "province": "Samar",
+            "district": "1",
+            "region": "VIII",
+            "electorate": 247967,
+            "population": 338230,
+            "area_km2": 2269,
+            "representative": "Jimboy Tan",
+            "party": "Nacionalista"
+        },
+        {
+            "province": "Samar",
+            "district": "2",
+            "region": "VIII",
+            "electorate": 315166,
+            "population": 454953,
+            "area_km2": 3778,
+            "representative": "Reynolds Michael Tan",
+            "party": "Lakas"
+        },
+        {
+            "province": "San Jose del Monte",
+            "district": "at-large",
+            "region": "III",
+            "electorate": 247567,
+            "population": 651813,
+            "area_km2": 105,
+            "representative": "Florida Robes",
+            "party": "PFP"
+        },
+        {
+            "province": "San Juan",
+            "district": "at-large",
+            "region": "NCR",
+            "electorate": 82977,
+            "population": 126347,
+            "area_km2": 5,
+            "representative": "Bel Zamora",
+            "party": "PDP"
+        },
+        {
+            "province": "Santa Rosa",
+            "district": "at-large",
+            "region": "IV-A",
+            "electorate": 213913,
+            "population": 414812,
+            "area_km2": 54,
+            "representative": "Danilo Fernandez",
+            "party": "NUP"
+        },
+        {
+            "province": "Sarangani",
+            "district": "at-large",
+            "region": "XII",
+            "electorate": 345904,
+            "population": 558946,
+            "area_km2": 3601,
+            "representative": "Steve Solon",
+            "party": "Lakas"
+        },
+        {
+            "province": "Siquijor",
+            "district": "at-large",
+            "region": "VII",
+            "electorate": 76225,
+            "population": 103395,
+            "area_km2": 337,
+            "representative": "Jecoy Villa",
+            "party": "PDP"
+        },
+        {
+            "province": "Sorsogon",
+            "district": "1",
+            "region": "V",
+            "electorate": 250659,
+            "population": 441959,
+            "area_km2": 1103,
+            "representative": "Dette Escudero",
+            "party": "NPC"
+        },
+        {
+            "province": "Sorsogon",
+            "district": "2",
+            "region": "V",
+            "electorate": 242457,
+            "population": 386696,
+            "area_km2": 1015,
+            "representative": "Wowo Fortes",
+            "party": "NPC"
+        },
+        {
+            "province": "South Cotabato",
+            "district": "1",
+            "region": "XII",
+            "electorate": 172031,
+            "population": 287082,
+            "area_km2": 147,
+            "representative": "Ed Lumayag",
+            "party": "PFP"
+        },
+        {
+            "province": "South Cotabato",
+            "district": "2",
+            "region": "XII",
+            "electorate": 386922,
+            "population": 688394,
+            "area_km2": 1372,
+            "representative": "Peter Miguel",
+            "party": "PFP"
+        },
+        {
+            "province": "Southern Leyte",
+            "district": "1",
+            "region": "VIII",
+            "electorate": 132114,
+            "population": 201421,
+            "area_km2": 528,
+            "representative": "Luz Mercado",
+            "party": "NUP"
+        },
+        {
+            "province": "Southern Leyte",
+            "district": "2",
+            "region": "VIII",
+            "electorate": 160223,
+            "population": 228152,
+            "area_km2": 1269,
+            "representative": "Christopherson Yap",
+            "party": "Lakas"
+        },
+        {
+            "province": "Sultan Kudarat",
+            "district": "1",
+            "region": "XII",
+            "electorate": 231471,
+            "population": 427963,
+            "area_km2": 2327,
+            "representative": "Princess Rihan Sakaluran",
+            "party": "Lakas"
+        },
+        {
+            "province": "Sultan Kudarat",
+            "district": "2",
+            "region": "XII",
+            "electorate": 220540,
+            "population": 426089,
+            "area_km2": 2971,
+            "representative": "Horacio Suansing Jr.",
+            "party": "NUP"
+        },
+        {
+            "province": "Sulu",
+            "district": "1",
+            "region": "BARMM",
+            "electorate": 215522,
+            "population": 585458,
+            "area_km2": 1101,
+            "representative": "Samier Tan",
+            "party": "Lakas"
+        },
+        {
+            "province": "Sulu",
+            "district": "2",
+            "region": "BARMM",
+            "electorate": 160713,
+            "population": 414650,
+            "area_km2": 989,
+            "representative": "Abdulmunir Arbison Jr.",
+            "party": "Lakas"
+        },
+        {
+            "province": "Surigao del Norte",
+            "district": "1",
+            "region": "XIII",
+            "electorate": 95798,
+            "population": 136092,
+            "area_km2": 622,
+            "representative": "Francisco Jose Matugas II",
+            "party": "Lakas"
+        },
+        {
+            "province": "Surigao del Norte",
+            "district": "2",
+            "region": "XIII",
+            "electorate": 271507,
+            "population": 398544,
+            "area_km2": 1350,
+            "representative": "Ace Barbers",
+            "party": "Nacionalista"
+        },
+        {
+            "province": "Surigao del Sur",
+            "district": "1",
+            "region": "XIII",
+            "electorate": 240674,
+            "population": 369785,
+            "area_km2": 3410,
+            "representative": "Romeo Momo",
+            "party": "Independent"
+        },
+        {
+            "province": "Surigao del Sur",
+            "district": "2",
+            "region": "XIII",
+            "electorate": 172919,
+            "population": 272470,
+            "area_km2": 1522,
+            "representative": "Johnny Pimentel",
+            "party": "PDP"
+        },
+        {
+            "province": "Taguig–Pateros",
+            "district": "1",
+            "region": "NCR",
+            "electorate": 227891,
+            "population": 484906,
+            "area_km2": 20,
+            "representative": "Ading Cruz",
+            "party": "Nacionalista"
+        },
+        {
+            "province": "Taguig–Pateros",
+            "district": "2",
+            "region": "NCR",
+            "electorate": 249644,
+            "population": 467043,
+            "area_km2": 24,
+            "representative": "Pammy Zamora",
+            "party": "Nacionalista"
+        },
+        {
+            "province": "Tarlac",
+            "district": "1",
+            "region": "III",
+            "electorate": 268842,
+            "population": 439800,
+            "area_km2": 960,
+            "representative": "Jaime Cojuangco",
+            "party": "NPC"
+        },
+        {
+            "province": "Tarlac",
+            "district": "2",
+            "region": "III",
+            "electorate": 320259,
+            "population": 590435,
+            "area_km2": 1107,
+            "representative": "Christian Yap",
+            "party": "NPC"
+        },
+        {
+            "province": "Tarlac",
+            "district": "3",
+            "region": "III",
+            "electorate": 249363,
+            "population": 473221,
+            "area_km2": 985,
+            "representative": "Bong Rivera",
+            "party": "NPC"
+        },
+        {
+            "province": "Tawi-Tawi",
+            "district": "at-large",
+            "region": "BARMM",
+            "electorate": 210419,
+            "population": 440276,
+            "area_km2": 1087,
+            "representative": "Dimszar Sali",
+            "party": "NUP"
+        },
+        {
+            "province": "Valenzuela",
+            "district": "1",
+            "region": "NCR",
+            "electorate": 175621,
+            "population": 360894,
+            "area_km2": 25,
+            "representative": "Vacant"
+        },
+        {
+            "province": "Valenzuela",
+            "district": "2",
+            "region": "NCR",
+            "electorate": 202392,
+            "population": 354084,
+            "area_km2": 18,
+            "representative": "Eric Martinez",
+            "party": "PDP"
+        },
+        {
+            "province": "Zambales",
+            "district": "1",
+            "region": "III",
+            "electorate": 247575,
+            "population": 477837,
+            "area_km2": 982,
+            "representative": "Jay Khonghun",
+            "party": "Lakas"
+        },
+        {
+            "province": "Zambales",
+            "district": "2",
+            "region": "III",
+            "electorate": 268149,
+            "population": 432095,
+            "area_km2": 2848,
+            "representative": "Bing Maniquiz",
+            "party": "Lakas"
+        },
+        {
+            "province": "Zamboanga City",
+            "district": "1",
+            "region": "IX",
+            "electorate": 240312,
+            "population": 448390,
+            "area_km2": 211,
+            "representative": "Khymer Adan Olaso",
+            "party": "Adelante Zamboanga Party"
+        },
+        {
+            "province": "Zamboanga City",
+            "district": "2",
+            "region": "IX",
+            "electorate": 227223,
+            "population": 528844,
+            "area_km2": 1203,
+            "representative": "Manuel Jose Dalipe",
+            "party": "Lakas"
+        },
+        {
+            "province": "Zamboanga del Norte",
+            "district": "1",
+            "region": "IX",
+            "electorate": 159710,
+            "population": 231980,
+            "area_km2": 1536,
+            "representative": "Pinpin Uy",
+            "party": "Lakas"
+        },
+        {
+            "province": "Zamboanga del Norte",
+            "district": "2",
+            "region": "IX",
+            "electorate": 265905,
+            "population": 427956,
+            "area_km2": 2018,
+            "representative": "Glona Labadlabad",
+            "party": "Lakas"
+        },
+        {
+            "province": "Zamboanga del Norte",
+            "district": "3",
+            "region": "IX",
+            "electorate": 258458,
+            "population": 387519,
+            "area_km2": 3746,
+            "representative": "Ian Amatong",
+            "party": "Liberal"
+        },
+        {
+            "province": "Zamboanga del Sur",
+            "district": "1",
+            "region": "IX",
+            "electorate": 384126,
+            "population": 630154,
+            "area_km2": 2180,
+            "representative": "Divina Grace Yu",
+            "party": "Lakas"
+        },
+        {
+            "province": "Zamboanga del Sur",
+            "district": "2",
+            "region": "IX",
+            "electorate": 256774,
+            "population": 420514,
+            "area_km2": 2318,
+            "representative": "Victoria Yu",
+            "party": "PDP"
+        },
+        {
+            "province": "Zamboanga Sibugay",
+            "district": "1",
+            "region": "IX",
+            "electorate": 170321,
+            "population": 307161,
+            "area_km2": 1393,
+            "representative": "Wilter Palma",
+            "party": "Lakas"
+        },
+        {
+            "province": "Zamboanga Sibugay",
+            "district": "2",
+            "region": "IX",
+            "electorate": 230204,
+            "population": 362679,
+            "area_km2": 2214,
+            "representative": "Tata Eudela",
+            "party": "Lakas"
+        }
+    ]
+}

@@ -41,7 +41,7 @@
             ],
             "area_km2": 619.57,
             "population": 13,
-            "density_km2": 20
+            "density_km2": 20784
         },
         {
             "location": "N/A",
@@ -61,7 +61,7 @@
                 "Kalinga",
                 "Mountain Province"
             ],
-            "area_km2": 19,
+            "area_km2": 19422.03,
             "population": 1,
             "density_km2": 89
         },
@@ -81,7 +81,7 @@
                 "La Union",
                 "Pangasinan"
             ],
-            "area_km2": 13,
+            "area_km2": 13012.6,
             "population": 5,
             "density_km2": 386
         },
@@ -102,7 +102,7 @@
                 "Quirino",
                 "Santiago"
             ],
-            "area_km2": 28,
+            "area_km2": 28228.83,
             "population": 3,
             "density_km2": 122
         },
@@ -126,7 +126,7 @@
                 "Tarlac",
                 "Zambales"
             ],
-            "area_km2": 22,
+            "area_km2": 22014.63,
             "population": 12,
             "density_km2": 510
         },
@@ -147,7 +147,7 @@
                 "Quezon",
                 "Rizal"
             ],
-            "area_km2": 16,
+            "area_km2": 16873.31,
             "population": 16,
             "density_km2": 854
         },
@@ -168,7 +168,7 @@
                 "Puerto Princesa",
                 "Romblon"
             ],
-            "area_km2": 29,
+            "area_km2": 29620.9,
             "population": 3,
             "density_km2": 100
         },
@@ -190,7 +190,7 @@
                 "Naga",
                 "Sorsogon"
             ],
-            "area_km2": 18,
+            "area_km2": 18155.82,
             "population": 6,
             "density_km2": 319
         },
@@ -211,7 +211,7 @@
                 "Iloilo",
                 "Iloilo City"
             ],
-            "area_km2": 12,
+            "area_km2": 12750.63,
             "population": 4,
             "density_km2": 371
         },
@@ -230,7 +230,7 @@
                 "Negros Oriental",
                 "Siquijor"
             ],
-            "area_km2": 13,
+            "area_km2": 13646.5,
             "population": 4,
             "density_km2": 301
         },
@@ -250,7 +250,7 @@
                 "Lapu-Lapu",
                 "Mandaue"
             ],
-            "area_km2": 15,
+            "area_km2": 15487.69,
             "population": 8,
             "density_km2": 478
         },
@@ -273,7 +273,7 @@
                 "Southern Leyte",
                 "Tacloban"
             ],
-            "area_km2": 23,
+            "area_km2": 23251.1,
             "population": 4,
             "density_km2": 191
         },
@@ -293,7 +293,7 @@
                 "Zamboanga del Sur",
                 "Zamboanga Sibugay"
             ],
-            "area_km2": 17,
+            "area_km2": 17056.73,
             "population": 3,
             "density_km2": 213
         },
@@ -315,7 +315,7 @@
                 "Misamis Occidental",
                 "Misamis Oriental"
             ],
-            "area_km2": 20,
+            "area_km2": 20496.02,
             "population": 5,
             "density_km2": 229
         },
@@ -336,7 +336,7 @@
                 "Davao Occidental",
                 "Davao Oriental"
             ],
-            "area_km2": 20,
+            "area_km2": 20357.42,
             "population": 5,
             "density_km2": 245
         },
@@ -356,7 +356,7 @@
                 "South Cotabato",
                 "Sultan Kudarat"
             ],
-            "area_km2": 22,
+            "area_km2": 22513.3,
             "population": 4,
             "density_km2": 202
         },
@@ -377,7 +377,7 @@
                 "Surigao del Norte",
                 "Surigao del Sur"
             ],
-            "area_km2": 21,
+            "area_km2": 21478.35,
             "population": 2,
             "density_km2": 121
         },
@@ -400,7 +400,7 @@
                 "Tawi-Tawi",
                 "63 barangays in Cotabato"
             ],
-            "area_km2": 12,
+            "area_km2": 12535.79,
             "population": 4,
             "density_km2": 302
         }
