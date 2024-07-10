@@ -166,8 +166,26 @@ module.exports = async function extractRegionsMetadata() {
             
             const gdpValue = 
                 /<\/a>(.*)<br>/g.exec(gdp)
+            
+            let gdpFixed = 0
 
-            rowData["gdp"] = gdpValue ? gdpValue[1] : null
+            if(gdpValue) {
+                let tokens = gdpValue[1].split(" ") 
+                let leading = tokens[0]
+                let tail = tokens[1]
+                gdpFixed = parseFloat(leading)
+                if(tail == "million") {
+                    gdpFixed = gdpFixed * 1e6
+                }
+                else if(tail == "billion") {
+                    gdpFixed = gdpFixed * 1e9
+                }
+                else if(tail == "trillion") {
+                    gdpFixed = gdpFixed * 1e12
+                }
+            }
+
+            rowData["gdp"] = gdpValue ? gdpFixed : null
         })();
 
         // extract growth rate

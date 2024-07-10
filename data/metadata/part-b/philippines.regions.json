@@ -52,7 +52,7 @@
             "Filipino": null,
             "English": null
         },
-        "gdp": "410.56 billion",
+        "gdp": 410560000000,
         "growth_rate_2019": 0.069,
         "hdi_value_2019": 0.777,
         "hdi_level_2019": "High",
@@ -85,7 +85,7 @@
             "English": null,
             "Filipino": null
         },
-        "gdp": "814.29 billion",
+        "gdp": 814290000000,
         "growth_rate_2019": 0.071,
         "hdi_value_2019": 0.743,
         "hdi_level_2019": "High",
@@ -117,7 +117,7 @@
             "Tagalog": null,
             "English": null
         },
-        "gdp": "510.83 billion",
+        "gdp": 510830000000,
         "growth_rate_2019": 0.062,
         "hdi_value_2019": 0.709,
         "hdi_level_2019": "High",
@@ -146,7 +146,7 @@
             "Sambal": null,
             "English": null
         },
-        "gdp": "2.65 trillion",
+        "gdp": 2650000000000,
         "growth_rate_2019": 0.061,
         "hdi_value_2019": 0.765,
         "hdi_level_2019": "High",
@@ -171,7 +171,7 @@
             "Tagalog": null,
             "English": null
         },
-        "gdp": "3.44&nbsp;trillion",
+        "gdp": 3.44,
         "growth_rate_2019": 0.052000000000000005,
         "hdi_value_2019": 0.795,
         "hdi_level_2019": "High",
@@ -201,7 +201,7 @@
             "Hiligaynon": null,
             "English": null
         },
-        "gdp": "472 billion",
+        "gdp": 472000000000,
         "growth_rate_2019": 0.047,
         "hdi_value_2019": 0.673,
         "hdi_level_2019": "Medium",
@@ -246,7 +246,7 @@
             "Tagalog": null,
             "English": null
         },
-        "gdp": "701.72 billion",
+        "gdp": 701720000000,
         "growth_rate_2019": 0.0458,
         "hdi_value_2019": 0.687,
         "hdi_level_2019": "Medium",
@@ -275,7 +275,7 @@
             "Tagalog": null,
             "English": null
         },
-        "gdp": "620.79 billion",
+        "gdp": 620790000000,
         "growth_rate_2019": null,
         "hdi_value_2019": 0.761,
         "hdi_level_2019": "High",
@@ -301,7 +301,7 @@
             "Tagalog": null,
             "English": null
         },
-        "gdp": "557.68 billion",
+        "gdp": 557680000000,
         "growth_rate_2019": null,
         "hdi_value_2019": null,
         "hdi_level_2019": null,
@@ -330,7 +330,7 @@
             "Tagalog": null,
             "English": null
         },
-        "gdp": "1.20 trillion",
+        "gdp": 1200000000000,
         "growth_rate_2019": 0.073,
         "hdi_value_2019": 0.704,
         "hdi_level_2019": "High",
@@ -359,7 +359,7 @@
             "Tagalog": null,
             "English": null
         },
-        "gdp": "568.7 billion",
+        "gdp": 568700000000,
         "growth_rate_2019": 0.064,
         "hdi_value_2019": 0.697,
         "hdi_level_2019": "Medium",
@@ -391,7 +391,7 @@
             "Yakan": null,
             "English": null
         },
-        "gdp": "531.7 billion",
+        "gdp": 531700000000.00006,
         "growth_rate_2019": 0.045899999999999996,
         "hdi_value_2019": 0.665,
         "hdi_level_2019": "Medium",
@@ -428,7 +428,7 @@
             "Tagalog": null,
             "English": null
         },
-        "gdp": "984.8 billion",
+        "gdp": 984800000000,
         "growth_rate_2019": 0.053,
         "hdi_value_2019": 0.694,
         "hdi_level_2019": "Medium",
@@ -464,7 +464,7 @@
             "Filipino": null,
             "English": null
         },
-        "gdp": "1.018 trillion",
+        "gdp": 1018000000000,
         "growth_rate_2019": 0.067,
         "hdi_value_2019": 0.697,
         "hdi_level_2019": "Medium",
@@ -503,7 +503,7 @@
             "Tagalog": null,
             "English": null
         },
-        "gdp": "620.38 billion",
+        "gdp": 620380000000,
         "growth_rate_2019": 0.035,
         "hdi_value_2019": 0.685,
         "hdi_level_2019": "Medium",
@@ -533,7 +533,7 @@
             "Tagalog": null,
             "English": null
         },
-        "gdp": "406.45 billion",
+        "gdp": 406450000000,
         "growth_rate_2019": 0.0487,
         "hdi_value_2019": 0.698,
         "hdi_level_2019": "Medium",
@@ -570,7 +570,7 @@
             "Chavacano": null,
             "Cebuano": null
         },
-        "gdp": "363.69 billion",
+        "gdp": 363690000000,
         "growth_rate_2019": 0.043,
         "hdi_value_2019": 0.646,
         "hdi_level_2019": "Medium",
