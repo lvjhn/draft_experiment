@@ -131,7 +131,7 @@ module.exports = async function extractRegionsMetadata() {
     // merge data
     const data = { headers, rows }
 
-    console.log(`\tThe are ${rows.length} regions.`)
+    console.log(`\tThere are ${rows.length} regions.`)
 
     // write data 
     const stringified = JSON.stringify(data, null, 4) 

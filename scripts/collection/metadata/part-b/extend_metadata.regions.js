@@ -244,7 +244,7 @@ module.exports = async function extractRegionsMetadata() {
         data.push(rowData)
     }
 
-    console.log(`\tThe are ${data.length} regions.`)
+    console.log(`\tThere are ${data.length} regions.`)
 
     // write data 
     const stringified = JSON.stringify(data, null, 4) 

@@ -263,7 +263,7 @@ module.exports = async function extractMunicitiesMetadata() {
         }
 
         // lowest elevation
-        (
+        {
             const $lowestElevation = 
                 $("th:contains('Lowest')")
                     .filter((i, el) => $(el).text().indexOf("elevation") != -1)
@@ -379,7 +379,7 @@ module.exports = async function extractMunicitiesMetadata() {
         i += 1
     }
 
-    console.log(`\tThe are ${data.length} municities.`)
+    console.log(`\tThere are ${data.length} municities.`)
 
     // write data 
     const stringified = JSON.stringify(data, null, 4) 

@@ -233,11 +233,10 @@ module.exports = async function extractProvincesMetadata() {
             })
         }
 
-
         data.push(rowData)
     }
 
-    console.log(`\tThe are ${data.length} provinces.`)
+    console.log(`\tThere are ${data.length} provinces.`)
 
     // write data 
     const stringified = JSON.stringify(data, null, 4) 

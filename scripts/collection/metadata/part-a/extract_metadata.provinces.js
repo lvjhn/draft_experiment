@@ -149,7 +149,7 @@ module.exports = async function extractProvincesMetadata() {
     // merge data
     const data = { headers, rows }
 
-    console.log(`\tThe are ${rows.length} provinces.`)
+    console.log(`\tThere are ${rows.length} provinces.`)
 
     // write data 
     const stringified = JSON.stringify(data, null, 4) 

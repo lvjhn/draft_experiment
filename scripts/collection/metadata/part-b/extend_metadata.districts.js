@@ -130,14 +130,10 @@ module.exports = async function extractDistrictsMetadata() {
 
         data.push(rowData)
 
-        // if(i > 5) {
-        //     break
-        // }
-
         i += 1
     }
 
-    console.log(`\tThe are ${data.length} districts.`)
+    console.log(`\tThere are ${data.length} districts.`)
 
     // write data 
     const stringified = JSON.stringify(data, null, 4) 
