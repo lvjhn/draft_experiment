@@ -1,5 +1,9 @@
-const extractRegionsMetadata = require("./extract_metadata.region");
+const extractRegionsMetadata = 
+    require("./extract_metadata.regions");
+const extractProvincesMetadata =
+    require("./extract_metadata.provinces");
 
 (async () => {
-    await extractRegionsMetadata()
+    // await extractRegionsMetadata()
+    await extractProvincesMetadata()
 })()

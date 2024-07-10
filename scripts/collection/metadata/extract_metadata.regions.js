@@ -35,16 +35,15 @@ module.exports = async function extractRegionsMetadata() {
     const rows = []
     $values.each((i, el) => {
         let $items = $(el).find("th, td") 
-        
+        let rowData = {} 
+
         // skip notes
         if($(el).attr("class") == "sortbottom") {
             return
         }
-
-        // extract values 
-        const row = []
         $items.each((i, el) => {
-            let rowData = {} 
+
+            // extract values 
             let $el = $(el)
             
             // process location data 
@@ -65,7 +64,7 @@ module.exports = async function extractRegionsMetadata() {
             // process psgc 
             else if(i == _headerMap["psgc"]) {
                 let psgc = $el.text().trim()
-                rowData["psgc"] = psgc
+                rowData["psgc"] = parseInt(psgc)
             }
 
             // process island group 
@@ -90,7 +89,7 @@ module.exports = async function extractRegionsMetadata() {
                     lgu = lgu.replaceAll(/\[.*\]/g, "")
                     lgus.push(lgu)
                 })
-                rowData["lgu_count"] = nLGUs 
+                rowData["lgu_count"] = parseInt(nLGUs)
                 rowData["lgus"] = lgus
             }
 
@@ -99,15 +98,15 @@ module.exports = async function extractRegionsMetadata() {
                 let area = $el.html().split("<sup>")[0]
                 area = area.split("</span>")[1]
                 area = area.replaceAll("&nbsp;km", "") 
-                area = area.replaceAll(",", "_")
-                rowData["area_km2"] = area
+                area = area.replaceAll(",", "")
+                rowData["area_km2"] = parseFloat(area)
             }
 
             // population 
             else if(i == _headerMap["population"]) {
                 let population = $el.html().split("<br>")[0]
                 population = population.trim().replaceAll(",", "_")
-                rowData["population"] = population
+                rowData["population"] = parseInt(population)
             }
 
             // density 
@@ -115,15 +114,24 @@ module.exports = async function extractRegionsMetadata() {
                 let density = $el.html().split("<sup>")[0]
                 density = density.split("</span>")[1]
                 density = density.replaceAll("/km", "") 
-                density = density.replaceAll(",", "_")
-                rowData["density_km2"] = density
+                density = density.replaceAll(",", "")
+                rowData["density_km2"] = parseFloat(density)
             }
  
-            row.push(rowData)
         })
 
-        rows.push(row)
+        rows.push(rowData)
     })
+    
 
-    console.log(rows)
+    // merge data
+    const data = { headers, rows }
+
+    // write data 
+    const stringified = JSON.stringify(data, null, 4) 
+    await fse.writeFile(
+        "./data/metadata/raw-json/philippines.regions.json",
+        stringified
+    )
+    
 }
