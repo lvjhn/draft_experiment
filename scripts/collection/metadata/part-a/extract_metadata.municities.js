@@ -94,6 +94,10 @@ module.exports = async function extractMunicipalityMetadata() {
       
         })
 
+        rowData["id"] = 
+            rowData["province_name"].replaceAll(" ", "_") + "." +
+            rowData["municity_name"].replaceAll(" ", "_")
+
         rows.push(rowData)
     })
     

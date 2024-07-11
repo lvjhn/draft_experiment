@@ -374,6 +374,55 @@ module.exports = async function extractMunicitiesMetadata() {
                         null
         }
 
+        // extract PSGC
+        {
+            const $psgc = 
+                $("th:contains('PSGC')").eq(0)
+                
+            const psgc = 
+                $psgc.parent().find("td").text().trim()
+
+            rowData["PSGC"] = normalize(psgc)
+        }
+
+        // extract electricity
+        {
+            const $electricity = 
+                $("th:contains('Electricity')").eq(0)
+                
+            const electricity = 
+                $electricity.parent().find("td").text().trim()
+
+            rowData["electricity"] = normalize(electricity)
+        }
+
+        // extract zip-code
+        {
+            const $zipCode = 
+                $("th:contains('Zip code')").eq(0)
+                
+            const zipCode = 
+                $zipCode.parent().find("td").text().trim()
+
+            rowData["zip_code"] = normalize(zipCode)
+        }
+
+        // extract website
+        {
+            const $website = 
+                $("th:contains('Website')").eq(0)
+                
+            const website = 
+                $website.parent().find("td").text().trim()
+
+            rowData["website"] = normalize(website)
+        }
+
+
+        rowData["id"] = 
+            rowData["province_name"].replaceAll(" ", "_") + "." +
+            rowData["municity_name"].replaceAll(" ", "_")
+            
         data.push(rowData)
 
         i += 1

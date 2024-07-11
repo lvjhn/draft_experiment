@@ -32,11 +32,17 @@
     * **Barangay Level** - barangay-level borders
         - **Not Included** - Future Recommendation 
 
+1. **Barangay-level Geometries/Polygons**
+    * **Usage**: The 2023 (Hi-Res) version of the GeoJSON files was used and was downloaded using 
+      https://download-directory.github.io/
+    * **Source**: https://github.com/faeldon/philippines-json-maps/tree/master
+
+
 1. **List/Outline of Barangays (2016, 2017, and 2019)** 
     * **Source**: https://github.com/flores-jacob/philippine-regions-provinces-cities-municipalities-barangays
     * **License**: MIT
 
-1. **Metadata (Part A) Arti     cles** 
+1. **Metadata (Part A) Articles** 
     - These articles are used to find locations and relevant information or
       articles about them. 
     - Involved Articles : 
@@ -48,6 +54,8 @@
             - https://en.wikipedia.org/wiki/Congressional_districts_of_the_Philippines
         - **List of Municipalities/Cities in the Philippines** 
             - https://en.wikipedia.org/wiki/List_of_cities_and_municipalities_in_the_Philippines
+
+
 
 
 ## Scripts 
@@ -85,11 +93,11 @@
     * Then, execute`node scripts/collection/articles/extend_metadata.js`. 
     * Verify the outputs at `./data/metadata/part-b/` folder. 
 
-#### Map Preprocessing
+#### Map Preprocessing (SVG-based Map)
 1. **Extract Raw Paths from Map**
-    * Then, execute `node scripts/collection/maps/extract_info.js`. 
-    * Verify the outputs at `./data/maps/raw/paths` folder. 
+    * Then, execute `node scripts/collection/maps/svg/extract_info.js`. 
+    * Verify the outputs at `./data/maps/raw/paths/` folder. 
 
 1. **Extract Polygons from Paths**
-    * Then, execute `python3 scripts/collection/maps/extract_polygons.py`. 
-    * Verify the outputs at `./data/maps/polygons/` folder. 
+    * Then, execute `python3 -m scripts.collection.maps.svg.extract_polygons.py`. 
+    * Verify the outputs at `./data/maps/polygons/svg/` folder. 

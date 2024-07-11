@@ -240,6 +240,18 @@ module.exports = async function extractRegionsMetadata() {
             rowData["hdi_rank"] = 
                 hdiRankValue ? parseInt(hdiRankValue[1]) : null
         }
+
+        // extract website
+        {
+            const $website = 
+                $("th:contains('Website')").eq(0)
+                
+            const website = 
+                $website.parent().find("td").text().trim()
+
+            rowData["website"] = normalize(website)
+        }
+
         
         data.push(rowData)
     }

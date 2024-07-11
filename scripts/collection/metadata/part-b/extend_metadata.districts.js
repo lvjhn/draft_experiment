@@ -38,7 +38,7 @@ module.exports = async function extractDistrictsMetadata() {
             const province = 
                 $province.parent().find("td").text().trim()
 
-            rowData["province"] = normalize(province)
+            rowData["province_name"] = normalize(province)
         }
 
         // extract region
@@ -49,7 +49,7 @@ module.exports = async function extractDistrictsMetadata() {
             const region = 
                 $region.parent().find("td").text().trim()
 
-            rowData["region"] = normalize(region)
+            rowData["region_name"] = normalize(region)
         };
 
         // major settlements
@@ -127,6 +127,18 @@ module.exports = async function extractDistrictsMetadata() {
 
             rowData["district_history"] = history
         }
+
+        // extract website
+        {
+            const $website = 
+                $("th:contains('Website')").eq(0)
+                
+            const website = 
+                $website.parent().find("td").text().trim()
+
+            rowData["website"] = normalize(website)
+        }
+
 
         data.push(rowData)
 

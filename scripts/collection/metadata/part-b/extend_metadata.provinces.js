@@ -233,6 +233,17 @@ module.exports = async function extractProvincesMetadata() {
             })
         }
 
+         // extract website
+         {
+            const $website = 
+                $("th:contains('Website')").eq(0)
+                
+            const website = 
+                $website.parent().find("td").text().trim()
+
+            rowData["website"] = normalize(website)
+        }
+
         data.push(rowData)
     }
 
